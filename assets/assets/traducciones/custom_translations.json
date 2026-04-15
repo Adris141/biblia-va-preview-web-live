@@ -1,0 +1,39 @@
+{
+  "translations": [
+    {
+      "abbr": "RV1865",
+      "name": "Reina Valera 1865",
+      "label": "RV1865",
+      "lang": "es",
+      "folder": "RV1865"
+    },
+    {
+      "abbr": "VBL-L",
+      "name": "Version Biblia Libre (local)",
+      "label": "VBL-L",
+      "lang": "es",
+      "folder": "VBL"
+    },
+    {
+      "abbr": "BLL",
+      "name": "Santa Biblia libre Latinoamericano",
+      "label": "BLL",
+      "lang": "es",
+      "folder": "BLL"
+    },
+    {
+      "abbr": "SEV",
+      "name": "Sagradas Escrituras 1569",
+      "label": "SEV",
+      "lang": "es",
+      "folder": "SEV"
+    },
+    {
+      "abbr": "BDO1569",
+      "name": "Biblia del Oso 1569",
+      "label": "BDO1569",
+      "lang": "es",
+      "folder": "BDO1569"
+    }
+  ]
+}

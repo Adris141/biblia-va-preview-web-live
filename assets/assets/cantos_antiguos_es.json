@@ -1,0 +1,627 @@
+[
+    {
+        "number": 1,
+        "title": "ABRE TU OÍDO",
+        "theme": null,
+        "lyrics": [
+            {
+                "text": "Abre tu oído, tu sentido espiritual,\nGuarda sus consejos en tu corazón;\nApercíbete al encantador,\nY de Cristo tendrás tu galardón.",
+                "type": "estrofa",
+                "number": 1
+            },
+            {
+                "text": "Nunca olvidemos que hay un mensajero,\nQue inunda la Tierra, de esta gran salud;\nVive en nuestra mente su enseñanza siempre,\nSus consejos sabios, consejos de Dios.",
+                "type": "coro",
+                "number": 1
+            },
+            {
+                "text": "Yo soy la vid verdadera,\nMi Padre es el labrador;\nTodo pámpano que en mí no lleva fruto,\nSerá cortado.\nGuardaremos su palabra,\nNos sujetaremos a su voz.",
+                "type": "estrofa",
+                "number": 2
+            },
+            {
+                "text": "Tiene doctrina del cielo, predicada con poder,\nCon la autoridad que Dios le ha concedido;\nÉl ha puesto el fundamento,\nDe la iglesia del Señor.",
+                "type": "estrofa",
+                "number": 3
+            }
+        ]
+    },
+    {
+        "number": 2,
+        "title": "ALABAD A DIOS",
+        "theme": null,
+        "lyrics": [
+            {
+                "text": "///Alabad/// a Dios en su santuario;\n///Alabad/// a Dios en su santuario; ///Alabad///\nA Dios, alabad a Dios,\n//Alabad a Dios en su santuario// ///Alabadle///\nPor sus proezas, alabadle conforme\nA la muchedumbre de su grandeza.",
+                "type": "estrofa",
+                "number": 1
+            },
+            {
+                "text": "//////Alabadle////// a son de bocina;\n////Alabadle//// con salterio y arpa.",
+                "type": "estrofa",
+                "number": 2
+            },
+            {
+                "text": "//////Alabadle////// con adufe y flauta;\n///////Alabadle/////// con cuerdas y órgano,\n///////Alabadle/////// con címbalos resonantes;\n////Alabadle//// con címbalos de júbilo.\n///Todo lo que respira alabe a Dios/// ////Aleluya////",
+                "type": "estrofa",
+                "number": 3
+            }
+        ]
+    },
+    {
+        "number": 3,
+        "title": "ALELUYA PREZ Y LOOR",
+        "theme": null,
+        "lyrics": [
+            {
+                "text": "////Aleluya//// Prez y loor,\n////Aleluya//// Prez y loor",
+                "type": "estrofa",
+                "number": 1
+            },
+            {
+                "text": "///Prez y loor, Aleluya///\nPrez y loor.",
+                "type": "coro",
+                "number": 1
+            },
+            {
+                "text": "//El Cordero que fue inmolado,\nEs digno de Prez y loor//",
+                "type": "estrofa",
+                "number": 2
+            },
+            {
+                "text": "//Al anciano que está en el trono,\nDe gloria,\nPrez y loor//",
+                "type": "estrofa",
+                "number": 3
+            },
+            {
+                "text": "//Al Espíritu Santo que está\nEntre nosotros:\nPrez y loor//",
+                "type": "estrofa",
+                "number": 4
+            },
+            {
+                "text": "//Estos tres testimonios\nConcuerdan en uno:\nEs Cristo Jesús//",
+                "type": "estrofa",
+                "number": 5
+            }
+        ]
+    },
+    {
+        "number": 4,
+        "title": "BELLAS SON PADRE AARÓN",
+        "theme": null,
+        "lyrics": [
+            {
+                "text": "Bellas son padre Aarón, tus palabras de vida,\nTraen salud y razón y grande alegría;\nTu misión fue salvar y curar el alma herida,\nTuyo soy ¡ven, sálvanos Señor!",
+                "type": "estrofa",
+                "number": 1
+            },
+            {
+                "text": "Un martes seis de abril, su nombre le cambió\nNombre de bendición para mi salvación;\nFue firme en su camino, mil pruebas soportó,\nHoy vive en nuestra mente ¡su amor y su bondad!",
+                "type": "estrofa",
+                "number": 2
+            },
+            {
+                "text": "¡Hosanna en las alturas! Clamaban a una voz,\nDos hombres en desgracia, vistos en Jericó,\nJesús los ha curado y su perdón les dio,\nSe fueron las tinieblas, ¡resplandeció la luz!",
+                "type": "estrofa",
+                "number": 3
+            },
+            {
+                "text": "Con palmas en sus manos, el pueblo le aclamó,\nMontado en un pollino, virtudes impartió;\nLos viejos y los niños, los jóvenes también,\nSiguiéndole decían:¡bendito seas mi Rey!",
+                "type": "estrofa",
+                "number": 4
+            }
+        ]
+    },
+    {
+        "number": 5,
+        "title": "BIENVENIDO SEAS",
+        "theme": null,
+        "lyrics": [
+            {
+                "text": "Bienvenido seas, oh hermano,\nDe la guerra sin tregua vencedor;\nDe Jehová los soldados valientes,\nTriunfarán por la fe en Jesús.",
+                "type": "estrofa",
+                "number": 1
+            },
+            {
+                "text": "A la batalla por la fe,\nCaminaremos de él en pos,\nHasta llegar a la patria celestial,\nDando loor a Jesús nuestro Rey.",
+                "type": "coro",
+                "number": 1
+            },
+            {
+                "text": "La espada invencible en tus manos,\nManejar con destreza has podido,\nHumillando al cruel enemigo,\nPor la fe en Jesucristo, mi Rey.",
+                "type": "estrofa",
+                "number": 2
+            },
+            {
+                "text": "Soldado de Cristo pelea con valor,\nLa guerra se enciende hondeando el blasón,\nEvangelio predica, no calles, pregona,\nAtalaya valiente, batiendo al dragón.",
+                "type": "estrofa",
+                "number": 3
+            },
+            {
+                "text": "Ceñida tu frente verás, oh valiente,\nCorona y diadema al fin llevarás;\nCantando victorias hosannas al Rey,\nViniendo en las nubes levanta a su grey.",
+                "type": "estrofa",
+                "number": 4
+            }
+        ]
+    },
+    {
+        "number": 6,
+        "title": "CRISTO EN SU MISIÓN",
+        "theme": null,
+        "lyrics": [
+            {
+                "text": "Cristo en su misión,\nAquí en la tierra,\nUn día lloraba y contemplaba,\nLa gran ciudad.",
+                "type": "estrofa",
+                "number": 1
+            },
+            {
+                "text": "Oh //Jerusalén// ciudad de Sion,\nLlora por ti hoy mi corazón;\nComo el ave al hijo le da siempre protección,\nVine yo a traerte salvación.",
+                "type": "coro",
+                "number": 1
+            },
+            {
+                "text": "¡Oh Jerusalén la hermosa!\nLa que ha matado,\nA cuantos te ha enviado,\nEl Dios de Abraham.",
+                "type": "estrofa",
+                "number": 2
+            },
+            {
+                "text": "Quiero siempre protegerte\nBajo mi manto,\nY al Dios, que es Santo,\nDarte a conocer.",
+                "type": "estrofa",
+                "number": 3
+            },
+            {
+                "text": "Una Iglesia floreciente\nHoy ha nacido,\nDel lado herido\nPor lanza cruel.",
+                "type": "estrofa",
+                "number": 4
+            },
+            {
+                "text": "El que viene protegido\nPor Jesucristo,\nSe encuentra listo\nPara ir a Sion.",
+                "type": "estrofa",
+                "number": 5
+            }
+        ]
+    },
+    {
+        "number": 7,
+        "title": "CUANDO DEJEMOS DE EXISTIR",
+        "theme": null,
+        "lyrics": [
+            {
+                "text": "Cuando dejemos de existir,\nIremos a un lugar mejor;\nDo gozaremos al sentir,\nNo regresar nunca jamás.\nAunque yo sufra mucho aquí,\nHe de gozar allá con Él,\nYendo a la gloria sin regresar,\nNunca sin regresar.",
+                "type": "estrofa",
+                "number": 1
+            },
+            {
+                "text": "Un fiel Siervo del Señor\nEncontraremos allí,\nCon los que nos esperarán\nDeseando no regresar;\nTodo será felicidad,\nLibre de angustia y dolor.\nIr a la gloria sin regresar\nNunca, sin regresar. ",
+                "type": "coro",
+                "number": 1
+            },
+            {
+                "text": "Soy tan feliz al meditar,\nQue un día estaré con mi Jesús,\nQue desde hoy será mi canción:\nNo regresar nunca jamás.\nAquello no es de comparar,\nViendo al Apóstol del Señor;\nÉl fue a la gloria y volverá\nPronto, sí volverá.",
+                "type": "estrofa",
+                "number": 2
+            },
+            {
+                "text": "No muy lejano el día estará,\nCuando entonemos con Jesús,\nEl nuevo canto celestial,\nNo regresar nunca jamás.\nCuando por calles de oro iré,\nCon el Ungido del Señor,\nVive en la gloria y volverá\nPronto, Sí volverá.",
+                "type": "estrofa",
+                "number": 3
+            }
+        ]
+    },
+    {
+        "number": 8,
+        "title": "CUANDO SOLO Y TRISTE",
+        "theme": null,
+        "lyrics": [
+            {
+                "text": "Cuando solo y triste me vi\nY consuelo y paz no encontré,\nAclamé al que salva las almas\nY al cuerpo le da sanidad.",
+                "type": "estrofa",
+                "number": 1
+            },
+            {
+                "text": "A solas hablé con mi Cristo,\nLe mostré toda mi necesidad,\nY tomando en sus manos mis cargas,\nSalvación a mi alma le dio. ",
+                "type": "coro",
+                "number": 1
+            },
+            {
+                "text": "Por el mundo vagué yo sin Cristo\nDespreciando el amor del Señor,\nComprendiendo mi falta terrible,\nYo busqué el perdón del Señor.",
+                "type": "estrofa",
+                "number": 2
+            },
+            {
+                "text": "A solas habla con mi Cristo,\nCuéntale toda tu necesidad,\nY llévale todas tus cargas,\nSalvación y salud te dará.",
+                "type": "coro",
+                "number": 2
+            },
+            {
+                "text": "Hoy me siento feliz y gozoso\nPorque Cristo mi alma salvó,\nY si penas o dudas me agobian,\nSiempre aclamo a mi Salvador.",
+                "type": "estrofa",
+                "number": 3
+            },
+            {
+                "text": "Si tú quieres tener ésta dicha\nY hoy mismo salvo quieres ser,\nSigue ahora mi humilde consejo\nY entrégale a Cristo tu ser.",
+                "type": "estrofa",
+                "number": 4
+            }
+        ]
+    },
+    {
+        "number": 9,
+        "title": "DIOS DE LOS CIELOS",
+        "theme": null,
+        "lyrics": [
+            {
+                "text": "Dios de los cielos bendice a tu pueblo,\nTodos unidos en un santo amor,\nTodos contentos alaban tu nombre,\nDios de los cielos, bendito Señor.",
+                "type": "estrofa",
+                "number": 1
+            },
+            {
+                "text": "Aquí somos peregrinos, vamos ausentes de ti,\nPero esperamos tu gracia\nDe estar en tu reino, muy cerca de ti.",
+                "type": "coro",
+                "number": 1
+            },
+            {
+                "text": "Este rebaño que tú has elegido\nDe lo perdido, del mundo sin luz,\nHoy tiene vida por tu santo nombre\nRey de los cielos, glorioso Jesús.",
+                "type": "estrofa",
+                "number": 2
+            },
+            {
+                "text": "Las vestiduras que tú has preparado\nQue resplandecen brillantes de luz,\nAllá en tu reino serán impartidas,\nTambién diademas, glorioso Jesús.",
+                "type": "estrofa",
+                "number": 3
+            },
+            {
+                "text": "Este conjunto de pueblos unidos\nPor el Espíritu Santo de Dios,\nEn tu presencia se verán reunidos\nGlorificando tu nombre, oh Señor.",
+                "type": "estrofa",
+                "number": 4
+            }
+        ]
+    },
+    {
+        "number": 10,
+        "title": "EL PUEBLO MUY AMADO",
+        "theme": null,
+        "lyrics": [
+            {
+                "text": "El pueblo muy amado de Dios\nDesde tiempos atrás tiene sus escogidos,\nVarones de gran corazón, obedientes a Dios,\nHan sido elegidos.",
+                "type": "estrofa",
+                "number": 1
+            },
+            {
+                "text": "En las lluvias tardías Dios mandó\nDe los cielos a la tierra un Varón\nCon un grande nombre,\nAarón, Dios así le llamó,\nNombre de bendición, para todas las almas.",
+                "type": "coro",
+                "number": 1
+            },
+            {
+                "text": "Y Dios que es tan bueno tuvo a bien\nLevantar de la tierra a su Apóstol\nY en su pueblo otro Apóstol levantó\nLlamado Samuel Joaquín, Varón poderoso",
+                "type": "estrofa",
+                "number": 2
+            },
+            {
+                "text": "Cincuenta años Dios le concedió\nEn su santo Ministerio de amor\nCuidó de la Iglesia\nFue fiel a su santa misión\nY el Señor le llamó a su eterno descanso.",
+                "type": "coro",
+                "number": 2
+            },
+            {
+                "text": "La obra más perfecta esta es\nDe creer con amor al que Dios ha enviado\nAl mundo duro le es creer, recibir y aceptar\nAl Ungido de Cristo",
+                "type": "estrofa",
+                "number": 3
+            },
+            {
+                "text": "En este tiempo de gracia y bondad\nEl Señor nos dio a un consolador\nEnvió a su Apóstol, Naasón lleno de potestad\nCon amor y verdad nos dirige a Cristo.",
+                "type": "coro",
+                "number": 3
+            }
+        ]
+    },
+    {
+        "number": 11,
+        "title": "EN GLORIA DE LA ELECCIÓN",
+        "theme": null,
+        "lyrics": [
+            {
+                "text": "En gloria de la Elección, envió nuestro Salvador;\nApóstoles de la gracia, para la Restauración.",
+                "type": "estrofa",
+                "number": 1
+            },
+            {
+                "text": "Están ellos en la alianza del plan de la salvación,\nEsperando su venida así como Él ofreció.",
+                "type": "coro",
+                "number": 1
+            },
+            {
+                "text": "Aarón y Samuel Joaquín, descansan bajo el altar;\nCumplieron su Ministerio, triunfantes con Cristo están.",
+                "type": "estrofa",
+                "number": 2
+            },
+            {
+                "text": "Apóstol Naasón Joaquín, tiene la autorización;\nDe predicar en el mundo las nuevas de salvación.",
+                "type": "estrofa",
+                "number": 3
+            }
+        ]
+    },
+    {
+        "number": 12,
+        "title": "ESCUCHA MI BUEN SEÑOR",
+        "theme": null,
+        "lyrics": [
+            {
+                "text": "Escucha mi buen Señor\nLos ayes de un pecador,\nDuras penas mi alma sufrió,\nPruebas que puso el tentador,\nNo quiero seguir la senda\nDe angustia y de perdición,\nEnjuga Señor, el llanto de este vil ser,\nQue te pide perdón.",
+                "type": "estrofa",
+                "number": 1
+            },
+            {
+                "text": "Oye Señor mi petición,\nQuiero servirte con todo el corazón,\nVen a mi ser pronto a reinar,\nLo que yo te pido a ti, tú lo puedes dar.",
+                "type": "coro",
+                "number": 1
+            },
+            {
+                "text": "Dios mío me siento triste,\nCansado de batallar;\nHe perdido la paz de mi ser,\nNo he podido hallar tranquilidad.\nMe siento muy miserable,\nA causa de mi pecar,\nConcédeme oh Dios amado,\nLa dicha inmensa de gozar tu amor.",
+                "type": "estrofa",
+                "number": 2
+            },
+            {
+                "text": "Jesús, qué dulce nombre,\nTú eres mi adoración;\nEres tú mi porción celestial,\nQue has traído a mi ser bendición.\nEscucha Jesús el llanto,\nQue elevo con gran amor,\nAcéptalo como ofrenda,\nComo perfume de una bella flor.",
+                "type": "estrofa",
+                "number": 3
+            }
+        ]
+    },
+    {
+        "number": 13,
+        "title": "GRANDE ALEGRÍA",
+        "theme": null,
+        "lyrics": [
+            {
+                "text": "Grande alegría y contentamiento,\nHay en mi alma por el Señor,\n// Es que recuerdo que fui salvado,\nPor el enviado que Dios mandó //",
+                "type": "estrofa",
+                "number": 1
+            },
+            {
+                "text": "En esta fecha conmemoramos\nCuando su nombre Dios le cambió,\n// Pues él oía que le decía:\nAhora tu nombre será Aarón / / ",
+                "type": "coro",
+                "number": 1
+            },
+            {
+                "text": "Fue una mañana muy memorable\nCuando escuchara la voz de Dios,\n// Y hoy sus hijos lo recordamos,\nPara gozarnos en el Señor //",
+                "type": "estrofa",
+                "number": 2
+            },
+            {
+                "text": "Mucho sufriera toda su vida,\nPor enseñarnos la salvación,\n// Pero su Dios que le levantara,\nSiempre le dio confortación //",
+                "type": "estrofa",
+                "number": 3
+            }
+        ]
+    },
+    {
+        "number": 14,
+        "title": "HACE MUCHOS AÑOS",
+        "theme": null,
+        "lyrics": [
+            {
+                "text": "Hace muchos años nació un niño,\nQue es ofrenda grata de piedad;\nNiño que su padre ha consagrado,\nAl servicio de Jehová.",
+                "type": "estrofa",
+                "number": 1
+            },
+            {
+                "text": "Santo Apóstol Samuel, el Señor le guarde siempre,\nSu amor y bondad fortaleza le concedan;\nOh Ungido de Dios, cumpla Él, sus peticiones,\nGrandes triunfos le dé; oh bendito Embajador.",
+                "type": "coro",
+                "number": 1
+            },
+            {
+                "text": "Mística la lámpara está ardiendo,\nQuieta está la noche en derredor,\nMás de pronto se oye acento extraño,\nMisteriosa y suave voz.",
+                "type": "estrofa",
+                "number": 2
+            },
+            {
+                "text": "Hoy llama de nuevo el Padre amado,\nDemos presto oído a su voz,\nDios habla por medio de su Ungido,\nDemos gracias al Señor.",
+                "type": "estrofa",
+                "number": 3
+            },
+            {
+                "text": "Dios tiene en su pueblo a su Enviado,\nCon sabiduría nos gobierna,\nCon autoridad y con justicia,\nNos dirige con amor.",
+                "type": "estrofa",
+                "number": 4
+            }
+        ]
+    },
+    {
+        "number": 15,
+        "title": "OH CRISTO ESCUCHA",
+        "theme": null,
+        "lyrics": [
+            {
+                "text": "Oh, Cristo escucha mi oración, atiende a mi clamor,\nSólo en ti, refugio tendré;\nAl desmayar mi corazón, a ti vendré Señor,\nSólo en ti refugio tendré.",
+                "type": "estrofa",
+                "number": 1
+            },
+            {
+                "text": "Oh, llévame a la roca más alta que yo,\nLlévame Señor, yo te seguiré;\nOh llévame a la roca más alta que yo,\nSólo en ti, refugio tendré. ",
+                "type": "coro",
+                "number": 1
+            },
+            {
+                "text": "Si lejos en la tierra voy, temiendo a la ansiedad,\nSólo en ti, refugio tendré;\nPensar podré Que siempre estoy, seguro en tu bondad,\nSólo en ti, refugio tendré.",
+                "type": "estrofa",
+                "number": 2
+            },
+            {
+                "text": "Mi fuerte torre encuentro en ti, que protección me da,\nSólo en ti refugio tendré;\nNo puede nada contra mí, el que asechando está,\nSólo en ti, refugio tendré.",
+                "type": "estrofa",
+                "number": 3
+            },
+            {
+                "text": "En tu presencia habitaré, sin duelos ni temor,\nSólo en ti, refugio tendré;\nEn mi yo siempre sentiré, el ala de tu amor,\nSólo en ti, refugio tendré.",
+                "type": "estrofa",
+                "number": 4
+            },
+            {
+                "text": "Así Señor, alabaré tu nombre sin cesar,\nSólo en ti, refugio tendré;\nY a tus altares siempre iré, mis votos a pagar,\nSólo en ti, refugio tendré.",
+                "type": "estrofa",
+                "number": 5
+            }
+        ]
+    },
+    {
+        "number": 16,
+        "title": "QUÉ SIGNIFICA",
+        "theme": null,
+        "lyrics": [
+            {
+                "text": "¿Qué significa /// ese rumor? ///\n¿Qué significa // ese tropel? //\n¿Quién puede un día y otro así,\nLa muchedumbre conmover?\nResponde el pueblo en alta voz:\nPasa, Jesús de Nazareth.",
+                "type": "estrofa",
+                "number": 1
+            },
+            {
+                "text": "/// Pasa /// Jesús de Nazareth,\n/// Pasa /// Jesús. ",
+                "type": "coro",
+                "number": 1
+            },
+            {
+                "text": "Quién es, decid /// ese Jesús ///\nQue manifiesta // tal poder? //\n¿Por qué a su paso la ciudad,\nSe agolpa ansiosa en torno a Él?\nLo dice el pueblo oíd su voz:\nPasa, Jesús de Nazareth.",
+                "type": "estrofa",
+                "number": 2
+            },
+            {
+                "text": "Jesús quien vino/// acá a sufrir ///\nAngustia, afán // cansancio y sed //\nY dio consuelo, paz y salud\nA cuantos viera padecer.\nPor eso alegre el ciego oyó:\nPasa, Jesús de Nazareth,",
+                "type": "estrofa",
+                "number": 3
+            },
+            {
+                "text": "Aún hoy viene /// el buen Jesús ///\nDispuesto a hacernos // mucho bien //\nY amante llama a nuestro hogar,\nY quiere en El permanecer.\nSe acerca ya, ¿no oís su voi?\nPasa, Jesús de Nazareth.",
+                "type": "estrofa",
+                "number": 4
+            },
+            {
+                "text": "Los que sufrís /// tribulación ///\nVenid descanso y // paz tendréis //\nLos que alejados camináis,\nDe Dios, su gracia poseeréis.\nSi sois tentados, he aquí:\nPasa, Jesús de Nazareth.",
+                "type": "estrofa",
+                "number": 5
+            },
+            {
+                "text": "Mas si su gracia /// rechazáis ///\nSu amor mirando // con desdén //\nEntristecido marchará,\nY en vano luego clamaréis.\nEs tarde ya, dirá la voz:\nPasó, Jesús de Nazareth.",
+                "type": "estrofa",
+                "number": 6
+            }
+        ]
+    },
+    {
+        "number": 17,
+        "title": "SALVE A VOSOTROS",
+        "theme": null,
+        "lyrics": [
+            {
+                "text": "Salve a vosotros los siervos,\nLos que venís con victoria;\n// Salve // el Señor es contigo.",
+                "type": "estrofa",
+                "number": 1
+            },
+            {
+                "text": "Bendito eres al entrar,\nBendito eres al salir;\nBendito en todo lo que pones mano,\n// Qué bendición, es de Dios // ",
+                "type": "coro",
+                "number": 1
+            },
+            {
+                "text": "Gracia de Dios sea en vosotros,\nLos que venís a esta Iglesia;\n// Gracia // que es un don de los cielos.",
+                "type": "estrofa",
+                "number": 2
+            },
+            {
+                "text": "Paz sea a todos los hermanos,\nQue en santidad ya llegaron;\n// Santos // por la potencia de Cristo.",
+                "type": "estrofa",
+                "number": 3
+            },
+            {
+                "text": "Ósculo santo te damos,\nPor el Espíritu Santo;\n// Amor // que es virtud del Dios alto.",
+                "type": "estrofa",
+                "number": 4
+            }
+        ]
+    },
+    {
+        "number": 18,
+        "title": "SI ALGUIEN TIENE ENTENDIMIENTO",
+        "theme": null,
+        "lyrics": [
+            {
+                "text": "Si alguien tiene entendimiento, hallará el fundamento,\nDel Padre, del Hijo y del Espíritu, que es de Dios;\nSi tiene revelación, halla la combinación,\nQue estos tres en uno son.\nMientras unos edifican en arenas movedizas,\nOtros, en la roca firme y eternal;\nUnos creen a la mentira, otros creen a la verdad\nLa verdad en Cristo está.",
+                "type": "estrofa",
+                "number": 1
+            },
+            {
+                "text": "Es Jesús la verdad, el camino y la luz,\nDios en Él, la plenitud de la gran divinidad.",
+                "type": "coro",
+                "number": 1
+            },
+            {
+                "text": "Unos aceptan el bautismo que la Biblia nos enseña,\nEl bautismo de inmersión;\nOtros, por no obrar justicia,\nCreen al bautismo de hombres, a su propia tradición.\nMateo 28:19, Cristo da el mandamiento,\nDel bautismo que se debe obedecer;\nPor eso, el Apóstol Pedro en hechos 2:38,\nNos lo da a conocer.",
+                "type": "estrofa",
+                "number": 2
+            },
+            {
+                "text": "Tres testigos en la Biblia nos confirman,\nEl bautismo en el nombre de Jesús;\nTres Apóstoles de Cristo:Pedro, Juan y también Pablo,\nNos confirman esta luz.\nTres testigos en el cielo, dan un mismo testimonio,\nEl Padre, el Verbo y el Espíritu que es de Dios;\nY este glorioso misterio, Juan muy bien nos lo declara,\nQue estos tres en uno son.",
+                "type": "estrofa",
+                "number": 3
+            },
+            {
+                "text": "Este uno, es Jesucristo, Emmanuel Dios con nosotros,\nPadre Eterno y también Príncipe de paz;\nEn el príncipe era el Verbo y el Verbo era con Dios,\nY este Verbo era Dios.\nSi alguien tiene entendimiento, hallará el fundamento,\nDel Padre, del Hijo y del Espíritu, que es de Dios;\nSi tiene revelación halla la combinación,\nQue estos tres en uno son.",
+                "type": "estrofa",
+                "number": 4
+            }
+        ]
+    },
+    {
+        "number": 19,
+        "title": "SÓLO JESUCRISTO EN DIOS",
+        "theme": null,
+        "lyrics": [
+            {
+                "text": "Sólo Jesucristo en Dios, y ninguno otro hay,\nNi en el cielo, ni en la tierra, ni en lo profundo del mar;\nEl Autor del universo, que al hombre vino a salvar,\nY es el que está preparando, para venir a juzgar.",
+                "type": "estrofa",
+                "number": 1
+            },
+            {
+                "text": "Y la Iglesia de su nombre, la que Cristo estableció,\nEs la puerta que está abierta al que busca salvación;\nAunque hay otras muchas puertas, que no prevalecerán,\nY si han estado abiertas, Cristo las viene a cerrar.",
+                "type": "coro",
+                "number": 1
+            },
+            {
+                "text": "Muchos niegan hoy a Cristo, y anuncian la trinidad,\nCon palabras arrogantes que son pura vanidad;\nEstos son falsos doctores, que engañan la humanidad,\nQue no quieren adorar, en espíritu y verdad.",
+                "type": "estrofa",
+                "number": 2
+            },
+            {
+                "text": "Su Evangelio queda expuesto, a toda conciencia humana,\nQue los que han de creer en Cristo,\nQue sea ahora y no mañana,\nEs el día de salvación, el que Cristo estableció,\nQue si oyereis hoy su voz, no hagas duro el corazón.",
+                "type": "estrofa",
+                "number": 3
+            }
+        ]
+    },
+    {
+        "number": 20,
+        "title": "TÚ ERES EL QUE VIO EL APÓSTOL",
+        "theme": null,
+        "lyrics": [
+            {
+                "text": "Tú eres el que vio el Apóstol Juan,\nVolando por medio del cielo\nCon la salvación para todos.",
+                "type": "estrofa",
+                "number": 1
+            },
+            {
+                "text": "A toda tribu, lengua y nación,\nÁngel mensajero, fuiste llevando, sí, la unción;\nTiempos son recuerdos santos, de Dios, tu Elección,\nPues ya el Cordero premio te dio.",
+                "type": "coro",
+                "number": 1
+            },
+            {
+                "text": "Dimos honra a ti por la salvación,\nQue tú nos trajiste aquí;\nPor la aceptación de Dios contigo.",
+                "type": "estrofa",
+                "number": 2
+            },
+            {
+                "text": "Tú eres el que vio el Apóstol Juan,\nApóstol Samuel te llevamos,\nComo un gran tesoro en nuestras almas.",
+                "type": "estrofa",
+                "number": 3
+            }
+        ]
+    }
+]

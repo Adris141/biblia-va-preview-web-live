@@ -1,0 +1,533 @@
+{
+  "books": [
+    {
+      "id": "GEN",
+      "name": "Génesis",
+      "testament": "AT",
+      "chapters": 50,
+      "verseCount": 1533,
+      "fileKey": "gen"
+    },
+    {
+      "id": "EXO",
+      "name": "Éxodo",
+      "testament": "AT",
+      "chapters": 40,
+      "verseCount": 1213,
+      "fileKey": "exo"
+    },
+    {
+      "id": "LEV",
+      "name": "Levítico",
+      "testament": "AT",
+      "chapters": 27,
+      "verseCount": 859,
+      "fileKey": "lev"
+    },
+    {
+      "id": "NUM",
+      "name": "Números",
+      "testament": "AT",
+      "chapters": 36,
+      "verseCount": 1288,
+      "fileKey": "num"
+    },
+    {
+      "id": "DEU",
+      "name": "Deuteronomio",
+      "testament": "AT",
+      "chapters": 34,
+      "verseCount": 959,
+      "fileKey": "deu"
+    },
+    {
+      "id": "JOS",
+      "name": "Josué",
+      "testament": "AT",
+      "chapters": 24,
+      "verseCount": 658,
+      "fileKey": "jos"
+    },
+    {
+      "id": "JDG",
+      "name": "Jueces",
+      "testament": "AT",
+      "chapters": 21,
+      "verseCount": 618,
+      "fileKey": "jdg"
+    },
+    {
+      "id": "RUT",
+      "name": "Rut",
+      "testament": "AT",
+      "chapters": 4,
+      "verseCount": 85,
+      "fileKey": "rut"
+    },
+    {
+      "id": "1SA",
+      "name": "1 Samuel",
+      "testament": "AT",
+      "chapters": 31,
+      "verseCount": 810,
+      "fileKey": "1sa"
+    },
+    {
+      "id": "2SA",
+      "name": "2 Samuel",
+      "testament": "AT",
+      "chapters": 24,
+      "verseCount": 695,
+      "fileKey": "2sa"
+    },
+    {
+      "id": "1KI",
+      "name": "1 Reyes",
+      "testament": "AT",
+      "chapters": 22,
+      "verseCount": 816,
+      "fileKey": "1ki"
+    },
+    {
+      "id": "2KI",
+      "name": "2 Reyes",
+      "testament": "AT",
+      "chapters": 25,
+      "verseCount": 719,
+      "fileKey": "2ki"
+    },
+    {
+      "id": "1CH",
+      "name": "1 Crónicas",
+      "testament": "AT",
+      "chapters": 29,
+      "verseCount": 942,
+      "fileKey": "1ch"
+    },
+    {
+      "id": "2CH",
+      "name": "2 Crónicas",
+      "testament": "AT",
+      "chapters": 36,
+      "verseCount": 822,
+      "fileKey": "2ch"
+    },
+    {
+      "id": "EZR",
+      "name": "Esdras",
+      "testament": "AT",
+      "chapters": 10,
+      "verseCount": 280,
+      "fileKey": "ezr"
+    },
+    {
+      "id": "NEH",
+      "name": "Nehemías",
+      "testament": "AT",
+      "chapters": 13,
+      "verseCount": 406,
+      "fileKey": "neh"
+    },
+    {
+      "id": "EST",
+      "name": "Ester",
+      "testament": "AT",
+      "chapters": 10,
+      "verseCount": 167,
+      "fileKey": "est"
+    },
+    {
+      "id": "JOB",
+      "name": "Job",
+      "testament": "AT",
+      "chapters": 42,
+      "verseCount": 1070,
+      "fileKey": "job"
+    },
+    {
+      "id": "PSA",
+      "name": "Salmos",
+      "testament": "AT",
+      "chapters": 150,
+      "verseCount": 2461,
+      "fileKey": "psa"
+    },
+    {
+      "id": "PRO",
+      "name": "Proverbios",
+      "testament": "AT",
+      "chapters": 31,
+      "verseCount": 915,
+      "fileKey": "pro"
+    },
+    {
+      "id": "ECC",
+      "name": "Eclesiastés",
+      "testament": "AT",
+      "chapters": 12,
+      "verseCount": 222,
+      "fileKey": "ecc"
+    },
+    {
+      "id": "SON",
+      "name": "Cantares",
+      "testament": "AT",
+      "chapters": 8,
+      "verseCount": 117,
+      "fileKey": "son"
+    },
+    {
+      "id": "ISA",
+      "name": "Isaías",
+      "testament": "AT",
+      "chapters": 66,
+      "verseCount": 1292,
+      "fileKey": "isa"
+    },
+    {
+      "id": "JER",
+      "name": "Jeremías",
+      "testament": "AT",
+      "chapters": 52,
+      "verseCount": 1364,
+      "fileKey": "jer"
+    },
+    {
+      "id": "LAM",
+      "name": "Lamentaciones",
+      "testament": "AT",
+      "chapters": 5,
+      "verseCount": 154,
+      "fileKey": "lam"
+    },
+    {
+      "id": "EZK",
+      "name": "Ezequiel",
+      "testament": "AT",
+      "chapters": 48,
+      "verseCount": 1273,
+      "fileKey": "ezk"
+    },
+    {
+      "id": "DAN",
+      "name": "Daniel",
+      "testament": "AT",
+      "chapters": 12,
+      "verseCount": 357,
+      "fileKey": "dan"
+    },
+    {
+      "id": "HOS",
+      "name": "Oseas",
+      "testament": "AT",
+      "chapters": 14,
+      "verseCount": 197,
+      "fileKey": "hos"
+    },
+    {
+      "id": "JOL",
+      "name": "Joel",
+      "testament": "AT",
+      "chapters": 3,
+      "verseCount": 73,
+      "fileKey": "jol"
+    },
+    {
+      "id": "AMO",
+      "name": "Amós",
+      "testament": "AT",
+      "chapters": 9,
+      "verseCount": 146,
+      "fileKey": "amo"
+    },
+    {
+      "id": "OBA",
+      "name": "Abdías",
+      "testament": "AT",
+      "chapters": 1,
+      "verseCount": 21,
+      "fileKey": "oba"
+    },
+    {
+      "id": "JON",
+      "name": "Jonás",
+      "testament": "AT",
+      "chapters": 4,
+      "verseCount": 48,
+      "fileKey": "jon"
+    },
+    {
+      "id": "MIC",
+      "name": "Miqueas",
+      "testament": "AT",
+      "chapters": 7,
+      "verseCount": 105,
+      "fileKey": "mic"
+    },
+    {
+      "id": "NAH",
+      "name": "Nahúm",
+      "testament": "AT",
+      "chapters": 3,
+      "verseCount": 47,
+      "fileKey": "nah"
+    },
+    {
+      "id": "HAB",
+      "name": "Habacuc",
+      "testament": "AT",
+      "chapters": 3,
+      "verseCount": 56,
+      "fileKey": "hab"
+    },
+    {
+      "id": "ZEP",
+      "name": "Sofonías",
+      "testament": "AT",
+      "chapters": 3,
+      "verseCount": 53,
+      "fileKey": "zep"
+    },
+    {
+      "id": "HAG",
+      "name": "Hageo",
+      "testament": "AT",
+      "chapters": 2,
+      "verseCount": 38,
+      "fileKey": "hag"
+    },
+    {
+      "id": "ZEC",
+      "name": "Zacarías",
+      "testament": "AT",
+      "chapters": 14,
+      "verseCount": 211,
+      "fileKey": "zec"
+    },
+    {
+      "id": "MAL",
+      "name": "Malaquías",
+      "testament": "AT",
+      "chapters": 4,
+      "verseCount": 55,
+      "fileKey": "mal"
+    },
+    {
+      "id": "MAT",
+      "name": "Mateo",
+      "testament": "NT",
+      "chapters": 28,
+      "verseCount": 1071,
+      "fileKey": "mat"
+    },
+    {
+      "id": "MRK",
+      "name": "Marcos",
+      "testament": "NT",
+      "chapters": 16,
+      "verseCount": 678,
+      "fileKey": "mrk"
+    },
+    {
+      "id": "LUK",
+      "name": "Lucas",
+      "testament": "NT",
+      "chapters": 24,
+      "verseCount": 1151,
+      "fileKey": "luk"
+    },
+    {
+      "id": "JHN",
+      "name": "Juan",
+      "testament": "NT",
+      "chapters": 21,
+      "verseCount": 879,
+      "fileKey": "jhn"
+    },
+    {
+      "id": "ACT",
+      "name": "Hechos",
+      "testament": "NT",
+      "chapters": 28,
+      "verseCount": 1007,
+      "fileKey": "act"
+    },
+    {
+      "id": "ROM",
+      "name": "Romanos",
+      "testament": "NT",
+      "chapters": 16,
+      "verseCount": 433,
+      "fileKey": "rom"
+    },
+    {
+      "id": "1CO",
+      "name": "1 Corintios",
+      "testament": "NT",
+      "chapters": 16,
+      "verseCount": 437,
+      "fileKey": "1co"
+    },
+    {
+      "id": "2CO",
+      "name": "2 Corintios",
+      "testament": "NT",
+      "chapters": 13,
+      "verseCount": 257,
+      "fileKey": "2co"
+    },
+    {
+      "id": "GAL",
+      "name": "Gálatas",
+      "testament": "NT",
+      "chapters": 6,
+      "verseCount": 149,
+      "fileKey": "gal"
+    },
+    {
+      "id": "EPH",
+      "name": "Efesios",
+      "testament": "NT",
+      "chapters": 6,
+      "verseCount": 155,
+      "fileKey": "eph"
+    },
+    {
+      "id": "PHP",
+      "name": "Filipenses",
+      "testament": "NT",
+      "chapters": 4,
+      "verseCount": 104,
+      "fileKey": "php"
+    },
+    {
+      "id": "COL",
+      "name": "Colosenses",
+      "testament": "NT",
+      "chapters": 4,
+      "verseCount": 95,
+      "fileKey": "col"
+    },
+    {
+      "id": "1TH",
+      "name": "1 Tesalonicenses",
+      "testament": "NT",
+      "chapters": 5,
+      "verseCount": 89,
+      "fileKey": "1th"
+    },
+    {
+      "id": "2TH",
+      "name": "2 Tesalonicenses",
+      "testament": "NT",
+      "chapters": 3,
+      "verseCount": 47,
+      "fileKey": "2th"
+    },
+    {
+      "id": "1TI",
+      "name": "1 Timoteo",
+      "testament": "NT",
+      "chapters": 6,
+      "verseCount": 113,
+      "fileKey": "1ti"
+    },
+    {
+      "id": "2TI",
+      "name": "2 Timoteo",
+      "testament": "NT",
+      "chapters": 4,
+      "verseCount": 83,
+      "fileKey": "2ti"
+    },
+    {
+      "id": "TIT",
+      "name": "Tito",
+      "testament": "NT",
+      "chapters": 3,
+      "verseCount": 46,
+      "fileKey": "tit"
+    },
+    {
+      "id": "PHM",
+      "name": "Filemón",
+      "testament": "NT",
+      "chapters": 1,
+      "verseCount": 25,
+      "fileKey": "phm"
+    },
+    {
+      "id": "HEB",
+      "name": "Hebreos",
+      "testament": "NT",
+      "chapters": 13,
+      "verseCount": 303,
+      "fileKey": "heb"
+    },
+    {
+      "id": "JAS",
+      "name": "Santiago",
+      "testament": "NT",
+      "chapters": 5,
+      "verseCount": 108,
+      "fileKey": "jas"
+    },
+    {
+      "id": "1PE",
+      "name": "1 Pedro",
+      "testament": "NT",
+      "chapters": 5,
+      "verseCount": 105,
+      "fileKey": "1pe"
+    },
+    {
+      "id": "2PE",
+      "name": "2 Pedro",
+      "testament": "NT",
+      "chapters": 3,
+      "verseCount": 61,
+      "fileKey": "2pe"
+    },
+    {
+      "id": "1JN",
+      "name": "1 Juan",
+      "testament": "NT",
+      "chapters": 5,
+      "verseCount": 105,
+      "fileKey": "1jn"
+    },
+    {
+      "id": "2JN",
+      "name": "2 Juan",
+      "testament": "NT",
+      "chapters": 1,
+      "verseCount": 13,
+      "fileKey": "2jn"
+    },
+    {
+      "id": "3JN",
+      "name": "3 Juan",
+      "testament": "NT",
+      "chapters": 1,
+      "verseCount": 14,
+      "fileKey": "3jn"
+    },
+    {
+      "id": "JUD",
+      "name": "Judas",
+      "testament": "NT",
+      "chapters": 1,
+      "verseCount": 25,
+      "fileKey": "jud"
+    },
+    {
+      "id": "REV",
+      "name": "Apocalipsis",
+      "testament": "NT",
+      "chapters": 22,
+      "verseCount": 404,
+      "fileKey": "rev"
+    }
+  ],
+  "totalVerses": 31102
+}
