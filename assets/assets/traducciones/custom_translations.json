@@ -8,20 +8,6 @@
       "folder": "RV1865"
     },
     {
-      "abbr": "VBL-L",
-      "name": "Version Biblia Libre (local)",
-      "label": "VBL-L",
-      "lang": "es",
-      "folder": "VBL"
-    },
-    {
-      "abbr": "BLL",
-      "name": "Santa Biblia libre Latinoamericano",
-      "label": "BLL",
-      "lang": "es",
-      "folder": "BLL"
-    },
-    {
       "abbr": "SEV",
       "name": "Sagradas Escrituras 1569",
       "label": "SEV",
