@@ -1,0 +1,1952 @@
+[
+  {
+    "id": "cb001",
+    "pregunta": "¿Cuántos libros tiene la Biblia protestante?",
+    "respuesta": "66",
+    "opciones": [
+      "66",
+      "73",
+      "72",
+      "78"
+    ],
+    "referencia": "Estructura bíblica",
+    "explicacion": "La Biblia protestante tiene 66 libros: 39 en el Antiguo Testamento y 27 en el Nuevo Testamento."
+  },
+  {
+    "id": "cb002",
+    "pregunta": "¿Cuántos libros tiene la Biblia católica romana?",
+    "respuesta": "73",
+    "opciones": [
+      "73",
+      "66",
+      "72",
+      "70"
+    ],
+    "referencia": "Canon católico",
+    "explicacion": "La Biblia católica incluye 7 libros adicionales (deuterocanónicos): Tobías, Judit, 1-2 Macabeos, Sabiduría, Eclesiástico y Baruc."
+  },
+  {
+    "id": "cb003",
+    "pregunta": "¿Cuántos libros tiene el Antiguo Testamento en la Biblia protestante?",
+    "respuesta": "39",
+    "opciones": [
+      "39",
+      "46",
+      "40",
+      "38"
+    ],
+    "referencia": "Canon del AT",
+    "explicacion": "El AT protestante contiene 39 libros, equivalentes al canon hebreo (Tanaj)."
+  },
+  {
+    "id": "cb004",
+    "pregunta": "¿Cuántos libros tiene el Nuevo Testamento?",
+    "respuesta": "27",
+    "opciones": [
+      "27",
+      "28",
+      "25",
+      "30"
+    ],
+    "referencia": "Canon del NT",
+    "explicacion": "El Nuevo Testamento tiene 27 libros en todos los cánones cristianos."
+  },
+  {
+    "id": "cb005",
+    "pregunta": "¿En cuántas partes principales se divide la Biblia?",
+    "respuesta": "Dos: Antiguo y Nuevo Testamento",
+    "opciones": [
+      "Dos: Antiguo y Nuevo Testamento",
+      "Tres: Ley, Profetas y Escritos",
+      "Cuatro: Historia, Poesía, Profecía y Evangelios",
+      "Una sola parte continua"
+    ],
+    "referencia": "Divisiones bíblicas",
+    "explicacion": "La Biblia se divide en dos grandes partes: el Antiguo Testamento y el Nuevo Testamento."
+  },
+  {
+    "id": "cb006",
+    "pregunta": "¿Cuántos versículos tiene la Biblia aproximadamente?",
+    "respuesta": "Unos 31,000 versículos",
+    "opciones": [
+      "Unos 31,000 versículos",
+      "Unos 10,000 versículos",
+      "Unos 50,000 versículos",
+      "Unos 15,000 versículos"
+    ],
+    "referencia": "Estadísticas bíblicas",
+    "explicacion": "La Biblia protestante tiene aproximadamente 31,102 versículos en total."
+  },
+  {
+    "id": "cb007",
+    "pregunta": "¿Cuál es el libro más largo de la Biblia?",
+    "respuesta": "Salmos",
+    "opciones": [
+      "Salmos",
+      "Isaías",
+      "Jeremías",
+      "Génesis"
+    ],
+    "referencia": "Libros de la Biblia",
+    "explicacion": "El libro de los Salmos es el más largo de la Biblia con 150 capítulos."
+  },
+  {
+    "id": "cb008",
+    "pregunta": "¿Cuál es el libro más corto del Antiguo Testamento?",
+    "respuesta": "Abdías",
+    "opciones": [
+      "Abdías",
+      "Hageo",
+      "Filemón",
+      "Nahúm"
+    ],
+    "referencia": "Libros del AT",
+    "explicacion": "Abdías tiene solo 1 capítulo y 21 versículos, siendo el libro más corto del AT."
+  },
+  {
+    "id": "cb009",
+    "pregunta": "¿Cuál es el libro más corto del Nuevo Testamento?",
+    "respuesta": "2 Juan",
+    "opciones": [
+      "2 Juan",
+      "3 Juan",
+      "Filemón",
+      "Judas"
+    ],
+    "referencia": "Libros del NT",
+    "explicacion": "2 Juan tiene solo 1 capítulo y 13 versículos."
+  },
+  {
+    "id": "cb010",
+    "pregunta": "¿En cuántos idiomas originales fue escrita la Biblia?",
+    "respuesta": "Tres (hebreo, arameo y griego)",
+    "opciones": [
+      "Tres (hebreo, arameo y griego)",
+      "Dos (hebreo y griego)",
+      "Cuatro (hebreo, arameo, griego y latín)",
+      "Uno (hebreo)"
+    ],
+    "referencia": "Idiomas bíblicos",
+    "explicacion": "La Biblia fue escrita en hebreo (la mayor parte del AT), arameo (partes de Daniel y Esdras) y griego (NT completo)."
+  },
+  {
+    "id": "cb011",
+    "pregunta": "¿Cómo se llaman los primeros 5 libros de la Biblia?",
+    "respuesta": "Pentateuco o Torah",
+    "opciones": [
+      "Pentateuco o Torah",
+      "Libros históricos",
+      "Libros sapienciales",
+      "Libros proféticos"
+    ],
+    "referencia": "Pentateuco",
+    "explicacion": "Los cinco primeros libros (Génesis, Éxodo, Levítico, Números, Deuteronomio) forman el Pentateuco o Torah."
+  },
+  {
+    "id": "cb012",
+    "pregunta": "¿Cuántos libros tiene el Pentateuco?",
+    "respuesta": "5",
+    "opciones": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "referencia": "Pentateuco",
+    "explicacion": "El Pentateuco consta de 5 libros: Génesis, Éxodo, Levítico, Números y Deuteronomio."
+  },
+  {
+    "id": "cb013",
+    "pregunta": "¿Cuáles son los libros poéticos o sapienciales del AT?",
+    "respuesta": "Job, Salmos, Proverbios, Eclesiastés, Cantares",
+    "opciones": [
+      "Job, Salmos, Proverbios, Eclesiastés, Cantares",
+      "Génesis, Éxodo, Levítico, Números, Deuteronomio",
+      "Isaías, Jeremías, Ezequiel, Daniel",
+      "Josué, Jueces, Rut, Samuel, Reyes"
+    ],
+    "referencia": "Libros sapienciales",
+    "explicacion": "Los libros poéticos incluyen Job, Salmos, Proverbios, Eclesiastés y Cantar de los Cantares."
+  },
+  {
+    "id": "cb014",
+    "pregunta": "¿Cuántos profetas mayores hay en el AT?",
+    "respuesta": "5 (Isaías, Jeremías, Lamentaciones, Ezequiel, Daniel)",
+    "opciones": [
+      "5 (Isaías, Jeremías, Lamentaciones, Ezequiel, Daniel)",
+      "4 (Isaías, Jeremías, Ezequiel, Daniel)",
+      "3 (Isaías, Jeremías, Ezequiel)",
+      "6 (incluyendo a Baruc)"
+    ],
+    "referencia": "Profetas mayores",
+    "explicacion": "Los 5 libros de los profetas mayores son Isaías, Jeremías, Lamentaciones, Ezequiel y Daniel."
+  },
+  {
+    "id": "cb015",
+    "pregunta": "¿Cuántos profetas menores hay en el AT?",
+    "respuesta": "12",
+    "opciones": [
+      "12",
+      "10",
+      "11",
+      "14"
+    ],
+    "referencia": "Profetas menores",
+    "explicacion": "Hay 12 profetas menores: Oseas, Joel, Amós, Abdías, Jonás, Miqueas, Nahúm, Habacuc, Sofonías, Hageo, Zacarías y Malaquías."
+  },
+  {
+    "id": "cb016",
+    "pregunta": "¿Cuántos libros históricos hay en el AT protestante?",
+    "respuesta": "12",
+    "opciones": [
+      "12",
+      "10",
+      "14",
+      "8"
+    ],
+    "referencia": "Libros históricos",
+    "explicacion": "Los 12 libros históricos van desde Josué hasta Ester: Josué, Jueces, Rut, 1-2 Samuel, 1-2 Reyes, 1-2 Crónicas, Esdras, Nehemías y Ester."
+  },
+  {
+    "id": "cb017",
+    "pregunta": "¿Qué significa la palabra 'Pentateuco'?",
+    "respuesta": "Cinco rollos o cinco estuches",
+    "opciones": [
+      "Cinco rollos o cinco estuches",
+      "El libro de la ley",
+      "La palabra de Dios",
+      "El principio de todo"
+    ],
+    "referencia": "Etimología bíblica",
+    "explicacion": "Pentateuco viene del griego 'penta' (cinco) y 'teuchos' (rollo, estuche), refiriéndose a los cinco libros de Moisés."
+  },
+  {
+    "id": "cb018",
+    "pregunta": "¿Qué significa 'Torah' en hebreo?",
+    "respuesta": "Ley o instrucción",
+    "opciones": [
+      "Ley o instrucción",
+      "Profecía",
+      "Sabiduría",
+      "Historia sagrada"
+    ],
+    "referencia": "Torah",
+    "explicacion": "Torah (תּוֹרָה) significa 'ley' o 'instrucción' en hebreo y es el nombre hebreo para el Pentateuco."
+  },
+  {
+    "id": "cb019",
+    "pregunta": "¿Cómo se llama la colección de escrituras hebreas (AT)?",
+    "respuesta": "Tanaj (Torah, Nevi'im, Ketuvim)",
+    "opciones": [
+      "Tanaj (Torah, Nevi'im, Ketuvim)",
+      "Septuaginta",
+      "Vulgata",
+      "Mishnah"
+    ],
+    "referencia": "Canon hebreo",
+    "explicacion": "El Tanaj es el acrónimo de las tres secciones: Torah (Ley), Nevi'im (Profetas) y Ketuvim (Escritos)."
+  },
+  {
+    "id": "cb020",
+    "pregunta": "¿Cuántos libros tiene el Tanaj hebreo?",
+    "respuesta": "24 (equivalentes a 39 protestantes)",
+    "opciones": [
+      "24 (equivalentes a 39 protestantes)",
+      "39",
+      "27",
+      "46"
+    ],
+    "referencia": "Canon hebreo",
+    "explicacion": "El Tanaj tiene 24 libros porque combina algunos libros que en el AT protestante están separados (ej. Samuel 1+2 como uno solo)."
+  },
+  {
+    "id": "cb021",
+    "pregunta": "¿En cuántas secciones se divide el Nuevo Testamento?",
+    "respuesta": "Cuatro: Evangelios, Hechos, Epístolas y Apocalipsis",
+    "opciones": [
+      "Cuatro: Evangelios, Hechos, Epístolas y Apocalipsis",
+      "Dos: Evangelios y Cartas",
+      "Tres: Evangelios, Cartas y Profecías",
+      "Cinco secciones"
+    ],
+    "referencia": "Estructura del NT",
+    "explicacion": "El NT se divide en: los 4 Evangelios, Hechos de los Apóstoles, Epístolas (cartas) y el Apocalipsis."
+  },
+  {
+    "id": "cb022",
+    "pregunta": "¿Cuántos evangelios hay en el Nuevo Testamento?",
+    "respuesta": "4 (Mateo, Marcos, Lucas, Juan)",
+    "opciones": [
+      "4 (Mateo, Marcos, Lucas, Juan)",
+      "3",
+      "5",
+      "6"
+    ],
+    "referencia": "Los Evangelios",
+    "explicacion": "Hay 4 evangelios canónicos: Mateo, Marcos, Lucas (sinópticos) y Juan."
+  },
+  {
+    "id": "cb023",
+    "pregunta": "¿Cómo se llaman los tres evangelios similares entre sí?",
+    "respuesta": "Sinópticos (Mateo, Marcos, Lucas)",
+    "opciones": [
+      "Sinópticos (Mateo, Marcos, Lucas)",
+      "Apostólicos",
+      "Canónicos primarios",
+      "Evangelios históricos"
+    ],
+    "referencia": "Evangelios sinópticos",
+    "explicacion": "Mateo, Marcos y Lucas se llaman 'sinópticos' (del griego 'ver juntos') porque comparten mucho material similar."
+  },
+  {
+    "id": "cb024",
+    "pregunta": "¿Cuántas epístolas paulinas hay en el NT?",
+    "respuesta": "13 o 14 (según si se incluye Hebreos)",
+    "opciones": [
+      "13 o 14 (según si se incluye Hebreos)",
+      "10",
+      "7",
+      "15"
+    ],
+    "referencia": "Epístolas de Pablo",
+    "explicacion": "Pablo escribió 13 cartas seguras; Hebreos es debatida. Las 13 van de Romanos a Filemón."
+  },
+  {
+    "id": "cb025",
+    "pregunta": "¿Qué son las epístolas católicas o universales?",
+    "respuesta": "Cartas no dirigidas a una iglesia específica (Santiago, 1-2 Pedro, 1-2-3 Juan, Judas)",
+    "opciones": [
+      "Cartas no dirigidas a una iglesia específica (Santiago, 1-2 Pedro, 1-2-3 Juan, Judas)",
+      "Cartas aprobadas por el Papa",
+      "Cartas escritas en latín",
+      "Las cartas de Pablo a iglesias"
+    ],
+    "referencia": "Epístolas católicas",
+    "explicacion": "Las epístolas 'católicas' (universales) son las no dirigidas a comunidades específicas: Santiago, 1-2 Pedro, 1-2-3 Juan y Judas."
+  },
+  {
+    "id": "cb026",
+    "pregunta": "¿Cuántas cartas escribió el apóstol Juan?",
+    "respuesta": "3 (1 Juan, 2 Juan, 3 Juan)",
+    "opciones": [
+      "3 (1 Juan, 2 Juan, 3 Juan)",
+      "1",
+      "2",
+      "4"
+    ],
+    "referencia": "Epístolas de Juan",
+    "explicacion": "Juan escribió 3 epístolas: 1 Juan (doctrina), 2 Juan (a una señora elegida) y 3 Juan (a Gayo)."
+  },
+  {
+    "id": "cb027",
+    "pregunta": "¿Qué libro del NT habla de la historia de la iglesia primitiva?",
+    "respuesta": "Hechos de los Apóstoles",
+    "opciones": [
+      "Hechos de los Apóstoles",
+      "Apocalipsis",
+      "Romanos",
+      "Hebreos"
+    ],
+    "referencia": "Hechos",
+    "explicacion": "El libro de los Hechos, escrito por Lucas, narra el inicio y expansión de la iglesia cristiana."
+  },
+  {
+    "id": "cb028",
+    "pregunta": "¿Cuál es el último libro de la Biblia?",
+    "respuesta": "Apocalipsis",
+    "opciones": [
+      "Apocalipsis",
+      "Malaquías",
+      "Judas",
+      "3 Juan"
+    ],
+    "referencia": "Último libro",
+    "explicacion": "El Apocalipsis (Revelación) escrito por Juan en Patmos es el último libro canónico."
+  },
+  {
+    "id": "cb029",
+    "pregunta": "¿Qué significa la palabra 'Apocalipsis'?",
+    "respuesta": "Revelación o descubrimiento",
+    "opciones": [
+      "Revelación o descubrimiento",
+      "Fin del mundo",
+      "Juicio final",
+      "Profecía oscura"
+    ],
+    "referencia": "Etimología",
+    "explicacion": "'Apokalypsis' en griego significa 'revelación' o 'descubrimiento', no 'catástrofe'."
+  },
+  {
+    "id": "cb030",
+    "pregunta": "¿Cuántas cartas del NT son consideradas 'pastorales'?",
+    "respuesta": "3 (1-2 Timoteo y Tito)",
+    "opciones": [
+      "3 (1-2 Timoteo y Tito)",
+      "2 (1-2 Timoteo)",
+      "4",
+      "5"
+    ],
+    "referencia": "Epístolas pastorales",
+    "explicacion": "Las epístolas pastorales son 1 Timoteo, 2 Timoteo y Tito, dirigidas a pastores/supervisores."
+  },
+  {
+    "id": "cb031",
+    "pregunta": "¿Qué son los libros deuterocanónicos?",
+    "respuesta": "Libros del AT aceptados por católicos pero no por protestantes",
+    "opciones": [
+      "Libros del AT aceptados por católicos pero no por protestantes",
+      "Los últimos libros del NT",
+      "Versiones alternativas de la Biblia",
+      "Los libros escritos después de Cristo"
+    ],
+    "referencia": "Deuterocanónicos",
+    "explicacion": "Los deuterocanónicos son 7 libros (y adiciones) aceptados por la Iglesia Católica Romana y Ortodoxa, pero no por protestantes."
+  },
+  {
+    "id": "cb032",
+    "pregunta": "¿Cuáles son los 7 libros deuterocanónicos?",
+    "respuesta": "Tobías, Judit, 1-2 Macabeos, Sabiduría, Eclesiástico, Baruc",
+    "opciones": [
+      "Tobías, Judit, 1-2 Macabeos, Sabiduría, Eclesiástico, Baruc",
+      "Enoc, Jasher, Jubileos, Adán, Eva, Testamentos",
+      "Esdras 3-4, Macabeos 3-4, Oración de Manasés",
+      "Abdías, Nahúm, Hageo, Malaquías, Joel, Sofonías"
+    ],
+    "referencia": "Lista deuterocanónica",
+    "explicacion": "Los 7 libros deuterocanónicos son: Tobías, Judit, 1 Macabeos, 2 Macabeos, Sabiduría de Salomón, Eclesiástico (Sirácida) y Baruc."
+  },
+  {
+    "id": "cb033",
+    "pregunta": "¿Cuándo fueron los libros deuterocanónicos definidos como canónicos por la Iglesia Católica?",
+    "respuesta": "Concilio de Trento (1546)",
+    "opciones": [
+      "Concilio de Trento (1546)",
+      "Concilio de Nicea (325)",
+      "Concilio de Cartago (397)",
+      "Vaticano I (1870)"
+    ],
+    "referencia": "Canon católico",
+    "explicacion": "El Concilio de Trento en 1546 declaró oficialmente los 7 libros deuterocanónicos como canónicos para la Iglesia Católica."
+  },
+  {
+    "id": "cb034",
+    "pregunta": "¿En qué idioma fueron escritos la mayoría de los libros deuterocanónicos?",
+    "respuesta": "Griego",
+    "opciones": [
+      "Griego",
+      "Hebreo",
+      "Latín",
+      "Arameo"
+    ],
+    "referencia": "Idiomas deuterocanónicos",
+    "explicacion": "La mayoría de los libros deuterocanónicos fueron escritos o conservados en griego, aunque algunos pudieron tener originales semíticos."
+  },
+  {
+    "id": "cb035",
+    "pregunta": "¿Qué libro deuterocanónico contiene la historia de la mujer valiente que salvó a Israel?",
+    "respuesta": "Judit",
+    "opciones": [
+      "Judit",
+      "Tobías",
+      "Ester",
+      "Rut"
+    ],
+    "referencia": "Libro de Judit",
+    "explicacion": "El libro de Judit narra cómo una viuda judía llamada Judit mató al general asirio Holofernes para salvar a su ciudad."
+  },
+  {
+    "id": "cb036",
+    "pregunta": "¿Qué libro deuterocanónico relata la historia de Macabeos y la rebelión contra Antíoco?",
+    "respuesta": "1 y 2 Macabeos",
+    "opciones": [
+      "1 y 2 Macabeos",
+      "Judit",
+      "Tobías",
+      "Baruc"
+    ],
+    "referencia": "Libros de Macabeos",
+    "explicacion": "Los libros de los Macabeos narran la revuelta judía (167-163 a.C.) contra la helenización forzada por Antíoco IV Epífanes."
+  },
+  {
+    "id": "cb037",
+    "pregunta": "¿Qué libro deuterocanónico contiene reflexiones de sabiduría atribuidas a Salomón?",
+    "respuesta": "Sabiduría de Salomón",
+    "opciones": [
+      "Sabiduría de Salomón",
+      "Eclesiástico",
+      "Baruc",
+      "Proverbios"
+    ],
+    "referencia": "Libro de la Sabiduría",
+    "explicacion": "El libro de la Sabiduría (Sapientia Salomonis) fue escrito en griego, probablemente en Alejandría, ca. siglo I a.C."
+  },
+  {
+    "id": "cb038",
+    "pregunta": "¿A quién se atribuye el libro de Eclesiástico (Sirácida)?",
+    "respuesta": "Jesús Ben Sirá (Jesús hijo de Sirá)",
+    "opciones": [
+      "Jesús Ben Sirá (Jesús hijo de Sirá)",
+      "Salomón",
+      "Moisés",
+      "Esdras"
+    ],
+    "referencia": "Eclesiástico/Sirácida",
+    "explicacion": "El Eclesiástico o Sirácida fue escrito por Jesús hijo de Sirá alrededor del 180 a.C. y traducido al griego por su nieto."
+  },
+  {
+    "id": "cb039",
+    "pregunta": "¿Qué son las adiciones deuterocanónicas al libro de Ester y Daniel?",
+    "respuesta": "Fragmentos en griego no presentes en el texto hebreo",
+    "opciones": [
+      "Fragmentos en griego no presentes en el texto hebreo",
+      "Versiones completas alternativas",
+      "Comentarios rabínicos",
+      "Traducciones al arameo"
+    ],
+    "referencia": "Adiciones canónicas",
+    "explicacion": "La LXX incluye adiciones a Ester (Oración de Mardoqueo, etc.) y a Daniel (Oración de Azarías, Bel y el Dragón, etc.)."
+  },
+  {
+    "id": "cb040",
+    "pregunta": "¿Por qué Lutero llamó 'apócrifos' a los deuterocanónicos?",
+    "respuesta": "Porque no estaban en el canon hebreo que él siguió como base del AT",
+    "opciones": [
+      "Porque no estaban en el canon hebreo que él siguió como base del AT",
+      "Porque los consideraba falsos",
+      "Porque los escribió la Iglesia Católica",
+      "Porque eran libros recientes"
+    ],
+    "referencia": "Reforma protestante",
+    "explicacion": "En la Reforma, Lutero adoptó el canon hebreo del AT (Tanaj), excluyendo los libros sin original hebreo conocido en su tiempo."
+  },
+  {
+    "id": "cb041",
+    "pregunta": "¿Qué se entiende por 'libros apócrifos' en sentido amplio?",
+    "respuesta": "Escritos religiosos antiguos no incluidos en ningún canon bíblico principal",
+    "opciones": [
+      "Escritos religiosos antiguos no incluidos en ningún canon bíblico principal",
+      "Libros de magia o hechicería",
+      "Libros prohibidos por el gobierno romano",
+      "Falsificaciones medievales"
+    ],
+    "referencia": "Libros apócrifos",
+    "explicacion": "Los apócrifos son escritos judíos o cristianos primitivos de carácter religioso pero que no fueron incluidos en los cánones oficiales."
+  },
+  {
+    "id": "cb042",
+    "pregunta": "¿Qué significa literalmente la palabra 'apócrifo'?",
+    "respuesta": "Oculto o escondido",
+    "opciones": [
+      "Oculto o escondido",
+      "Falso",
+      "Antiguo",
+      "Prohibido"
+    ],
+    "referencia": "Etimología",
+    "explicacion": "'Apokryphos' en griego significa 'oculto', 'escondido'. Originalmente se usó para escritos esotéricos o de lectura reservada."
+  },
+  {
+    "id": "cb043",
+    "pregunta": "¿Qué libro apócrifo judío narra visiones sobre ángeles caídos y el juicio de Dios?",
+    "respuesta": "1 Enoc (Libro de Enoc)",
+    "opciones": [
+      "1 Enoc (Libro de Enoc)",
+      "Jubileos",
+      "Jasher",
+      "El Pastor de Hermas"
+    ],
+    "referencia": "1 Enoc",
+    "explicacion": "El libro de 1 Enoc (3er siglo a.C.) describe las visiones de Enoc sobre ángeles caídos (vigilantes), el diluvio y el juicio final."
+  },
+  {
+    "id": "cb044",
+    "pregunta": "¿Cuál es el único canon bíblico que incluye 1 Enoc?",
+    "respuesta": "El canon etíope (Iglesia Ortodoxa de Etiopía)",
+    "opciones": [
+      "El canon etíope (Iglesia Ortodoxa de Etiopía)",
+      "El canon católico",
+      "El canon protestante",
+      "El canon ortodoxo griego"
+    ],
+    "referencia": "Canon etíope",
+    "explicacion": "La Biblia de la Iglesia Etíope Tewahedo incluye 1 Enoc y otros libros no aceptados por otras tradiciones."
+  },
+  {
+    "id": "cb045",
+    "pregunta": "¿Qué son los Evangelios apócrifos?",
+    "respuesta": "Escritos sobre la vida de Jesús no aceptados en el canon cristiano",
+    "opciones": [
+      "Escritos sobre la vida de Jesús no aceptados en el canon cristiano",
+      "Los cuatro evangelios canónicos",
+      "Evangelios escritos por los apóstoles en arameo",
+      "Versiones abreviadas de los evangelios"
+    ],
+    "referencia": "Evangelios apócrifos",
+    "explicacion": "Evangelios apócrifos son escritos como el Evangelio de Tomás, de Pedro, de Felipe, etc., no aceptados en el NT canónico."
+  },
+  {
+    "id": "cb046",
+    "pregunta": "¿Qué son los textos de Nag Hammadi?",
+    "respuesta": "Manuscritos gnósticos descubiertos en Egipto en 1945",
+    "opciones": [
+      "Manuscritos gnósticos descubiertos en Egipto en 1945",
+      "Manuscritos del Mar Muerto",
+      "Versiones arameas del NT",
+      "Comentarios de los Padres de la Iglesia"
+    ],
+    "referencia": "Nag Hammadi",
+    "explicacion": "En 1945 se encontraron en Nag Hammadi (Egipto) 52 textos gnósticos en copto, incluyendo el Evangelio de Tomás."
+  },
+  {
+    "id": "cb047",
+    "pregunta": "¿Qué son los Manuscritos del Mar Muerto?",
+    "respuesta": "Textos bíblicos y sectarios judíos encontrados en Qumrán (1947)",
+    "opciones": [
+      "Textos bíblicos y sectarios judíos encontrados en Qumrán (1947)",
+      "Evangelios apócrifos griegos",
+      "Comentarios medievales sobre la Biblia",
+      "Traducciones latinas del AT"
+    ],
+    "referencia": "Qumrán",
+    "explicacion": "Los Rollos del Mar Muerto (descubiertos 1947-1956) contienen el AT más antiguo conocido y textos de la comunidad esenia."
+  },
+  {
+    "id": "cb048",
+    "pregunta": "¿El Libro de los Jubileos es apócrifo o canónico?",
+    "respuesta": "Apócrifo (excepto en el canon etíope)",
+    "opciones": [
+      "Apócrifo (excepto en el canon etíope)",
+      "Canónico en todas las tradiciones",
+      "Deuterocanónico católico",
+      "Canónico protestante"
+    ],
+    "referencia": "Libro de Jubileos",
+    "explicacion": "Los Jubileos son un escrito apócrifo judío del siglo II a.C. que retoma la historia desde la Creación hasta el Éxodo."
+  },
+  {
+    "id": "cb049",
+    "pregunta": "¿Qué es el Protocanon?",
+    "respuesta": "Los libros bíblicos aceptados desde el principio por todas las tradiciones",
+    "opciones": [
+      "Los libros bíblicos aceptados desde el principio por todas las tradiciones",
+      "El primer canon cristiano",
+      "Los libros del Pentateuco",
+      "Los evangelios canónicos"
+    ],
+    "referencia": "Protocanon",
+    "explicacion": "Los protocanónicos son los libros cuya canonicidad nunca fue cuestionada, en contraste con los deuterocanónicos y los apócrifos."
+  },
+  {
+    "id": "cb050",
+    "pregunta": "¿Qué libro del NT cita literalmente el libro de 1 Enoc?",
+    "respuesta": "Judas (versículo 14-15)",
+    "opciones": [
+      "Judas (versículo 14-15)",
+      "2 Pedro",
+      "Apocalipsis",
+      "Hebreos"
+    ],
+    "referencia": "Cita de Enoc",
+    "explicacion": "Judas 14-15 cita directamente 1 Enoc 1:9, lo que muestra que algunos autores del NT conocían este texto."
+  },
+  {
+    "id": "cb051",
+    "pregunta": "¿En qué siglos fue escrito el Antiguo Testamento?",
+    "respuesta": "Aproximadamente entre los siglos XIII y II a.C.",
+    "opciones": [
+      "Aproximadamente entre los siglos XIII y II a.C.",
+      "Solo en el siglo VI a.C.",
+      "Entre el siglo I a.C. y el I d.C.",
+      "Entre los siglos V y III a.C. exclusivamente"
+    ],
+    "referencia": "Historia del AT",
+    "explicacion": "Los textos del AT se escribieron a lo largo de más de un milenio, desde Moisés (ca. 1400 a.C.) hasta Daniel (ca. 165 a.C.)."
+  },
+  {
+    "id": "cb052",
+    "pregunta": "¿En qué siglo fueron escritos los libros del Nuevo Testamento?",
+    "respuesta": "En el siglo I d.C. (ca. 50-100 d.C.)",
+    "opciones": [
+      "En el siglo I d.C. (ca. 50-100 d.C.)",
+      "En el siglo II d.C.",
+      "Entre los siglos III y IV d.C.",
+      "En el mismo siglo que el AT"
+    ],
+    "referencia": "Historia del NT",
+    "explicacion": "Los libros del NT fueron escritos aproximadamente entre el año 50 d.C. (cartas de Pablo) y el 100 d.C. (Juan)."
+  },
+  {
+    "id": "cb053",
+    "pregunta": "¿Qué es la Septuaginta (LXX)?",
+    "respuesta": "Traducción del AT hebreo al griego, ca. siglo III-I a.C.",
+    "opciones": [
+      "Traducción del AT hebreo al griego, ca. siglo III-I a.C.",
+      "La primera Biblia impresa",
+      "La traducción al latín de Jerónimo",
+      "Un manuscrito hebreo antiguo"
+    ],
+    "referencia": "Septuaginta",
+    "explicacion": "La Septuaginta (abreviada LXX) fue la traducción del AT al griego, realizada en Alejandría para judíos de habla griega. Incluye los deuterocanónicos."
+  },
+  {
+    "id": "cb054",
+    "pregunta": "¿Qué significa '70' en el nombre Septuaginta?",
+    "respuesta": "Se refiere a los 70 (o 72) traductores según la leyenda",
+    "opciones": [
+      "Se refiere a los 70 (o 72) traductores según la leyenda",
+      "Que tardó 70 años en traducirse",
+      "Que tiene 70 libros",
+      "Que se hizo en el año 70 a.C."
+    ],
+    "referencia": "Septuaginta",
+    "explicacion": "La leyenda (Carta de Aristeas) dice que 72 sabios judíos tradujeron el Pentateuco en 72 días, redondeándose a '70'."
+  },
+  {
+    "id": "cb055",
+    "pregunta": "¿Qué es la Vulgata?",
+    "respuesta": "Traducción de la Biblia al latín hecha por San Jerónimo (ca. 382-405 d.C.)",
+    "opciones": [
+      "Traducción de la Biblia al latín hecha por San Jerónimo (ca. 382-405 d.C.)",
+      "Traducción al griego",
+      "El canon oficial protestante",
+      "La primera Biblia en español"
+    ],
+    "referencia": "Vulgata latina",
+    "explicacion": "La Vulgata ('versión común') fue encargada por el Papa Dámaso I a Jerónimo, quien tradujo directamente del hebreo y griego al latín."
+  },
+  {
+    "id": "cb056",
+    "pregunta": "¿Cuándo se imprimió por primera vez la Biblia completa?",
+    "respuesta": "1456 d.C. (Biblia de Gutenberg)",
+    "opciones": [
+      "1456 d.C. (Biblia de Gutenberg)",
+      "1000 d.C.",
+      "1600 d.C.",
+      "325 d.C."
+    ],
+    "referencia": "Historia de la impresión",
+    "explicacion": "Johannes Gutenberg imprimió la Biblia latina (Vulgata) alrededor de 1456, siendo uno de los primeros libros impresos."
+  },
+  {
+    "id": "cb057",
+    "pregunta": "¿Qué concilio estableció el canon del NT para la Iglesia Occidental?",
+    "respuesta": "Concilio de Cartago (397 d.C.)",
+    "opciones": [
+      "Concilio de Cartago (397 d.C.)",
+      "Concilio de Nicea (325 d.C.)",
+      "Concilio de Éfeso (431 d.C.)",
+      "Concilio de Trento (1546 d.C.)"
+    ],
+    "referencia": "Canon del NT",
+    "explicacion": "El Concilio de Cartago (397 d.C.) ratificó los 27 libros del NT como canon para las iglesias occidentales."
+  },
+  {
+    "id": "cb058",
+    "pregunta": "¿Qué es un 'manuscrito'?",
+    "respuesta": "Texto escrito a mano",
+    "opciones": [
+      "Texto escrito a mano",
+      "Un libro impreso antiguo",
+      "Una traducción bíblica",
+      "Un pergamino sellado"
+    ],
+    "referencia": "Terminología bíblica",
+    "explicacion": "La palabra 'manuscrito' viene del latín 'manus' (mano) y 'scriptum' (escrito): texto escrito manualmente antes de la imprenta."
+  },
+  {
+    "id": "cb059",
+    "pregunta": "¿Cuál es el manuscrito bíblico completo más antiguo conocido?",
+    "respuesta": "Códice Sinaítico (ca. siglo IV d.C.)",
+    "opciones": [
+      "Códice Sinaítico (ca. siglo IV d.C.)",
+      "Códice Vaticano",
+      "Manuscritos del Mar Muerto",
+      "Papiro Chester Beatty"
+    ],
+    "referencia": "Manuscritos bíblicos",
+    "explicacion": "El Códice Sinaítico (griego, siglo IV) contiene casi toda la Biblia y fue descubierto en el Monte Sinaí por Constantin Tischendorf."
+  },
+  {
+    "id": "cb060",
+    "pregunta": "¿Qué son los Códices bíblicos?",
+    "respuesta": "Manuscritos en forma de libro (no rollo)",
+    "opciones": [
+      "Manuscritos en forma de libro (no rollo)",
+      "Traducciones al códice",
+      "Libros de reglas eclesiásticas",
+      "Las primeras Biblias impresas"
+    ],
+    "referencia": "Códices",
+    "explicacion": "Los códices son manuscritos encuadernados en forma de libro moderno, distintos de los rollos (volúmenes) anteriores."
+  },
+  {
+    "id": "cb061",
+    "pregunta": "¿Cuántos autores humanos distintos escribieron la Biblia?",
+    "respuesta": "Aproximadamente 40 autores diferentes",
+    "opciones": [
+      "Aproximadamente 40 autores diferentes",
+      "Solo uno (Moisés)",
+      "10 autores",
+      "3 autores principales"
+    ],
+    "referencia": "Autoría bíblica",
+    "explicacion": "Aunque la Biblia es considerada inspirada por Dios, sus escritos provienen de unos 40 autores humanos distintos a lo largo de 1,500 años."
+  },
+  {
+    "id": "cb062",
+    "pregunta": "¿Qué tipo de géneros literarios contiene la Biblia?",
+    "respuesta": "Historia, poesía, profecía, ley, sabiduría, epístolas, apocalíptico",
+    "opciones": [
+      "Historia, poesía, profecía, ley, sabiduría, epístolas, apocalíptico",
+      "Solo prosa histórica",
+      "Solo poesía y profecía",
+      "Solo narrativa y cartas"
+    ],
+    "referencia": "Géneros bíblicos",
+    "explicacion": "La Biblia es literariamente diversa: incluye narrativa histórica, poesía (Salmos), sabiduría (Proverbios), profecía, ley, epístolas y escritura apocalíptica."
+  },
+  {
+    "id": "cb063",
+    "pregunta": "¿Qué es la literatura apocalíptica bíblica?",
+    "respuesta": "Escritos con visiones simbólicas sobre el fin de los tiempos y la intervención de Dios",
+    "opciones": [
+      "Escritos con visiones simbólicas sobre el fin de los tiempos y la intervención de Dios",
+      "Historia del pueblo judío",
+      "Cartas a las iglesias",
+      "Poesía de lamentación"
+    ],
+    "referencia": "Género apocalíptico",
+    "explicacion": "Los libros apocalípticos (Daniel, Apocalipsis) usan imágenes simbólicas, visiones y revelaciones sobre conflictos cósmicos y el final de la historia."
+  },
+  {
+    "id": "cb064",
+    "pregunta": "¿Cuál es el libro más poético de la Biblia?",
+    "respuesta": "Salmos",
+    "opciones": [
+      "Salmos",
+      "Proverbios",
+      "Job",
+      "Isaías"
+    ],
+    "referencia": "Poesía bíblica",
+    "explicacion": "El libro de los Salmos es el principal libro poético bíblico, con 150 poemas/canciones litúrgicas usados en el culto israelita."
+  },
+  {
+    "id": "cb065",
+    "pregunta": "¿Qué es el paralelismo en la poesía hebrea?",
+    "respuesta": "Técnica donde la segunda línea refuerza, contrasta o amplía la primera",
+    "opciones": [
+      "Técnica donde la segunda línea refuerza, contrasta o amplía la primera",
+      "Una forma de rima",
+      "Una estructura de coros y estribillos",
+      "La repetición exacta de una frase"
+    ],
+    "referencia": "Poesía hebrea",
+    "explicacion": "El paralelismo hebreo (sinónimo, antitético o sintético) es el principal recurso literario de la poesía del AT."
+  },
+  {
+    "id": "cb066",
+    "pregunta": "¿Cuál es el único libro del AT que no menciona a Dios?",
+    "respuesta": "Ester",
+    "opciones": [
+      "Ester",
+      "Cantares",
+      "Rut",
+      "Eclesiastés"
+    ],
+    "referencia": "Libro de Ester",
+    "explicacion": "El libro de Ester es peculiar porque no menciona explícitamente el nombre de Dios, aunque su presencia se infiere en la narrativa."
+  },
+  {
+    "id": "cb067",
+    "pregunta": "¿Qué son las 'epístolas'?",
+    "respuesta": "Cartas formales escritas a iglesias o personas",
+    "opciones": [
+      "Cartas formales escritas a iglesias o personas",
+      "Profecías del futuro",
+      "Narraciones históricas",
+      "Poemas de alabanza"
+    ],
+    "referencia": "Epístolas",
+    "explicacion": "Las epístolas del NT son cartas apostólicas escritas siguiendo el formato epistolar grecorromano: saludo, cuerpo, exhortaciones y despedida."
+  },
+  {
+    "id": "cb068",
+    "pregunta": "¿A qué género literario pertenece el libro de Job?",
+    "respuesta": "Poesía sapiencial con marco narrativo",
+    "opciones": [
+      "Poesía sapiencial con marco narrativo",
+      "Historia pura",
+      "Profecía",
+      "Ley religiosa"
+    ],
+    "referencia": "Libro de Job",
+    "explicacion": "Job combina un marco narrativo en prosa con extensos poemas en forma de diálogos filosóficos sobre el sufrimiento y la justicia de Dios."
+  },
+  {
+    "id": "cb069",
+    "pregunta": "¿Qué significa 'Torah' en su sentido más amplio?",
+    "respuesta": "Toda la enseñanza divina, a veces todo el AT",
+    "opciones": [
+      "Toda la enseñanza divina, a veces todo el AT",
+      "Solo el Pentateuco",
+      "Solo Génesis",
+      "Las instrucciones ceremoniales"
+    ],
+    "referencia": "Torah amplia",
+    "explicacion": "Torah puede significar el Pentateuco estrictamente, pero en sentido amplio puede referirse a toda la enseñanza o instrucción divina, incluyendo todo el AT."
+  },
+  {
+    "id": "cb070",
+    "pregunta": "¿Cuál es el capítulo más largo de la Biblia?",
+    "respuesta": "Salmo 119 (176 versículos)",
+    "opciones": [
+      "Salmo 119 (176 versículos)",
+      "Génesis 1",
+      "Isaías 53",
+      "Apocalipsis 1"
+    ],
+    "referencia": "Capítulo más largo",
+    "explicacion": "El Salmo 119 tiene 176 versículos, organizados como un acróstico con 22 estrofas de 8 versículos, una por letra del alfabeto hebreo."
+  },
+  {
+    "id": "cb071",
+    "pregunta": "¿Qué significa 'canon' bíblico?",
+    "respuesta": "Lista oficial de libros reconocidos como Sagrada Escritura",
+    "opciones": [
+      "Lista oficial de libros reconocidos como Sagrada Escritura",
+      "Una regla de interpretación",
+      "Una versión particular de la Biblia",
+      "El orden de los libros en el AT"
+    ],
+    "referencia": "Canon bíblico",
+    "explicacion": "'Canon' proviene del griego 'kanon' (regla, vara de medir). El canon bíblico es la lista de libros que cada tradición reconoce como autoritativos."
+  },
+  {
+    "id": "cb072",
+    "pregunta": "¿En qué concilio se definió el canon protestante del NT?",
+    "respuesta": "No fue un solo concilio; fue un proceso gradual confirmado en Cartago (397)",
+    "opciones": [
+      "No fue un solo concilio; fue un proceso gradual confirmado en Cartago (397)",
+      "Concilio de Nicea (325)",
+      "Concilio de Calcedonia (451)",
+      "Sínodo de Jamnia (90 d.C.)"
+    ],
+    "referencia": "Historia del canon",
+    "explicacion": "La canonicidad del NT se fue estableciendo gradualmente desde los primeros siglos; el Concilio de Cartago (397) fue clave para el occidente."
+  },
+  {
+    "id": "cb073",
+    "pregunta": "¿Qué es el Sínodo de Jamnia y cuál fue su relación con el canon del AT?",
+    "respuesta": "Reunión de rabinos judíos (ca. 90 d.C.) que discutió el canon hebreo",
+    "opciones": [
+      "Reunión de rabinos judíos (ca. 90 d.C.) que discutió el canon hebreo",
+      "Concilio cristiano del siglo IV",
+      "La primera traducción del AT",
+      "Un manuscrito hebreo del siglo I"
+    ],
+    "referencia": "Jamnia",
+    "explicacion": "En Jamnia (Yavné), rabinos judíos discutieron qué libros pertenecían al canon hebreo, excluyendo obras en griego como los deuterocanónicos."
+  },
+  {
+    "id": "cb074",
+    "pregunta": "¿Qué es el 'canon abierto' y el 'canon cerrado'?",
+    "respuesta": "Abierto: podría añadirse. Cerrado: ningún libro adicional es aceptado",
+    "opciones": [
+      "Abierto: podría añadirse. Cerrado: ningún libro adicional es aceptado",
+      "Son tipos de encuadernaciones",
+      "Se refiere al tamaño de los libros",
+      "Son traducciones diferentes"
+    ],
+    "referencia": "Canonicidad",
+    "explicacion": "La mayoría de las tradiciones consideran el canon bíblico cerrado; un canon abierto permitiría agregar nuevas escrituras."
+  },
+  {
+    "id": "cb075",
+    "pregunta": "¿Qué tres criterios principales usó la Iglesia para determinar el canon del NT?",
+    "respuesta": "Apostolicidad, catolicidad y ortodoxia",
+    "opciones": [
+      "Apostolicidad, catolicidad y ortodoxia",
+      "Longitud, antigüedad y popularidad",
+      "Autoría directa de Jesús, milagros confirmados y aprobación papal",
+      "Solo la tradición oral"
+    ],
+    "referencia": "Criterios del canon",
+    "explicacion": "Los criterios principales fueron: apostolicidad (origen apostólico), catolicidad (uso generalizado) y ortodoxia (coherencia doctrinal)."
+  },
+  {
+    "id": "cb076",
+    "pregunta": "¿Cuándo se formó el primer listado del NT igual al actual?",
+    "respuesta": "Carta de Atanasio en 367 d.C.",
+    "opciones": [
+      "Carta de Atanasio en 367 d.C.",
+      "Concilio de Nicea 325 d.C.",
+      "Pentecostés 33 d.C.",
+      "Concilio Vaticano 1870"
+    ],
+    "referencia": "Historia del canon NT",
+    "explicacion": "En su carta pascual del año 367, Atanasio de Alejandría listó exactamente los 27 libros del NT que hoy conocemos."
+  },
+  {
+    "id": "cb077",
+    "pregunta": "¿Qué libros del NT fueron los más disputados antes de ser aceptados en el canon?",
+    "respuesta": "Hebreos, Santiago, 2 Pedro, 2-3 Juan, Judas y Apocalipsis",
+    "opciones": [
+      "Hebreos, Santiago, 2 Pedro, 2-3 Juan, Judas y Apocalipsis",
+      "Los cuatro Evangelios",
+      "Las cartas de Pablo",
+      "Hechos de los Apóstoles"
+    ],
+    "referencia": "Antilegomena",
+    "explicacion": "Los 'antilegomena' (libros debatidos) incluían Hebreos, Santiago, 2 Pedro, 2-3 Juan, Judas y el Apocalipsis."
+  },
+  {
+    "id": "cb078",
+    "pregunta": "¿Qué es un 'antilegomenon'?",
+    "respuesta": "Un libro cuya canonicidad fue disputada en la Iglesia primitiva",
+    "opciones": [
+      "Un libro cuya canonicidad fue disputada en la Iglesia primitiva",
+      "Un libro perdido",
+      "Un apócrifo",
+      "Una traducción incorrecta"
+    ],
+    "referencia": "Terminología canónica",
+    "explicacion": "Los antilegomena ('libros disputados') son los que algunos rechazaban y otros aceptaban antes de que el canon se cerrara."
+  },
+  {
+    "id": "cb079",
+    "pregunta": "¿Qué es la Biblia etíope y cómo difiere del canon occidental?",
+    "respuesta": "Incluye 81 libros, con 1 Enoc, Jubileos y otros no aceptados por católicos o protestantes",
+    "opciones": [
+      "Incluye 81 libros, con 1 Enoc, Jubileos y otros no aceptados por católicos o protestantes",
+      "Es idéntica a la Biblia católica",
+      "Tiene solo 39 libros",
+      "Es una versión moderna"
+    ],
+    "referencia": "Canon etíope",
+    "explicacion": "La Iglesia Ortodoxa Tewahedo de Etiopía tiene el canon bíblico más amplio, con 81 libros, incluyendo 1 Enoc, 2 Enoc, Jubileos y otros."
+  },
+  {
+    "id": "cb080",
+    "pregunta": "¿Cuántos libros tiene la Biblia de la Iglesia Ortodoxa Griega?",
+    "respuesta": "Aproximadamente 76 libros (incluye algunos libros del LXX extra)",
+    "opciones": [
+      "Aproximadamente 76 libros (incluye algunos libros del LXX extra)",
+      "66",
+      "73",
+      "39"
+    ],
+    "referencia": "Canon ortodoxo",
+    "explicacion": "La Iglesia Ortodoxa Griega acepta los mismos 27 libros del NT más el AT de la LXX, que incluye algunos libros más que el canon católico."
+  },
+  {
+    "id": "cb081",
+    "pregunta": "¿Qué es la crítica textual bíblica?",
+    "respuesta": "Estudio de manuscritos para reconstruir el texto original",
+    "opciones": [
+      "Estudio de manuscritos para reconstruir el texto original",
+      "Crítica de los errores de la Biblia",
+      "Comparación de traducciones modernas",
+      "Historia de los concilios"
+    ],
+    "referencia": "Crítica textual",
+    "explicacion": "La crítica textual (TC) es la disciplina que examina manuscritos y otras evidencias para establecer el texto más cercano a los autógrafos originales."
+  },
+  {
+    "id": "cb082",
+    "pregunta": "¿Cuántos manuscritos griegos del NT se conocen aproximadamente?",
+    "respuesta": "Más de 5,800",
+    "opciones": [
+      "Más de 5,800",
+      "Unos 100",
+      "Unos 1,000",
+      "Más de 10,000"
+    ],
+    "referencia": "Manuscritos del NT",
+    "explicacion": "Se conocen más de 5,800 manuscritos griegos del NT, lo que lo convierte en el texto antiguo mejor atestiguado de la historia."
+  },
+  {
+    "id": "cb083",
+    "pregunta": "¿Qué son los 'autógrafos' en la Biblia?",
+    "respuesta": "Los documentos originales escritos por los propios autores",
+    "opciones": [
+      "Los documentos originales escritos por los propios autores",
+      "Las firmas de los profetas",
+      "Los rollos del Mar Muerto",
+      "Las primeras traducciones"
+    ],
+    "referencia": "Autógrafos bíblicos",
+    "explicacion": "Los autógrafos son los manuscritos originales, ninguno de los cuales se ha conservado. Solo tenemos copias de copias."
+  },
+  {
+    "id": "cb084",
+    "pregunta": "¿Qué es un 'papiro' en el contexto bíblico?",
+    "respuesta": "Material de escritura hecho de la planta del papiro, usado en el mundo antiguo",
+    "opciones": [
+      "Material de escritura hecho de la planta del papiro, usado en el mundo antiguo",
+      "Un tipo de pergamino medieval",
+      "Un tipo de libro encuadernado",
+      "Una tabla de arcilla"
+    ],
+    "referencia": "Materiales de escritura",
+    "explicacion": "El papiro (planta del Nilo) fue el principal material de escritura en el Mediterráneo hasta el pergamino. Muchos manuscritos bíblicos son en papiro."
+  },
+  {
+    "id": "cb085",
+    "pregunta": "¿Qué es la Masorá y quiénes fueron los masoretas?",
+    "respuesta": "Tradición de transmisión del texto hebreo; rabinos que preservaron el AT (siglos VI-X d.C.)",
+    "opciones": [
+      "Tradición de transmisión del texto hebreo; rabinos que preservaron el AT (siglos VI-X d.C.)",
+      "Los primeros traductores del NT",
+      "Los autores del Pentateuco",
+      "Los copistas de los Manuscritos del Mar Muerto"
+    ],
+    "referencia": "Texto masorético",
+    "explicacion": "Los masoretas (ca. 500-1000 d.C.) añadieron vocales y notas (masora) al texto consonántico hebreo para preservar su pronunciación exacta."
+  },
+  {
+    "id": "cb086",
+    "pregunta": "¿Qué es el Texto Masorético (TM)?",
+    "respuesta": "El texto hebreo del AT tal como fue preservado por los masoretas",
+    "opciones": [
+      "El texto hebreo del AT tal como fue preservado por los masoretas",
+      "La traducción latina del AT",
+      "El texto griego del NT",
+      "Un manuscrito del siglo I"
+    ],
+    "referencia": "Texto Masorético",
+    "explicacion": "El Texto Masorético (TM) es la versión estándar del AT hebreo, preservada por los masoretas entre el 600 y el 1000 d.C."
+  },
+  {
+    "id": "cb087",
+    "pregunta": "¿Cuál es el manuscrito hebreo completo más antiguo del AT?",
+    "respuesta": "Códice de Alepo (ca. 920 d.C.) y Códice de Leningrado (1008 d.C.)",
+    "opciones": [
+      "Códice de Alepo (ca. 920 d.C.) y Códice de Leningrado (1008 d.C.)",
+      "Manuscritos del Mar Muerto",
+      "Códice Sinaítico",
+      "Papiro Rylands"
+    ],
+    "referencia": "Manuscritos hebreos del AT",
+    "explicacion": "El Códice de Alepo (ca. 920) es el más antiguo casi completo; el Códice de Leningrado (1008/1009) es el manuscrito hebreo completo más antiguo."
+  },
+  {
+    "id": "cb088",
+    "pregunta": "¿Qué importancia tuvieron los Rollos del Mar Muerto para la crítica textual?",
+    "respuesta": "Confirmaron la precisión del texto bíblico hebreo al ser 1,000 años más antiguos que los manuscritos conocidos",
+    "opciones": [
+      "Confirmaron la precisión del texto bíblico hebreo al ser 1,000 años más antiguos que los manuscritos conocidos",
+      "Revelaron errores graves en la Biblia",
+      "Introdujeron nuevos libros al canon",
+      "Demostraron que la Biblia fue escrita en el siglo I"
+    ],
+    "referencia": "Rollos del Mar Muerto",
+    "explicacion": "Los Rollos del Mar Muerto (Qumrán, 250 a.C.–68 d.C.) incluyen fragmentos de todos los libros del AT (excepto Ester) y confirmaron la confiabilidad del texto masorético."
+  },
+  {
+    "id": "cb089",
+    "pregunta": "¿Qué es la 'Biblia Políglota'?",
+    "respuesta": "Edición con el texto bíblico en varios idiomas en columnas paralelas",
+    "opciones": [
+      "Edición con el texto bíblico en varios idiomas en columnas paralelas",
+      "Una Biblia con ilustraciones",
+      "Una Biblia traducida a lenguas modernas",
+      "Un tipo de manuscrito antiguo"
+    ],
+    "referencia": "Biblias polígotas",
+    "explicacion": "Las Biblias polígotas presentan el texto en varios idiomas simultáneamente. La más famosa es la Políglota Complutense (1514-17) con hebreo, arameo, griego y latín."
+  },
+  {
+    "id": "cb090",
+    "pregunta": "¿Qué son las 'variantes textuales' en los manuscritos bíblicos?",
+    "respuesta": "Diferencias entre manuscritos en palabras, frases u ortografía",
+    "opciones": [
+      "Diferencias entre manuscritos en palabras, frases u ortografía",
+      "Errores de traducción",
+      "Cambios intencionales por herejes",
+      "Distintos cánones de libros"
+    ],
+    "referencia": "Variantes textuales",
+    "explicacion": "Las variantes textuales son diferencias entre manuscritos, la mayoría sin importancia doctrinal (errores de copista, ortografía, sinónimos)."
+  },
+  {
+    "id": "cb091",
+    "pregunta": "¿Cuál fue la primera traducción completa de la Biblia al inglés?",
+    "respuesta": "Biblia de Wycliffe (ca. 1382-1395)",
+    "opciones": [
+      "Biblia de Wycliffe (ca. 1382-1395)",
+      "Biblia del Rey Jacobo (1611)",
+      "Biblia de Tyndale (1525-1535)",
+      "Biblia de Ginebra (1560)"
+    ],
+    "referencia": "Historia de traducciones",
+    "explicacion": "John Wycliffe y sus colaboradores produjeron la primera Biblia completa en inglés ca. 1382, traducida de la Vulgata latina."
+  },
+  {
+    "id": "cb092",
+    "pregunta": "¿Quién tradujo la Biblia al alemán en el siglo XVI?",
+    "respuesta": "Martín Lutero (NT: 1522; AT completo: 1534)",
+    "opciones": [
+      "Martín Lutero (NT: 1522; AT completo: 1534)",
+      "Juan Calvino",
+      "Ulrico Zuinglio",
+      "Felipe Melanchthon"
+    ],
+    "referencia": "Biblia de Lutero",
+    "explicacion": "Lutero tradujo el NT al alemán en 1522 y el AT completo en 1534, estableciendo las bases del alemán moderno con su traducción."
+  },
+  {
+    "id": "cb093",
+    "pregunta": "¿Qué es la Biblia Reina-Valera?",
+    "respuesta": "Traducción española de 1569 (Casiodoro de Reina) revisada por Cipriano de Valera en 1602",
+    "opciones": [
+      "Traducción española de 1569 (Casiodoro de Reina) revisada por Cipriano de Valera en 1602",
+      "La primera Biblia en español del siglo XVI hecha por jesuitas",
+      "Una traducción moderna del siglo XX",
+      "La traducción oficial del Vaticano al español"
+    ],
+    "referencia": "Biblia en español",
+    "explicacion": "Casiodoro de Reina publicó la primera Biblia protestante completa en español en 1569. Cipriano de Valera la revisó en 1602, dando la Reina-Valera."
+  },
+  {
+    "id": "cb094",
+    "pregunta": "¿Qué es la Biblia del Rey Jacobo (KJV)?",
+    "respuesta": "Traducción inglesa autorizada de 1611, encargada por el Rey Jacobo I",
+    "opciones": [
+      "Traducción inglesa autorizada de 1611, encargada por el Rey Jacobo I",
+      "La primera Biblia impresa",
+      "La Biblia de Juan Calvino",
+      "La Biblia católica en inglés"
+    ],
+    "referencia": "KJV",
+    "explicacion": "La King James Version (1611) fue realizada por 47 eruditos y se convirtió en la Biblia más influyente en el mundo anglófono."
+  },
+  {
+    "id": "cb095",
+    "pregunta": "¿Qué versión española es la más usada en las iglesias protestantes latinoamericanas?",
+    "respuesta": "Reina-Valera 1960 (RV1960)",
+    "opciones": [
+      "Reina-Valera 1960 (RV1960)",
+      "Biblia de Jerusalén",
+      "Nueva Versión Internacional (NVI)",
+      "Biblia de las Américas (LBLA)"
+    ],
+    "referencia": "Traducciones en español",
+    "explicacion": "La Reina-Valera de 1960 es la revisión más usada en iglesias evangélicas de Latinoamérica."
+  },
+  {
+    "id": "cb096",
+    "pregunta": "¿En qué partes del AT está escrito en arameo?",
+    "respuesta": "Partes de Daniel (2:4b-7:28) y Esdras (4:8-6:18; 7:12-26)",
+    "opciones": [
+      "Partes de Daniel (2:4b-7:28) y Esdras (4:8-6:18; 7:12-26)",
+      "Todo el libro de Job",
+      "Solo Génesis 31:47",
+      "El libro de Rut completo"
+    ],
+    "referencia": "Arameo en el AT",
+    "explicacion": "El arameo aparece en partes de Daniel y Esdras, así como una frase en Génesis 31:47 y otras expresiones aisladas."
+  },
+  {
+    "id": "cb097",
+    "pregunta": "¿Por qué el Nuevo Testamento fue escrito en griego?",
+    "respuesta": "El griego koiné era la lengua franca del Imperio Romano",
+    "opciones": [
+      "El griego koiné era la lengua franca del Imperio Romano",
+      "Porque los apóstoles eran griegos",
+      "Porque Jesús hablaba griego",
+      "Porque la Iglesia ordenó escribirlo en griego"
+    ],
+    "referencia": "Griego del NT",
+    "explicacion": "El griego koiné (común) era la lengua de comunicación en todo el Mediterráneo en el siglo I, lo que permitió que el NT llegara a todos los pueblos."
+  },
+  {
+    "id": "cb098",
+    "pregunta": "¿Qué idioma hablaba Jesús principalmente?",
+    "respuesta": "Arameo (también conocía hebreo y posiblemente algo de griego)",
+    "opciones": [
+      "Arameo (también conocía hebreo y posiblemente algo de griego)",
+      "Griego",
+      "Latín",
+      "Hebreo exclusivamente"
+    ],
+    "referencia": "Idioma de Jesús",
+    "explicacion": "En el siglo I, el arameo era la lengua vernácula de los judíos de Galilea y Judea. Jesús probablemente también conocía hebreo bíblico y algo de griego."
+  },
+  {
+    "id": "cb099",
+    "pregunta": "¿Qué son los 'hebraísmos' en el NT?",
+    "respuesta": "Expresiones en griego que reflejan estructuras del hebreo o arameo",
+    "opciones": [
+      "Expresiones en griego que reflejan estructuras del hebreo o arameo",
+      "Palabras hebreas sin traducir",
+      "Citas directas del AT hebreo",
+      "Nombres propios de origen hebreo"
+    ],
+    "referencia": "Hebraísmos",
+    "explicacion": "Los hebraísmos son construcciones gramaticales o semánticas del NT en griego que reflejan la influencia del pensamiento semítico de sus autores."
+  },
+  {
+    "id": "cb100",
+    "pregunta": "¿Qué es el griego koiné?",
+    "respuesta": "El griego común hablado en el Mediterráneo entre ca. 300 a.C. y 300 d.C.",
+    "opciones": [
+      "El griego común hablado en el Mediterráneo entre ca. 300 a.C. y 300 d.C.",
+      "El griego clásico de Platón",
+      "El griego medieval",
+      "Un dialecto regional de Grecia"
+    ],
+    "referencia": "Griego koiné",
+    "explicacion": "El griego koiné (koiné = común) es el dialecto griego que surgió con Alejandro Magno y se convirtió en la lengua franca del mundo antiguo."
+  },
+  {
+    "id": "cb101",
+    "pregunta": "¿Cuántos capítulos tiene el libro de Salmos?",
+    "respuesta": "150",
+    "opciones": [
+      "150",
+      "120",
+      "100",
+      "176"
+    ],
+    "referencia": "Libro de Salmos",
+    "explicacion": "El libro de los Salmos tiene exactamente 150 salmos/capítulos, divididos en 5 'libros' internos."
+  },
+  {
+    "id": "cb102",
+    "pregunta": "¿Cuántos capítulos tiene Génesis?",
+    "respuesta": "50",
+    "opciones": [
+      "50",
+      "45",
+      "60",
+      "40"
+    ],
+    "referencia": "Génesis",
+    "explicacion": "Génesis tiene 50 capítulos, desde la creación hasta la muerte de José en Egipto."
+  },
+  {
+    "id": "cb103",
+    "pregunta": "¿Cuántos capítulos tiene Isaías?",
+    "respuesta": "66",
+    "opciones": [
+      "66",
+      "60",
+      "52",
+      "70"
+    ],
+    "referencia": "Isaías",
+    "explicacion": "Isaías tiene 66 capítulos, coincidencia curiosa con los 66 libros de la Biblia protestante."
+  },
+  {
+    "id": "cb104",
+    "pregunta": "¿Cuántos capítulos tiene el Evangelio de Juan?",
+    "respuesta": "21",
+    "opciones": [
+      "21",
+      "20",
+      "24",
+      "16"
+    ],
+    "referencia": "Evangelio de Juan",
+    "explicacion": "Juan tiene 21 capítulos; el capítulo 21 es considerado por algunos como un epílogo añadido."
+  },
+  {
+    "id": "cb105",
+    "pregunta": "¿Cuántos capítulos tiene el libro de Romanos?",
+    "respuesta": "16",
+    "opciones": [
+      "16",
+      "15",
+      "18",
+      "14"
+    ],
+    "referencia": "Romanos",
+    "explicacion": "La epístola a los Romanos tiene 16 capítulos y es la carta más larga y teológicamente sistemática de Pablo."
+  },
+  {
+    "id": "cb106",
+    "pregunta": "¿En cuántas secciones internas se divide el libro de Salmos?",
+    "respuesta": "5 libros",
+    "opciones": [
+      "5 libros",
+      "3 partes",
+      "7 secciones",
+      "2 colecciones"
+    ],
+    "referencia": "Estructura de Salmos",
+    "explicacion": "El libro de Salmos está dividido en 5 libros: I (1-41), II (42-72), III (73-89), IV (90-106), V (107-150)."
+  },
+  {
+    "id": "cb107",
+    "pregunta": "¿Cuántos capítulos tiene el Apocalipsis?",
+    "respuesta": "22",
+    "opciones": [
+      "22",
+      "20",
+      "24",
+      "18"
+    ],
+    "referencia": "Apocalipsis",
+    "explicacion": "El Apocalipsis o Revelación tiene 22 capítulos, siendo los últimos libros del NT y de la Biblia."
+  },
+  {
+    "id": "cb108",
+    "pregunta": "¿Cuántos capítulos tiene Mateo?",
+    "respuesta": "28",
+    "opciones": [
+      "28",
+      "25",
+      "30",
+      "24"
+    ],
+    "referencia": "Evangelio de Mateo",
+    "explicacion": "Mateo tiene 28 capítulos; es el evangelio más largo y el primero en el NT."
+  },
+  {
+    "id": "cb109",
+    "pregunta": "¿Cuántos capítulos tiene Jeremías?",
+    "respuesta": "52",
+    "opciones": [
+      "52",
+      "50",
+      "48",
+      "55"
+    ],
+    "referencia": "Jeremías",
+    "explicacion": "Jeremías tiene 52 capítulos y es el libro más largo de la Biblia en número de palabras."
+  },
+  {
+    "id": "cb110",
+    "pregunta": "¿Cuántos capítulos tiene el libro de los Hechos?",
+    "respuesta": "28",
+    "opciones": [
+      "28",
+      "24",
+      "30",
+      "22"
+    ],
+    "referencia": "Hechos",
+    "explicacion": "Hechos de los Apóstoles tiene 28 capítulos, narrando desde la ascensión de Jesús hasta la llegada de Pablo a Roma."
+  },
+  {
+    "id": "cb111",
+    "pregunta": "¿Cuál es el versículo más corto de la Biblia?",
+    "respuesta": "Juan 11:35 ('Jesús lloró')",
+    "opciones": [
+      "Juan 11:35 ('Jesús lloró')",
+      "1 Tesalonicenses 5:16",
+      "Salmo 117:2",
+      "Apocalipsis 1:8"
+    ],
+    "referencia": "Versículo más corto",
+    "explicacion": "Juan 11:35 ('Jesús lloró') tiene solo dos palabras en español y en griego ('ἐδάκρυσεν ὁ Ἰησοῦς'), siendo el versículo más corto."
+  },
+  {
+    "id": "cb112",
+    "pregunta": "¿Qué es el versículo del medio de la Biblia?",
+    "respuesta": "Salmo 118:8",
+    "opciones": [
+      "Salmo 118:8",
+      "Salmo 100:1",
+      "Proverbios 15:1",
+      "Isaías 40:31"
+    ],
+    "referencia": "Versículo central",
+    "explicacion": "Salmo 118:8 es frecuentemente citado como el versículo del medio de la Biblia, ubicado aproximadamente en el centro del canon."
+  },
+  {
+    "id": "cb113",
+    "pregunta": "¿Qué es el Nuevo Testamento en términos literarios?",
+    "respuesta": "Una colección de escritos del siglo I sobre Jesús y la Iglesia primitiva",
+    "opciones": [
+      "Una colección de escritos del siglo I sobre Jesús y la Iglesia primitiva",
+      "El segundo tomo de la Biblia judía",
+      "Una revisión del Antiguo Testamento",
+      "El libro de las leyes de Moisés"
+    ],
+    "referencia": "Naturaleza del NT",
+    "explicacion": "El NT es una colección de 27 escritos del siglo I que testifican sobre Jesús de Nazaret, su muerte, resurrección y el nacimiento de la Iglesia."
+  },
+  {
+    "id": "cb114",
+    "pregunta": "¿Qué es el 'deuteronomista' en la crítica bíblica?",
+    "respuesta": "Hipotético editor o escuela responsable de los libros Deuteronomio–2 Reyes",
+    "opciones": [
+      "Hipotético editor o escuela responsable de los libros Deuteronomio–2 Reyes",
+      "El autor de Deuteronomio",
+      "Un escriba del siglo VI",
+      "Un movimiento religioso"
+    ],
+    "referencia": "Historia deuteronomista",
+    "explicacion": "La 'Historia Deuteronomista' (HDt) es la teoría de que Deuteronomio, Josué, Jueces, Samuel y Reyes fueron editados por una misma escuela teológica."
+  },
+  {
+    "id": "cb115",
+    "pregunta": "¿Qué es la hipótesis documentaria (JEDP)?",
+    "respuesta": "Teoría de que el Pentateuco fue compuesto de 4 fuentes originales (J, E, D, P)",
+    "opciones": [
+      "Teoría de que el Pentateuco fue compuesto de 4 fuentes originales (J, E, D, P)",
+      "La historia de las cuatro tradiciones apostólicas",
+      "Los cuatro evangelios como fuentes",
+      "La teoría de cuatro copistas medievales"
+    ],
+    "referencia": "Crítica del Pentateuco",
+    "explicacion": "La hipótesis JEDP (Yahvista, Elohísta, Deuteronomista, Sacerdotal) propone que el Pentateuco fue compilado de cuatro fuentes distintas."
+  },
+  {
+    "id": "cb116",
+    "pregunta": "¿Qué es la 'fuente Q' en el estudio de los Evangelios?",
+    "respuesta": "Hipotética colección de dichos de Jesús usada por Mateo y Lucas",
+    "opciones": [
+      "Hipotética colección de dichos de Jesús usada por Mateo y Lucas",
+      "El Evangelio de Juan",
+      "Los dichos de Marcos",
+      "Una fuente aramea de Pedro"
+    ],
+    "referencia": "Fuente Q",
+    "explicacion": "La 'fuente Q' (del alemán 'Quelle' = fuente) es una colección hipotética de dichos de Jesús que explicaría el material común entre Mateo y Lucas que no está en Marcos."
+  },
+  {
+    "id": "cb117",
+    "pregunta": "¿Qué relación tienen los cuatro evangelios sinópticos con Marcos?",
+    "respuesta": "Marcos es probablemente el primer evangelio y fuente de Mateo y Lucas",
+    "opciones": [
+      "Marcos es probablemente el primer evangelio y fuente de Mateo y Lucas",
+      "Mateo es el más antiguo y fuente de los demás",
+      "Juan es la base de los sinópticos",
+      "No hay relación entre ellos"
+    ],
+    "referencia": "Prioridad de Marcos",
+    "explicacion": "La mayoría de los críticos del texto aceptan la 'prioridad marcana': Marcos fue escrito primero y sirvió como fuente principal de Mateo y Lucas."
+  },
+  {
+    "id": "cb118",
+    "pregunta": "¿Qué son los 'Hechos apócrifos de los Apóstoles'?",
+    "respuesta": "Escritos del siglo II que narran aventuras de apóstoles no incluidas en el NT",
+    "opciones": [
+      "Escritos del siglo II que narran aventuras de apóstoles no incluidas en el NT",
+      "El libro canónico de los Hechos",
+      "Cartas de apóstoles no incluidas en el NT",
+      "Biografías de apóstoles medievales"
+    ],
+    "referencia": "Hechos apócrifos",
+    "explicacion": "Son textos como los Hechos de Pablo, Hechos de Pedro, Hechos de Tomás, etc., escritos en los siglos II-III con narraciones legendarias de apóstoles."
+  },
+  {
+    "id": "cb119",
+    "pregunta": "¿Qué es la 'Didajé'?",
+    "respuesta": "Un manual de instrucción cristiana del siglo I-II, no incluido en el NT",
+    "opciones": [
+      "Un manual de instrucción cristiana del siglo I-II, no incluido en el NT",
+      "Un evangelio apócrifo",
+      "Un libro deuterocanónico del AT",
+      "Una carta de Pablo no incluida en el NT"
+    ],
+    "referencia": "Didajé",
+    "explicacion": "La Didajé ('Enseñanza') es un documento cristiano del siglo I-II que contiene instrucciones morales, litúrgicas y comunitarias. Fue considerada por algunos como escritura."
+  },
+  {
+    "id": "cb120",
+    "pregunta": "¿Qué es la 'Epístola de Bernabé'?",
+    "respuesta": "Carta cristiana del siglo I-II que fue considerada canónica por algunos",
+    "opciones": [
+      "Carta cristiana del siglo I-II que fue considerada canónica por algunos",
+      "Una carta auténtica del apóstol Bernabé",
+      "Una carta de Pablo",
+      "Un libro del AT"
+    ],
+    "referencia": "Epístola de Bernabé",
+    "explicacion": "La Epístola de Bernabé (ca. 100-130 d.C.) fue incluida en el Códice Sinaítico junto al NT, pero finalmente no fue incluida en el canon."
+  },
+  {
+    "id": "cb121",
+    "pregunta": "¿Qué libros del AT tienen acrosticos alfabéticos hebreos?",
+    "respuesta": "Salmo 119, Lamentaciones y partes de Proverbios",
+    "opciones": [
+      "Salmo 119, Lamentaciones y partes de Proverbios",
+      "Solo Salmo 119",
+      "Génesis y Salmos",
+      "Solo los libros poéticos"
+    ],
+    "referencia": "Acrósticos hebreos",
+    "explicacion": "El Salmo 119 es el acróstico más elaborado (22 estrofas x 8 versículos). Lamentaciones tiene capítulos acrósticos y Proverbios 31:10-31 es un acróstico de la mujer virtuosa."
+  },
+  {
+    "id": "cb122",
+    "pregunta": "¿Cuántos libros del NT son cartas personales?",
+    "respuesta": "3 (Filemón, 2 Juan, 3 Juan)",
+    "opciones": [
+      "3 (Filemón, 2 Juan, 3 Juan)",
+      "Solo Filemón",
+      "Ninguno",
+      "Todas las cartas de Pablo"
+    ],
+    "referencia": "Cartas personales del NT",
+    "explicacion": "Las cartas más personales son: Filemón (a un individuo sobre un esclavo), 2 Juan (a una señora elegida) y 3 Juan (a Gayo)."
+  },
+  {
+    "id": "cb123",
+    "pregunta": "¿Qué es la 'Carta a los Hebreos' y quién la escribió?",
+    "respuesta": "Epístola del NT de autoría desconocida; posiblemente Pablo, Apolos o Bernabé",
+    "opciones": [
+      "Epístola del NT de autoría desconocida; posiblemente Pablo, Apolos o Bernabé",
+      "Claramente escrita por Pablo",
+      "Escrita por el apóstol Pedro",
+      "Un documento del siglo II"
+    ],
+    "referencia": "Epístola a los Hebreos",
+    "explicacion": "La autoría de Hebreos es debatida desde la antigüedad. Su estilo griego elegante difiere de Pablo. Orígenes dijo 'solo Dios sabe' quién la escribió."
+  },
+  {
+    "id": "cb124",
+    "pregunta": "¿Qué son los 'isagógicos' de la Biblia?",
+    "respuesta": "Introducciones académicas a los libros bíblicos (autoría, fecha, contexto)",
+    "opciones": [
+      "Introducciones académicas a los libros bíblicos (autoría, fecha, contexto)",
+      "Notas al pie de la Biblia",
+      "Índices de temas bíblicos",
+      "Diccionarios bíblicos"
+    ],
+    "referencia": "Isagogía",
+    "explicacion": "La 'isagogía' (del griego 'eisagogé' = introducción) es el estudio académico de los aspectos introductivos de los libros bíblicos."
+  },
+  {
+    "id": "cb125",
+    "pregunta": "¿Cuándo se añadieron los capítulos y versículos a la Biblia?",
+    "respuesta": "Capítulos: siglo XIII; versículos: siglo XVI",
+    "opciones": [
+      "Capítulos: siglo XIII; versículos: siglo XVI",
+      "Desde el principio, en los originales",
+      "Capítulos: siglo V; versículos: siglo X",
+      "En el Concilio de Nicea (325)"
+    ],
+    "referencia": "Capítulos y versículos",
+    "explicacion": "Stephen Langton añadió capítulos al AT ca. 1227. Robert Estienne (Stephanus) añadió los versículos al NT en 1551 y al AT en 1553."
+  },
+  {
+    "id": "cb126",
+    "pregunta": "¿Qué es el 'Comma Johanneum' (1 Juan 5:7)?",
+    "respuesta": "Texto sobre la Trinidad en 1 Juan 5:7, considerado una interpolación tardía no original",
+    "opciones": [
+      "Texto sobre la Trinidad en 1 Juan 5:7, considerado una interpolación tardía no original",
+      "Un versículo auténtico del apóstol Juan",
+      "Una herejía condenada",
+      "Un texto encontrado en Qumrán"
+    ],
+    "referencia": "Crítica textual del NT",
+    "explicacion": "El 'Comma Johanneum' ('porque tres son los que dan testimonio en el cielo: el Padre, el Verbo y el Espíritu Santo') no aparece en los manuscritos griegos más antiguos y se considera una adición posterior."
+  },
+  {
+    "id": "cb127",
+    "pregunta": "¿Qué idioma usa el libro de Daniel y por qué?",
+    "respuesta": "Hebreo (capítulos 1; 8-12) y arameo (capítulos 2-7)",
+    "opciones": [
+      "Hebreo (capítulos 1; 8-12) y arameo (capítulos 2-7)",
+      "Solo hebreo",
+      "Solo arameo",
+      "Hebreo con traducciones griegas"
+    ],
+    "referencia": "Idiomas de Daniel",
+    "explicacion": "Daniel usa arameo en la parte universal (capítulos 2-7, sobre reinos mundiales) y hebreo en las secciones proféticas más personales para Israel."
+  },
+  {
+    "id": "cb128",
+    "pregunta": "¿Qué relación tiene el Nuevo Testamento con el Antiguo Testamento?",
+    "respuesta": "El NT contiene más de 300 citas directas y ~2000 alusiones al AT",
+    "opciones": [
+      "El NT contiene más de 300 citas directas y ~2000 alusiones al AT",
+      "Son completamente independientes",
+      "El NT reemplaza completamente al AT",
+      "Solo hay 50 referencias al AT en el NT"
+    ],
+    "referencia": "AT y NT",
+    "explicacion": "El NT está impregnado del AT: hay más de 300 citas explícitas y aproximadamente 2,000 alusiones. Los autores del NT veían el AT como fundamento de su mensaje."
+  },
+  {
+    "id": "cb129",
+    "pregunta": "¿Qué es la 'Peshitta'?",
+    "respuesta": "Versión de la Biblia en siríaco, usada por las iglesias del Oriente Medio",
+    "opciones": [
+      "Versión de la Biblia en siríaco, usada por las iglesias del Oriente Medio",
+      "Una traducción árabe medieval",
+      "La Biblia de la Iglesia copta",
+      "La versión aramea del NT"
+    ],
+    "referencia": "Peshitta",
+    "explicacion": "La Peshitta (siríaco = 'simple') es la versión bíblica oficial de las iglesias siríacas de Oriente Medio, con partes del AT datadas al siglo I d.C."
+  },
+  {
+    "id": "cb130",
+    "pregunta": "¿Qué libros del NT no incluye la Peshitta siríaca original?",
+    "respuesta": "2 Pedro, 2-3 Juan, Judas y Apocalipsis",
+    "opciones": [
+      "2 Pedro, 2-3 Juan, Judas y Apocalipsis",
+      "Los evangelios",
+      "Las cartas de Pablo",
+      "Hebreos y Santiago"
+    ],
+    "referencia": "Canon siríaco",
+    "explicacion": "La Peshitta original siríaca no incluía 2 Pedro, 2-3 Juan, Judas y Apocalipsis, los mismos que fueron disputados en occidente."
+  },
+  {
+    "id": "cb131",
+    "pregunta": "¿Qué es la 'Biblia de Osuna' o Biblia alfonsina?",
+    "respuesta": "Una de las primeras traducciones medievales de la Biblia al castellano",
+    "opciones": [
+      "Una de las primeras traducciones medievales de la Biblia al castellano",
+      "La primera Biblia impresa en España",
+      "Una traducción del siglo XX",
+      "Una versión aprobada por el Concilio de Trento"
+    ],
+    "referencia": "Biblias en castellano",
+    "explicacion": "En la España medieval se produjeron diversas traducciones del latín al castellano; la Biblia alfonsina se asocia al proyecto cultural del Rey Alfonso X."
+  },
+  {
+    "id": "cb132",
+    "pregunta": "¿Cuántos libros escriturales tiene la Iglesia Ortodoxa Siriaca de Antioquía?",
+    "respuesta": "22 libros en su NT (sin 2 Pedro, 2-3 Juan, Judas, Apocalipsis)",
+    "opciones": [
+      "22 libros en su NT (sin 2 Pedro, 2-3 Juan, Judas, Apocalipsis)",
+      "27 igual que el NT estándar",
+      "66 igual que el protestante",
+      "73 igual que el católico"
+    ],
+    "referencia": "Canon siríaco",
+    "explicacion": "La Iglesia Siriaca de Antioquía históricamente usó un NT de 22 libros (Peshitta), sin los 5 libros disputados de otras tradiciones."
+  },
+  {
+    "id": "cb133",
+    "pregunta": "¿Cuál es el libro más citado del AT en el NT?",
+    "respuesta": "Salmos",
+    "opciones": [
+      "Salmos",
+      "Isaías",
+      "Deuteronomio",
+      "Génesis"
+    ],
+    "referencia": "Citas del AT en el NT",
+    "explicacion": "Los Salmos son el libro del AT más citado en el NT (más de 70 veces directamente), seguido por Isaías."
+  },
+  {
+    "id": "cb134",
+    "pregunta": "¿Cuál es la diferencia entre 'inspiración' e 'inerrancia' bíblica?",
+    "respuesta": "Inspiración: Dios guió a los autores; inerrancia: la Biblia está libre de error en lo que afirma",
+    "opciones": [
+      "Inspiración: Dios guió a los autores; inerrancia: la Biblia está libre de error en lo que afirma",
+      "Son sinónimos",
+      "Inspiración es literalidad; inerrancia es interpretación",
+      "Ambos son términos modernos sin base histórica"
+    ],
+    "referencia": "Doctrinas bíblicas",
+    "explicacion": "La doctrina de la inspiración (2 Tim 3:16) afirma que Dios guió a los autores; la inerrancia sostiene que los autógrafos son sin error en sus afirmaciones."
+  },
+  {
+    "id": "cb135",
+    "pregunta": "¿Qué es la 'hermenéutica bíblica'?",
+    "respuesta": "Ciencia y arte de interpretar correctamente la Biblia",
+    "opciones": [
+      "Ciencia y arte de interpretar correctamente la Biblia",
+      "La historia de las traducciones",
+      "El estudio de los idiomas bíblicos",
+      "La colección de manuscritos"
+    ],
+    "referencia": "Hermenéutica",
+    "explicacion": "La hermenéutica (del griego 'hermeneúein', interpretar) es la disciplina que establece los principios y métodos para interpretar textos, especialmente la Biblia."
+  },
+  {
+    "id": "cb136",
+    "pregunta": "¿Qué es la 'exégesis' en el contexto bíblico?",
+    "respuesta": "El proceso de extraer el significado del texto bíblico en su contexto original",
+    "opciones": [
+      "El proceso de extraer el significado del texto bíblico en su contexto original",
+      "Una traducción libre de la Biblia",
+      "La lectura devocional personal",
+      "Un tipo de predicación"
+    ],
+    "referencia": "Exégesis",
+    "explicacion": "Exégesis (del griego 'extraer') es el análisis crítico del texto bíblico para entender su significado original en su contexto histórico, lingüístico y literario."
+  },
+  {
+    "id": "cb137",
+    "pregunta": "¿Cuál fue la primera traducción de la Biblia completa al español para uso protestante?",
+    "respuesta": "Biblia del Oso de Casiodoro de Reina (1569)",
+    "opciones": [
+      "Biblia del Oso de Casiodoro de Reina (1569)",
+      "Biblia de Nácar-Colunga",
+      "Reina-Valera 1909",
+      "Biblia de Jerusalén"
+    ],
+    "referencia": "Historia bíblica española",
+    "explicacion": "Casiodoro de Reina, monje español exiliado, publicó en Basilea en 1569 la primera Biblia protestante completa en español, llamada 'del Oso' por su frontispicio."
+  },
+  {
+    "id": "cb138",
+    "pregunta": "¿Cuántas cartas de Pablo fueron escritas antes de su encarcelamiento?",
+    "respuesta": "9 cartas (Gálatas, 1-2 Tesalonicenses, 1-2 Corintios, Romanos, Filipenses, Colosenses)",
+    "opciones": [
+      "9 cartas (Gálatas, 1-2 Tesalonicenses, 1-2 Corintios, Romanos, Filipenses, Colosenses)",
+      "Solo las cartas a las iglesias",
+      "Todas las 13 cartas",
+      "Solo 3 cartas"
+    ],
+    "referencia": "Cronología de Pablo",
+    "explicacion": "Las cartas de Pablo se dividen en: cartas tempranas del segundo viaje misionero, cartas del tercer viaje, y cartas de la prisión (Efesios, Filipenses, Colosenses, Filemón)."
+  },
+  {
+    "id": "cb139",
+    "pregunta": "¿Qué es el 'Midrash' y cómo se relaciona con la Biblia?",
+    "respuesta": "Método rabínico de interpretación/comentario del texto bíblico hebreo",
+    "opciones": [
+      "Método rabínico de interpretación/comentario del texto bíblico hebreo",
+      "Una sección de la Biblia hebrea",
+      "Un libro apócrifo",
+      "Una versión del AT en arameo"
+    ],
+    "referencia": "Literatura rabínica",
+    "explicacion": "El Midrash es la literatura de comentarios e interpretaciones rabínicas del AT hebreo, fundamental para entender el contexto judío del NT."
+  },
+  {
+    "id": "cb140",
+    "pregunta": "¿Qué es el Talmud y cuántas partes tiene?",
+    "respuesta": "Compilación de la ley oral judía con dos partes: Mishnah y Gemará",
+    "opciones": [
+      "Compilación de la ley oral judía con dos partes: Mishnah y Gemará",
+      "El canon hebreo de la Biblia",
+      "Una traducción de la Biblia al arameo",
+      "Un libro apócrifo judío"
+    ],
+    "referencia": "Literatura judía",
+    "explicacion": "El Talmud es el cuerpo de la ley oral judía compuesto por la Mishnah (ca. 200 d.C.) y la Gemará (comentario posterior), existiendo en versión babilónica y palestinense."
+  },
+  {
+    "id": "cb141",
+    "pregunta": "¿Qué es el Tárgum?",
+    "respuesta": "Traducción/paráfrasis del AT hebreo al arameo para judíos que habían olvidado el hebreo",
+    "opciones": [
+      "Traducción/paráfrasis del AT hebreo al arameo para judíos que habían olvidado el hebreo",
+      "Una versión griega del AT",
+      "Un comentario medieval",
+      "Un apócrifo judío"
+    ],
+    "referencia": "Tárgum",
+    "explicacion": "Los Tárgumim son versiones arameas parafrásticas del AT, usadas en las sinagogas cuando el pueblo ya no entendía el hebreo."
+  },
+  {
+    "id": "cb142",
+    "pregunta": "¿Cuántos capítulos tiene el libro de Hechos?",
+    "respuesta": "28",
+    "opciones": [
+      "28",
+      "27",
+      "30",
+      "25"
+    ],
+    "referencia": "Libro de Hechos",
+    "explicacion": "Los Hechos de los Apóstoles tiene 28 capítulos, abarcando desde la ascensión de Jesús hasta el ministerio de Pablo en Roma."
+  },
+  {
+    "id": "cb143",
+    "pregunta": "¿Qué son los Evangelios del Infancia?",
+    "respuesta": "Escritos apócrifos sobre la niñez de Jesús no incluidos en el NT canónico",
+    "opciones": [
+      "Escritos apócrifos sobre la niñez de Jesús no incluidos en el NT canónico",
+      "Los capítulos del NT sobre la infancia de Jesús",
+      "Los dos primeros capítulos de Mateo y Lucas",
+      "El Evangelio de Marcos sobre Jesús niño"
+    ],
+    "referencia": "Evangelios de infancia",
+    "explicacion": "El Protoevangelio de Santiago, el Evangelio del Pseudo-Mateo y el Evangelio de Tomás el Israelita narran milagros y eventos de la infancia de Jesús."
+  },
+  {
+    "id": "cb144",
+    "pregunta": "¿Qué son los 'manuscritos unciales'?",
+    "respuesta": "Manuscritos escritos en letras mayúsculas griegas sin separar",
+    "opciones": [
+      "Manuscritos escritos en letras mayúsculas griegas sin separar",
+      "Manuscritos en letras minúsculas",
+      "Manuscritos del siglo XVII",
+      "Manuscritos en latín"
+    ],
+    "referencia": "Tipos de manuscritos",
+    "explicacion": "Los unciales (o mayúsculos) son manuscritos griegos con letras capitales sin separación entre palabras, datados ca. siglos II-IX d.C."
+  },
+  {
+    "id": "cb145",
+    "pregunta": "¿Qué son los 'lectionaries' en el contexto bíblico?",
+    "respuesta": "Colecciones de textos bíblicos organizados para lectura en el culto cristiano",
+    "opciones": [
+      "Colecciones de textos bíblicos organizados para lectura en el culto cristiano",
+      "Libros de cánticos bíblicos",
+      "Diccionarios bíblicos",
+      "Comentarios bíblicos"
+    ],
+    "referencia": "Leccionarios",
+    "explicacion": "Los lectionaries son manuscritos que contienen porciones del NT organizadas según el calendario litúrgico para su lectura en la adoración."
+  },
+  {
+    "id": "cb146",
+    "pregunta": "¿Cuál es el libro de sabiduría del AT más conocido?",
+    "respuesta": "Proverbios",
+    "opciones": [
+      "Proverbios",
+      "Eclesiastés",
+      "Job",
+      "Sabiduría de Salomón"
+    ],
+    "referencia": "Literatura sapiencial",
+    "explicacion": "Proverbios es el libro sapiencial prototípico del AT, atribuido principalmente a Salomón, con máximas morales para la vida práctica."
+  },
+  {
+    "id": "cb147",
+    "pregunta": "¿Qué significa el término 'canónico'?",
+    "respuesta": "Perteneciente al canon oficial de libros aceptados como Escritura",
+    "opciones": [
+      "Perteneciente al canon oficial de libros aceptados como Escritura",
+      "Antiguo y valioso",
+      "Escrito por un santo canonizado",
+      "Aprobado por el Papa"
+    ],
+    "referencia": "Terminología bíblica",
+    "explicacion": "'Canónico' se refiere a los libros incluidos en el canon oficial. Un libro canónico es autoritativo para la fe de la respectiva comunidad religiosa."
+  },
+  {
+    "id": "cb148",
+    "pregunta": "¿Qué diferencia hay entre el canon protestante y el católico en el AT?",
+    "respuesta": "El católico incluye 7 libros deuterocanónicos que el protestante llama 'apócrifos'",
+    "opciones": [
+      "El católico incluye 7 libros deuterocanónicos que el protestante llama 'apócrifos'",
+      "El protestante tiene más libros",
+      "Son idénticos",
+      "Solo difieren en el orden de los libros"
+    ],
+    "referencia": "Comparación de cánones",
+    "explicacion": "La diferencia principal es que la Biblia católica incluye Tobías, Judit, 1-2 Macabeos, Sabiduría, Eclesiástico y Baruc, más adiciones a Ester y Daniel."
+  },
+  {
+    "id": "cb149",
+    "pregunta": "¿Qué es la 'Biblia interlineal'?",
+    "respuesta": "Edición con el texto original (hebreo/griego) y su traducción literal palabra por palabra debajo",
+    "opciones": [
+      "Edición con el texto original (hebreo/griego) y su traducción literal palabra por palabra debajo",
+      "Una Biblia con notas entre líneas",
+      "Una versión bilingüe",
+      "Una Biblia con comentarios entrelazados"
+    ],
+    "referencia": "Tipos de Biblias",
+    "explicacion": "Una Biblia interlineal presenta el texto original (hebreo o griego) con una traducción literal palabra por palabra directamente debajo, útil para el estudio del idioma."
+  },
+  {
+    "id": "cb150",
+    "pregunta": "¿Qué es el 'Manuscrito B' o Códice Vaticano?",
+    "respuesta": "Manuscrito griego del siglo IV que contiene casi toda la Biblia, conservado en el Vaticano",
+    "opciones": [
+      "Manuscrito griego del siglo IV que contiene casi toda la Biblia, conservado en el Vaticano",
+      "El primer manuscrito latino de la Biblia",
+      "Un fragmento de papiro del siglo I",
+      "El manuscrito en que se basa la Vulgata"
+    ],
+    "referencia": "Códice Vaticano",
+    "explicacion": "El Códice Vaticano (Vaticanus, siglo IV) es uno de los manuscritos bíblicos más importantes, junto con el Sinaítico, para la crítica textual del NT."
+  }
+]

@@ -1,0 +1,280 @@
+{
+  "bookId": "PHM",
+  "verses": [
+    {
+      "id": "PHM_1_1",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 1,
+      "spanishTranslation": "Pablo, prisionero de Jesucristo, y el hermano Timoteo, al amado Filemón, colaborador nuestro,",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_2",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 2,
+      "spanishTranslation": "y a la amada hermana Apia, y a Arquipo nuestro compañero de milicia, y a la iglesia que está en tu casa:",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_3",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 3,
+      "spanishTranslation": "Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo.",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_4",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 4,
+      "spanishTranslation": "Doy gracias a mi Dios, haciendo siempre memoria de ti en mis oraciones,",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_5",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 5,
+      "spanishTranslation": "porque oigo del amor y de la fe que tienes hacia el Señor Jesús, y para con todos los santos;",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_6",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 6,
+      "spanishTranslation": "para que la participación de tu fe sea eficaz en el conocimiento de todo el bien que está en vosotros por Cristo Jesús.",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_7",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 7,
+      "spanishTranslation": "Pues tenemos gran gozo y consolación en tu amor, porque por ti, oh hermano, han sido confortados los corazones de los santos.",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_8",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 8,
+      "spanishTranslation": "Por lo cual, aunque tengo mucha libertad en Cristo para mandarte lo que conviene,",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_9",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 9,
+      "spanishTranslation": "más bien te ruego por amor, siendo como soy, Pablo ya anciano, y ahora, además, prisionero de Jesucristo;",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_10",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 10,
+      "spanishTranslation": "te ruego por mi hijo Onésimo,, a quien engendré en mis prisiones,",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_11",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 11,
+      "spanishTranslation": "el cual en otro tiempo te fue inútil, pero ahora a ti y a mí nos es útil,",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_12",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 12,
+      "spanishTranslation": "el cual vuelvo a enviarte; tú, pues, recíbele como a mí mismo.",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_13",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 13,
+      "spanishTranslation": "Yo quisiera retenerle conmigo, para que en lugar tuyo me sirviese en mis prisiones por el evangelio;",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_14",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 14,
+      "spanishTranslation": "pero nada quise hacer sin tu consentimiento, para que tu favor no fuese como de necesidad, sino voluntario.",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_15",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 15,
+      "spanishTranslation": "Porque quizá para esto se apartó de ti por algún tiempo, para que le recibieses para siempre;",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_16",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 16,
+      "spanishTranslation": "no ya como esclavo, sino como más que esclavo, como hermano amado, mayormente para mí, pero cuánto más para ti, tanto en la carne como en el Señor.",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_17",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 17,
+      "spanishTranslation": "Así que, si me tienes por compañero, recíbele como a mí mismo.",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_18",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 18,
+      "spanishTranslation": "Y si en algo te dañó, o te debe, ponlo a mi cuenta.",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_19",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 19,
+      "spanishTranslation": "Yo Pablo lo escribo de mi mano, yo lo pagaré; por no decirte que aun tú mismo te me debes también.",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_20",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 20,
+      "spanishTranslation": "Sí, hermano, tenga yo algún provecho de ti en el Señor; conforta mi corazón en el Señor.",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_21",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 21,
+      "spanishTranslation": "Te he escrito confiando en tu obediencia, sabiendo que harás aun más de lo que te digo.",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_22",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 22,
+      "spanishTranslation": "Prepárame también alojamiento; porque espero que por vuestras oraciones os seré concedido.",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_23",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 23,
+      "spanishTranslation": "Te saludan Epafras, mi compañero de prisiones por Cristo Jesús,",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_24",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 24,
+      "spanishTranslation": "Marcos, Aristarco, Demas y Lucas, mis colaboradores.",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    },
+    {
+      "id": "PHM_1_25",
+      "bookId": "PHM",
+      "bookName": "Filemón",
+      "chapter": 1,
+      "verseNumber": 25,
+      "spanishTranslation": "La gracia de nuestro Señor Jesucristo sea con vuestro espíritu. Amén.",
+      "isCompleted": true,
+      "lastModified": "2025-01-01T00:00:00.000",
+      "isRedLetter": false
+    }
+  ]
+}

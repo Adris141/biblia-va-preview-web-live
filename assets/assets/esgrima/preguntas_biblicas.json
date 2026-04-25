@@ -1,0 +1,4105 @@
+{
+  "categorias": [
+    {
+      "id": "libros_at",
+      "nombre": "Libros del Antiguo Testamento",
+      "icono": "book",
+      "color": "#D4AF37",
+      "descripcion": "Conoce los 39 libros del Antiguo Testamento",
+      "preguntas": [
+        {
+          "p": "¿Cuántos libros tiene el Antiguo Testamento?",
+          "r": "39",
+          "o": [
+            "27",
+            "39",
+            "46",
+            "66"
+          ],
+          "ref": "Biblia RVR60",
+          "exp": "La Biblia protestante tiene 66 libros en total: 39 en el AT y 27 en el NT."
+        },
+        {
+          "p": "¿Cuál es el primer libro de la Biblia?",
+          "r": "Génesis",
+          "o": [
+            "Éxodo",
+            "Génesis",
+            "Levítico",
+            "Salmos"
+          ],
+          "ref": "Génesis 1:1",
+          "exp": "'En el principio creó Dios los cielos y la tierra.' — Gén 1:1"
+        },
+        {
+          "p": "¿Cuál es el último libro del Antiguo Testamento?",
+          "r": "Malaquías",
+          "o": [
+            "Zacarías",
+            "Malaquías",
+            "Hageo",
+            "Joel"
+          ],
+          "ref": "Malaquías 4:6",
+          "exp": "Malaquías es el último de los profetas menores y cierra el canon del AT."
+        },
+        {
+          "p": "¿Cuántos libros de la Ley (Pentateuco) hay?",
+          "r": "5",
+          "o": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "ref": "Pentateuco",
+          "exp": "Los 5 libros de Moisés: Génesis, Éxodo, Levítico, Números y Deuteronomio."
+        },
+        {
+          "p": "¿Cuál es el libro más largo del AT?",
+          "r": "Salmos",
+          "o": [
+            "Isaías",
+            "Jeremías",
+            "Salmos",
+            "Ezequiel"
+          ],
+          "ref": "Salmos",
+          "exp": "El libro de Salmos tiene 150 capítulos, siendo el más extenso de toda la Biblia."
+        },
+        {
+          "p": "¿Cuántos libros históricos hay en el AT?",
+          "r": "12",
+          "o": [
+            "10",
+            "11",
+            "12",
+            "14"
+          ],
+          "ref": "AT RVR60",
+          "exp": "Los libros históricos del AT son: Josué, Jueces, Rut, 1 y 2 Samuel, 1 y 2 Reyes, 1 y 2 Crónicas, Esdras, Nehemías y Ester."
+        },
+        {
+          "p": "¿Cuántos libros de profetas mayores hay en el AT?",
+          "r": "5",
+          "o": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "ref": "AT RVR60",
+          "exp": "Los cinco profetas mayores son: Isaías, Jeremías, Lamentaciones, Ezequiel y Daniel."
+        },
+        {
+          "p": "¿Cuántos libros de profetas menores hay?",
+          "r": "12",
+          "o": [
+            "10",
+            "12",
+            "14",
+            "16"
+          ],
+          "ref": "AT RVR60",
+          "exp": "Los doce profetas menores van desde Oseas hasta Malaquías."
+        },
+        {
+          "p": "¿Cuál es el libro más corto del AT?",
+          "r": "Abdías",
+          "o": [
+            "Hageo",
+            "Abdías",
+            "Filemón",
+            "Rut"
+          ],
+          "ref": "Abdías",
+          "exp": "Abdías tiene solo 21 versículos, siendo el libro más breve del Antiguo Testamento."
+        },
+        {
+          "p": "¿En qué libro del AT se menciona la creación del hombre?",
+          "r": "Génesis",
+          "o": [
+            "Job",
+            "Salmos",
+            "Génesis",
+            "Éxodo"
+          ],
+          "ref": "Génesis 2:7",
+          "exp": "'Entonces Jehová Dios formó al hombre del polvo de la tierra.' — Gén 2:7"
+        },
+        {
+          "p": "¿Cómo se llama el libro que relata la salida de Egipto?",
+          "r": "Éxodo",
+          "o": [
+            "Números",
+            "Éxodo",
+            "Deuteronomio",
+            "Josué"
+          ],
+          "ref": "Éxodo 12:51",
+          "exp": "'Y aconteció que en aquel mismo día Jehová sacó a los hijos de Israel de la tierra de Egipto.' — Éxo 12:51"
+        },
+        {
+          "p": "¿En qué libro está la historia de Job?",
+          "r": "Job",
+          "o": [
+            "Salmos",
+            "Proverbios",
+            "Job",
+            "Eclesiastés"
+          ],
+          "ref": "Job 1:1",
+          "exp": "'Hubo en tierra de Uz un varón llamado Job.' — Job 1:1"
+        },
+        {
+          "p": "¿Cuál libro contiene las leyes del sacerdocio israelita?",
+          "r": "Levítico",
+          "o": [
+            "Éxodo",
+            "Levítico",
+            "Números",
+            "Deuteronomio"
+          ],
+          "ref": "Levítico 1:1",
+          "exp": "Levítico contiene las leyes ceremoniales y de pureza dadas a los levitas y sacerdotes."
+        },
+        {
+          "p": "¿En qué libro se encuentra el Decálogo (Diez Mandamientos) por primera vez?",
+          "r": "Éxodo 20",
+          "o": [
+            "Deuteronomio 5",
+            "Levítico 19",
+            "Éxodo 20",
+            "Números 15"
+          ],
+          "ref": "Éxodo 20:1-17",
+          "exp": "'Y habló Dios todas estas palabras, diciendo: Yo soy Jehová tu Dios...' — Éxo 20:1"
+        },
+        {
+          "p": "¿Qué libro sigue a Deuteronomio?",
+          "r": "Josué",
+          "o": [
+            "Jueces",
+            "Josué",
+            "Rut",
+            "1 Samuel"
+          ],
+          "ref": "Josué 1:1",
+          "exp": "Josué relata la conquista de Canaán bajo el liderazgo de Josué, sucesor de Moisés."
+        },
+        {
+          "p": "¿En qué libro aparece la historia de Sansón?",
+          "r": "Jueces",
+          "o": [
+            "Josué",
+            "Jueces",
+            "1 Samuel",
+            "Rut"
+          ],
+          "ref": "Jueces 13:24",
+          "exp": "'Y la mujer dio a luz un hijo, y le puso por nombre Sansón.' — Jue 13:24"
+        },
+        {
+          "p": "¿Qué libro narra la historia de una moabita fiel a su suegra?",
+          "r": "Rut",
+          "o": [
+            "Ester",
+            "Rut",
+            "Jueces",
+            "1 Samuel"
+          ],
+          "ref": "Rut 1:16",
+          "exp": "'Donde tú mueras, moriré yo, y allí seré sepultada.' — Rut 1:17"
+        },
+        {
+          "p": "¿En qué libro se elige al primer rey de Israel?",
+          "r": "1 Samuel",
+          "o": [
+            "2 Samuel",
+            "1 Reyes",
+            "1 Samuel",
+            "Jueces"
+          ],
+          "ref": "1 Samuel 10:1",
+          "exp": "Samuel ungió a Saúl como primer rey: 'Jehová te ha ungido por príncipe.' — 1 Sam 10:1"
+        },
+        {
+          "p": "¿En qué libro se narran las obras del rey Salomón?",
+          "r": "1 Reyes",
+          "o": [
+            "2 Samuel",
+            "1 Reyes",
+            "2 Reyes",
+            "1 Crónicas"
+          ],
+          "ref": "1 Reyes 4:29",
+          "exp": "'Y Dios dio a Salomón sabiduría y prudencia muy grandes.' — 1 Rey 4:29"
+        },
+        {
+          "p": "¿Qué libro narra el regreso de los judíos del cautiverio?",
+          "r": "Esdras",
+          "o": [
+            "Nehemías",
+            "Esdras",
+            "Ester",
+            "Daniel"
+          ],
+          "ref": "Esdras 1:1",
+          "exp": "'En el primer año de Ciro rey de Persia, para que se cumpliese la palabra de Jehová...' — Esd 1:1"
+        },
+        {
+          "p": "¿En qué libro se encuentra el Salmo 23?",
+          "r": "Salmos",
+          "o": [
+            "Proverbios",
+            "Salmos",
+            "Job",
+            "Cantares"
+          ],
+          "ref": "Salmo 23:1",
+          "exp": "'Jehová es mi pastor; nada me faltará.' — Sal 23:1"
+        },
+        {
+          "p": "¿Qué libro contiene los proverbios de Salomón?",
+          "r": "Proverbios",
+          "o": [
+            "Eclesiastés",
+            "Proverbios",
+            "Cantares",
+            "Sabiduría"
+          ],
+          "ref": "Proverbios 1:1",
+          "exp": "'Los proverbios de Salomón, hijo de David, rey de Israel.' — Pro 1:1"
+        },
+        {
+          "p": "¿Qué libro dice 'Vanidad de vanidades, todo es vanidad'?",
+          "r": "Eclesiastés",
+          "o": [
+            "Proverbios",
+            "Job",
+            "Eclesiastés",
+            "Salmos"
+          ],
+          "ref": "Eclesiastés 1:2",
+          "exp": "'Vanidad de vanidades, dijo el Predicador; vanidad de vanidades, todo es vanidad.' — Ecl 1:2"
+        },
+        {
+          "p": "¿En qué libro profetizó Isaías sobre el nacimiento virginal?",
+          "r": "Isaías",
+          "o": [
+            "Miqueas",
+            "Isaías",
+            "Jeremías",
+            "Ezequiel"
+          ],
+          "ref": "Isaías 7:14",
+          "exp": "'He aquí que la virgen concebirá, y dará a luz un hijo, y llamará su nombre Emanuel.' — Isa 7:14"
+        },
+        {
+          "p": "¿Cuál libro del AT contiene las Lamentaciones de Jeremías?",
+          "r": "Lamentaciones",
+          "o": [
+            "Jeremías",
+            "Lamentaciones",
+            "Ezequiel",
+            "Abdías"
+          ],
+          "ref": "Lamentaciones 1:1",
+          "exp": "'¡Cómo ha quedado sola la ciudad populosa!' — Lam 1:1. Jeremías llora la caída de Jerusalén."
+        },
+        {
+          "p": "¿En qué libro aparece la visión del valle de los huesos secos?",
+          "r": "Ezequiel",
+          "o": [
+            "Isaías",
+            "Daniel",
+            "Ezequiel",
+            "Jeremías"
+          ],
+          "ref": "Ezequiel 37:1",
+          "exp": "'Me llevó en el Espíritu de Jehová, y me puso en medio de un valle que estaba lleno de huesos.' — Eze 37:1"
+        },
+        {
+          "p": "¿Qué libro del AT habla del juicio de las naciones y el Día de Jehová?",
+          "r": "Joel",
+          "o": [
+            "Amós",
+            "Joel",
+            "Miqueas",
+            "Nahúm"
+          ],
+          "ref": "Joel 2:1",
+          "exp": "'Tocad trompeta en Sión, y dad alarma en mi santo monte.' — Joel 2:1"
+        },
+        {
+          "p": "¿En qué libro dijo Dios 'el justo por su fe vivirá'?",
+          "r": "Habacuc",
+          "o": [
+            "Miqueas",
+            "Amós",
+            "Habacuc",
+            "Sofonías"
+          ],
+          "ref": "Habacuc 2:4",
+          "exp": "'He aquí que aquel cuya alma no es recta, se enorgullece; mas el justo por su fe vivirá.' — Hab 2:4"
+        },
+        {
+          "p": "¿Qué libro narra la historia de Ester y la salvación de los judíos?",
+          "r": "Ester",
+          "o": [
+            "Rut",
+            "Esdras",
+            "Ester",
+            "Nehemías"
+          ],
+          "ref": "Ester 4:14",
+          "exp": "'¿Y quién sabe si para esta hora has llegado al reino?' — Est 4:14"
+        },
+        {
+          "p": "¿En qué libro Dios responde a Job desde el torbellino?",
+          "r": "Job",
+          "o": [
+            "Salmos",
+            "Job",
+            "Isaías",
+            "Ezequiel"
+          ],
+          "ref": "Job 38:1",
+          "exp": "'Entonces respondió Jehová a Job desde un torbellino, y dijo: ¿Quién es ése que oscurece el consejo...?' — Job 38:1"
+        }
+      ]
+    },
+    {
+      "id": "libros_nt",
+      "nombre": "Libros del Nuevo Testamento",
+      "icono": "book_outlined",
+      "color": "#5DADE2",
+      "descripcion": "Conoce los 27 libros del Nuevo Testamento",
+      "preguntas": [
+        {
+          "p": "¿Cuántos libros tiene el Nuevo Testamento?",
+          "r": "27",
+          "o": [
+            "21",
+            "24",
+            "27",
+            "30"
+          ],
+          "ref": "Biblia RVR60",
+          "exp": "El NT tiene 27 libros: 4 Evangelios, Hechos, 21 epístolas y Apocalipsis."
+        },
+        {
+          "p": "¿Cuál es el primer libro del Nuevo Testamento?",
+          "r": "Mateo",
+          "o": [
+            "Marcos",
+            "Lucas",
+            "Juan",
+            "Mateo"
+          ],
+          "ref": "Mateo 1:1",
+          "exp": "'Libro de la genealogía de Jesucristo, hijo de David, hijo de Abraham.' — Mat 1:1"
+        },
+        {
+          "p": "¿Cuántos evangelios hay en el NT?",
+          "r": "4",
+          "o": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "ref": "Mat, Mar, Luc, Juan",
+          "exp": "Los cuatro evangelios son: Mateo, Marcos, Lucas y Juan."
+        },
+        {
+          "p": "¿Cuál es el último libro de la Biblia?",
+          "r": "Apocalipsis",
+          "o": [
+            "Judas",
+            "3 Juan",
+            "Apocalipsis",
+            "Hebreos"
+          ],
+          "ref": "Apocalipsis 22:21",
+          "exp": "'La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén.' — Apo 22:21"
+        },
+        {
+          "p": "¿Qué libro del NT narra la historia de la iglesia primitiva?",
+          "r": "Hechos",
+          "o": [
+            "Romanos",
+            "Hechos",
+            "Gálatas",
+            "Efesios"
+          ],
+          "ref": "Hechos 1:1",
+          "exp": "'En el primer tratado, oh Teófilo, hablé acerca de todas las cosas que Jesús comenzó a hacer y a enseñar.' — Hec 1:1"
+        },
+        {
+          "p": "¿Cuántas epístolas escribió Pablo?",
+          "r": "13",
+          "o": [
+            "10",
+            "11",
+            "13",
+            "14"
+          ],
+          "ref": "NT RVR60",
+          "exp": "Las 13 epístolas de Pablo van desde Romanos hasta Filemón."
+        },
+        {
+          "p": "¿Cuál es el evangelio más corto?",
+          "r": "Marcos",
+          "o": [
+            "Mateo",
+            "Marcos",
+            "Lucas",
+            "Juan"
+          ],
+          "ref": "Marcos",
+          "exp": "Marcos tiene 16 capítulos, siendo el más breve de los cuatro evangelios."
+        },
+        {
+          "p": "¿Cuál es el evangelio más largo?",
+          "r": "Lucas",
+          "o": [
+            "Mateo",
+            "Marcos",
+            "Lucas",
+            "Juan"
+          ],
+          "ref": "Lucas",
+          "exp": "Lucas tiene 24 capítulos y es el evangelio con más versículos."
+        },
+        {
+          "p": "¿Qué libro del NT habla de la fe como 'certeza de lo que se espera'?",
+          "r": "Hebreos",
+          "o": [
+            "Santiago",
+            "Hebreos",
+            "1 Pedro",
+            "Romanos"
+          ],
+          "ref": "Hebreos 11:1",
+          "exp": "'Es pues la fe la certeza de lo que se espera, la convicción de lo que no se ve.' — Heb 11:1"
+        },
+        {
+          "p": "¿Qué epístola dice que 'la fe sin obras es muerta'?",
+          "r": "Santiago",
+          "o": [
+            "1 Pedro",
+            "Santiago",
+            "Romanos",
+            "Gálatas"
+          ],
+          "ref": "Santiago 2:26",
+          "exp": "'Porque como el cuerpo sin espíritu está muerto, así también la fe sin obras está muerta.' — Stg 2:26"
+        },
+        {
+          "p": "¿Quién escribió el libro de Apocalipsis?",
+          "r": "Juan",
+          "o": [
+            "Pablo",
+            "Pedro",
+            "Juan",
+            "Bernabé"
+          ],
+          "ref": "Apocalipsis 1:1",
+          "exp": "'La revelación de Jesucristo... la cual envió y declaró por medio de su ángel a su siervo Juan.' — Apo 1:1"
+        },
+        {
+          "p": "¿Desde dónde escribió Juan el Apocalipsis?",
+          "r": "Isla de Patmos",
+          "o": [
+            "Roma",
+            "Éfeso",
+            "Isla de Patmos",
+            "Corinto"
+          ],
+          "ref": "Apocalipsis 1:9",
+          "exp": "'Yo Juan... estaba en la isla llamada Patmos, por causa de la palabra de Dios.' — Apo 1:9"
+        },
+        {
+          "p": "¿Cuál es la epístola más corta del NT?",
+          "r": "2 Juan",
+          "o": [
+            "Filemón",
+            "3 Juan",
+            "2 Juan",
+            "Judas"
+          ],
+          "ref": "2 Juan",
+          "exp": "2 Juan tiene solo 13 versículos, siendo la epístola más breve del NT."
+        },
+        {
+          "p": "¿Qué epístola del NT fue escrita a una persona individual llamada Onésimo?",
+          "r": "Filemón",
+          "o": [
+            "2 Juan",
+            "Filemón",
+            "3 Juan",
+            "Tito"
+          ],
+          "ref": "Filemón 1:10",
+          "exp": "Pablo intercede por Onésimo, el esclavo convertido: 'te ruego por mi hijo Onésimo.' — Flm 1:10"
+        },
+        {
+          "p": "¿Qué libro del NT comienza: 'En el principio era el Verbo'?",
+          "r": "Juan",
+          "o": [
+            "Mateo",
+            "Marcos",
+            "Lucas",
+            "Juan"
+          ],
+          "ref": "Juan 1:1",
+          "exp": "'En el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios.' — Jua 1:1"
+        },
+        {
+          "p": "¿Cuántas cartas generales o universales hay en el NT?",
+          "r": "7",
+          "o": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "ref": "NT RVR60",
+          "exp": "Las 7 epístolas generales son: Santiago, 1 y 2 Pedro, 1, 2 y 3 Juan, y Judas."
+        },
+        {
+          "p": "¿Qué libro del NT habla del Espíritu Santo descendiendo en Pentecostés?",
+          "r": "Hechos 2",
+          "o": [
+            "Juan 14",
+            "Hechos 2",
+            "1 Corintios 12",
+            "Romanos 8"
+          ],
+          "ref": "Hechos 2:1-4",
+          "exp": "'Y de repente vino del cielo un estruendo como de un viento recio que soplaba.' — Hec 2:2"
+        },
+        {
+          "p": "¿En qué libro dijo Pablo: 'todo lo puedo en Cristo que me fortalece'?",
+          "r": "Filipenses",
+          "o": [
+            "Romanos",
+            "Efesios",
+            "Filipenses",
+            "Colosenses"
+          ],
+          "ref": "Filipenses 4:13",
+          "exp": "'Todo lo puedo en Cristo que me fortalece.' — Fil 4:13"
+        },
+        {
+          "p": "¿En qué libro está escrito 'La paga del pecado es muerte'?",
+          "r": "Romanos",
+          "o": [
+            "Gálatas",
+            "Romanos",
+            "Hebreos",
+            "1 Corintios"
+          ],
+          "ref": "Romanos 6:23",
+          "exp": "'Porque la paga del pecado es muerte, mas la dádiva de Dios es vida eterna en Cristo Jesús.' — Rom 6:23"
+        },
+        {
+          "p": "¿Qué epístola describe la armadura de Dios?",
+          "r": "Efesios",
+          "o": [
+            "Romanos",
+            "Colosenses",
+            "Efesios",
+            "1 Timoteo"
+          ],
+          "ref": "Efesios 6:11",
+          "exp": "'Vestíos de toda la armadura de Dios, para que podáis estar firmes contra las asechanzas del diablo.' — Ef 6:11"
+        },
+        {
+          "p": "¿En qué libro Pablo enumera los frutos del Espíritu?",
+          "r": "Gálatas",
+          "o": [
+            "Romanos",
+            "Efesios",
+            "Gálatas",
+            "Filipenses"
+          ],
+          "ref": "Gálatas 5:22",
+          "exp": "'Mas el fruto del Espíritu es: amor, gozo, paz, paciencia, benignidad, bondad, fe.' — Gál 5:22"
+        },
+        {
+          "p": "¿Qué libro menciona que 'toda la Escritura es inspirada por Dios'?",
+          "r": "2 Timoteo",
+          "o": [
+            "1 Timoteo",
+            "2 Timoteo",
+            "Hebreos",
+            "2 Pedro"
+          ],
+          "ref": "2 Timoteo 3:16",
+          "exp": "'Toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir.' — 2 Tim 3:16"
+        },
+        {
+          "p": "¿Qué epístola habla del sacerdocio de Melquisedec y Cristo?",
+          "r": "Hebreos",
+          "o": [
+            "Romanos",
+            "Gálatas",
+            "Efesios",
+            "Hebreos"
+          ],
+          "ref": "Hebreos 7:17",
+          "exp": "'Tú eres sacerdote para siempre, según el orden de Melquisedec.' — Heb 7:17"
+        },
+        {
+          "p": "¿En qué libro Pedro escribe: 'echad toda vuestra ansiedad sobre él'?",
+          "r": "1 Pedro",
+          "o": [
+            "Filipenses",
+            "Santiago",
+            "1 Pedro",
+            "2 Pedro"
+          ],
+          "ref": "1 Pedro 5:7",
+          "exp": "'Echando toda vuestra ansiedad sobre él, porque él tiene cuidado de vosotros.' — 1 Ped 5:7"
+        },
+        {
+          "p": "¿Qué libro del NT dice que Dios es amor?",
+          "r": "1 Juan",
+          "o": [
+            "Juan",
+            "Romanos",
+            "1 Juan",
+            "Efesios"
+          ],
+          "ref": "1 Juan 4:8",
+          "exp": "'El que no ama, no ha conocido a Dios; porque Dios es amor.' — 1 Jua 4:8"
+        },
+        {
+          "p": "¿Qué libro menciona la gran prostituta de Babilonia y la bestia?",
+          "r": "Apocalipsis",
+          "o": [
+            "Daniel",
+            "Ezequiel",
+            "Apocalipsis",
+            "Zacarías"
+          ],
+          "ref": "Apocalipsis 17:5",
+          "exp": "'Y en su frente un nombre escrito, un misterio: BABILONIA LA GRANDE.' — Apo 17:5"
+        },
+        {
+          "p": "¿En qué libro Jesús promete: 'vendré otra vez'?",
+          "r": "Juan",
+          "o": [
+            "Lucas",
+            "Marcos",
+            "Juan",
+            "Mateo"
+          ],
+          "ref": "Juan 14:3",
+          "exp": "'Y si me fuere y os preparare lugar, vendré otra vez, y os tomaré a mí mismo.' — Jua 14:3"
+        },
+        {
+          "p": "¿En qué libro dice Pablo que el amor es el vínculo de la perfección?",
+          "r": "Colosenses",
+          "o": [
+            "Efesios",
+            "Filipenses",
+            "Colosenses",
+            "1 Corintios"
+          ],
+          "ref": "Colosenses 3:14",
+          "exp": "'Y sobre todas estas cosas vestíos de amor, que es el vínculo perfecto.' — Col 3:14"
+        },
+        {
+          "p": "¿En qué libro Juan ve la Nueva Jerusalén descender del cielo?",
+          "r": "Apocalipsis",
+          "o": [
+            "Ezequiel",
+            "Isaías",
+            "Hebreos",
+            "Apocalipsis"
+          ],
+          "ref": "Apocalipsis 21:2",
+          "exp": "'Y yo Juan vi la santa ciudad, la nueva Jerusalén, descender del cielo.' — Apo 21:2"
+        },
+        {
+          "p": "¿En qué libro se describe el juicio del gran trono blanco?",
+          "r": "Apocalipsis",
+          "o": [
+            "Daniel",
+            "Mateo",
+            "Hebreos",
+            "Apocalipsis"
+          ],
+          "ref": "Apocalipsis 20:11",
+          "exp": "'Y vi un gran trono blanco y al que estaba sentado en él.' — Apo 20:11"
+        }
+      ]
+    },
+    {
+      "id": "profetas_mayores",
+      "nombre": "Profetas Mayores",
+      "icono": "record_voice_over",
+      "color": "#E74C3C",
+      "descripcion": "Isaías, Jeremías, Lamentaciones, Ezequiel y Daniel",
+      "preguntas": [
+        {
+          "p": "¿Cuántos profetas mayores hay en el AT?",
+          "r": "5",
+          "o": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "ref": "AT RVR60",
+          "exp": "Los 5 profetas mayores son: Isaías, Jeremías, Lamentaciones, Ezequiel y Daniel."
+        },
+        {
+          "p": "¿Quién profetizó: 'He aquí que la virgen concebirá y dará a luz un hijo'?",
+          "r": "Isaías",
+          "o": [
+            "Miqueas",
+            "Isaías",
+            "Jeremías",
+            "Ezequiel"
+          ],
+          "ref": "Isaías 7:14",
+          "exp": "'He aquí que la virgen concebirá, y dará a luz un hijo, y llamará su nombre Emanuel.' — Isa 7:14"
+        },
+        {
+          "p": "¿Quién es llamado el profeta llorón?",
+          "r": "Jeremías",
+          "o": [
+            "Isaías",
+            "Jeremías",
+            "Ezequiel",
+            "Daniel"
+          ],
+          "ref": "Jeremías 9:1",
+          "exp": "'¡Oh, si mi cabeza se hiciese aguas, y mis ojos fuentes de lágrimas!' — Jer 9:1"
+        },
+        {
+          "p": "¿Quién vio la rueda dentro de la rueda?",
+          "r": "Ezequiel",
+          "o": [
+            "Isaías",
+            "Daniel",
+            "Ezequiel",
+            "Zacarías"
+          ],
+          "ref": "Ezequiel 1:16",
+          "exp": "'El aspecto de las ruedas y su obra era semejante al color del crisólito. Y las cuatro tenían una misma semejanza; su apariencia y su obra eran como rueda en medio de rueda.' — Eze 1:16"
+        },
+        {
+          "p": "¿En qué capítulo de Isaías se describe al siervo sufriente?",
+          "r": "Isaías 53",
+          "o": [
+            "Isaías 7",
+            "Isaías 40",
+            "Isaías 53",
+            "Isaías 61"
+          ],
+          "ref": "Isaías 53:5",
+          "exp": "'Mas él herido fue por nuestras rebeliones, molido por nuestros pecados.' — Isa 53:5"
+        },
+        {
+          "p": "¿Qué profeta mayor fue llevado al foso de los leones?",
+          "r": "Daniel",
+          "o": [
+            "Ezequiel",
+            "Isaías",
+            "Daniel",
+            "Jeremías"
+          ],
+          "ref": "Daniel 6:16",
+          "exp": "'Entonces el rey mandó, y trajeron a Daniel, y le echaron en el foso de los leones.' — Dan 6:16"
+        },
+        {
+          "p": "¿Qué profeta mayor comió el rollo de un libro por mandato de Dios?",
+          "r": "Ezequiel",
+          "o": [
+            "Isaías",
+            "Jeremías",
+            "Ezequiel",
+            "Daniel"
+          ],
+          "ref": "Ezequiel 3:3",
+          "exp": "'Me dijo: Hijo de hombre, alimenta tu vientre, y llena tus entrañas de este rollo... Y lo comí, y fue en mi boca dulce como miel.' — Eze 3:3"
+        },
+        {
+          "p": "¿Quién interpretó la escritura en la pared 'MENE, TEKEL, UPARSIN'?",
+          "r": "Daniel",
+          "o": [
+            "Isaías",
+            "Ezequiel",
+            "Daniel",
+            "Elías"
+          ],
+          "ref": "Daniel 5:25",
+          "exp": "'Daniel entonces dijo... MENE: Contó Dios tu reino, y le ha puesto fin. TEKEL: Pesado has sido en balanza, y fuiste hallado falto.' — Dan 5:25-27"
+        },
+        {
+          "p": "¿Qué profeta vio la visión de los cuatro seres vivientes?",
+          "r": "Ezequiel",
+          "o": [
+            "Isaías",
+            "Daniel",
+            "Zacarías",
+            "Ezequiel"
+          ],
+          "ref": "Ezequiel 1:5",
+          "exp": "'Y en medio de ella la figura de cuatro seres vivientes.' — Eze 1:5"
+        },
+        {
+          "p": "¿Qué dijo Isaías cuando vio la gloria de Dios?",
+          "r": "'¡Ay de mí! soy muerto'",
+          "o": [
+            "'Aquí estoy, envíame'",
+            "'¡Ay de mí! soy muerto'",
+            "'Señor, no soy digno'",
+            "'¿Quién soy yo?'"
+          ],
+          "ref": "Isaías 6:5",
+          "exp": "'¡Ay de mí! que soy muerto; porque siendo hombre inmundo de labios... han visto mis ojos al Rey, Jehová de los ejércitos.' — Isa 6:5"
+        },
+        {
+          "p": "¿Qué profeta mayor fue echado en una cisterna por sus enemigos?",
+          "r": "Jeremías",
+          "o": [
+            "Isaías",
+            "Ezequiel",
+            "Daniel",
+            "Jeremías"
+          ],
+          "ref": "Jeremías 38:6",
+          "exp": "'Entonces tomaron a Jeremías y le echaron en la cisterna de Malquías.' — Jer 38:6"
+        },
+        {
+          "p": "¿Qué visión tuvo Daniel sobre cuatro grandes bestias?",
+          "r": "Cuatro reinos mundiales",
+          "o": [
+            "Cuatro profetas",
+            "Cuatro reinos mundiales",
+            "Cuatro ángeles",
+            "Cuatro plagas"
+          ],
+          "ref": "Daniel 7:3",
+          "exp": "'Y cuatro bestias grandes subían del mar... Y estas cuatro bestias grandes son cuatro reyes que se levantarán en la tierra.' — Dan 7:3,17"
+        },
+        {
+          "p": "¿Cuántos capítulos tiene el libro de Isaías?",
+          "r": "66",
+          "o": [
+            "40",
+            "52",
+            "60",
+            "66"
+          ],
+          "ref": "Isaías",
+          "exp": "Isaías tiene 66 capítulos, igual al número total de libros de la Biblia."
+        },
+        {
+          "p": "¿Qué profeta mayor recibió la visión del templo futuro restaurado?",
+          "r": "Ezequiel",
+          "o": [
+            "Isaías",
+            "Daniel",
+            "Jeremías",
+            "Ezequiel"
+          ],
+          "ref": "Ezequiel 40:1",
+          "exp": "'En el año veinticinco de nuestro cautiverio... me llevó allá en visiones de Dios.' — Eze 40:1"
+        },
+        {
+          "p": "¿Quién profetizó que Dios haría un nuevo pacto con Israel?",
+          "r": "Jeremías",
+          "o": [
+            "Isaías",
+            "Ezequiel",
+            "Jeremías",
+            "Daniel"
+          ],
+          "ref": "Jeremías 31:31",
+          "exp": "'He aquí que vienen días, dice Jehová, en los cuales haré nuevo pacto con la casa de Israel.' — Jer 31:31"
+        },
+        {
+          "p": "¿Cuántos años duró el cautiverio en Babilonia profetizado por Jeremías?",
+          "r": "70",
+          "o": [
+            "40",
+            "50",
+            "70",
+            "100"
+          ],
+          "ref": "Jeremías 25:11",
+          "exp": "'Y toda esta tierra será puesta en ruinas y en espanto; y servirán estas naciones al rey de Babilonia setenta años.' — Jer 25:11"
+        },
+        {
+          "p": "¿Qué ángel fue enviado a Daniel para explicarle la visión?",
+          "r": "Gabriel",
+          "o": [
+            "Miguel",
+            "Gabriel",
+            "Rafael",
+            "Uriel"
+          ],
+          "ref": "Daniel 8:16",
+          "exp": "'Y oí una voz de hombre entre las riberas del Ulai, que gritó y dijo: Gabriel, enseña a éste la visión.' — Dan 8:16"
+        },
+        {
+          "p": "¿Qué profeta dijo: 'vayan y lean la Escritura' refiriéndose al siervo?",
+          "r": "Isaías",
+          "o": [
+            "Jeremías",
+            "Ezequiel",
+            "Daniel",
+            "Isaías"
+          ],
+          "ref": "Isaías 53:1",
+          "exp": "'¿Quién ha creído a nuestro anuncio? ¿y sobre quién se ha manifestado el brazo de Jehová?' — Isa 53:1"
+        },
+        {
+          "p": "¿Qué profeta mayor ungió a Ciro de Persia como instrumento de Dios?",
+          "r": "Isaías (por profecía)",
+          "o": [
+            "Ezequiel",
+            "Jeremías",
+            "Daniel",
+            "Isaías (por profecía)"
+          ],
+          "ref": "Isaías 44:28",
+          "exp": "'Que dice de Ciro: Es mi pastor, y cumplirá todo lo que yo quiero.' — Isa 44:28"
+        },
+        {
+          "p": "¿Qué profeta mayor fue llevado en visión por el Espíritu a Jerusalén?",
+          "r": "Ezequiel",
+          "o": [
+            "Isaías",
+            "Daniel",
+            "Jeremías",
+            "Ezequiel"
+          ],
+          "ref": "Ezequiel 8:3",
+          "exp": "'Y me alzó el Espíritu entre la tierra y el cielo, y me llevó en visiones de Dios a Jerusalén.' — Eze 8:3"
+        },
+        {
+          "p": "¿En qué libro se encuentra la profecía de las setenta semanas?",
+          "r": "Daniel",
+          "o": [
+            "Isaías",
+            "Jeremías",
+            "Ezequiel",
+            "Daniel"
+          ],
+          "ref": "Daniel 9:24",
+          "exp": "'Setenta semanas están determinadas sobre tu pueblo... para poner fin a la prevaricación.' — Dan 9:24"
+        },
+        {
+          "p": "¿Qué dijo Isaías cuando Dios preguntó '¿A quién enviaré'?",
+          "r": "'Heme aquí, envíame a mí'",
+          "o": [
+            "'No soy digno'",
+            "'Heme aquí, envíame a mí'",
+            "'Yo no sé hablar'",
+            "'Busca a otro'"
+          ],
+          "ref": "Isaías 6:8",
+          "exp": "'Y respondí yo: Heme aquí, envíame a mí.' — Isa 6:8"
+        },
+        {
+          "p": "¿Qué profeta fue llamado a profetizar estando entre los cautivos en Babilonia?",
+          "r": "Ezequiel",
+          "o": [
+            "Isaías",
+            "Daniel",
+            "Jeremías",
+            "Ezequiel"
+          ],
+          "ref": "Ezequiel 1:1",
+          "exp": "'En el año treinta, en el mes cuarto... estando yo en medio de los cautivos junto al río Quebar.' — Eze 1:1"
+        },
+        {
+          "p": "¿Cuántos amigos vinieron a consolar a Job cuando sufrió?",
+          "r": "3",
+          "o": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "ref": "Job 2:11",
+          "exp": "'Cuando tres amigos de Job oyeron todo este mal que le había sobrevenido... fueron cada uno de su lugar.' — Job 2:11"
+        },
+        {
+          "p": "¿Qué profeta escribió: 'aunque el higo no florezca... con todo, yo me alegraré en Jehová'?",
+          "r": "Habacuc",
+          "o": [
+            "Jeremías",
+            "Isaías",
+            "Habacuc",
+            "Sofonías"
+          ],
+          "ref": "Habacuc 3:17-18",
+          "exp": "'Aunque la higuera no florezca... con todo, yo me alegraré en Jehová.' — Hab 3:17-18"
+        }
+      ]
+    },
+    {
+      "id": "profetas_menores",
+      "nombre": "Profetas Menores",
+      "icono": "mic",
+      "color": "#F39C12",
+      "descripcion": "Los doce profetas desde Oseas hasta Malaquías",
+      "preguntas": [
+        {
+          "p": "¿Cuántos profetas menores hay en el AT?",
+          "r": "12",
+          "o": [
+            "10",
+            "11",
+            "12",
+            "14"
+          ],
+          "ref": "AT RVR60",
+          "exp": "Los 12 profetas menores son: Oseas, Joel, Amós, Abdías, Jonás, Miqueas, Nahúm, Habacuc, Sofonías, Hageo, Zacarías y Malaquías."
+        },
+        {
+          "p": "¿Quién fue tragado por un gran pez?",
+          "r": "Jonás",
+          "o": [
+            "Elías",
+            "Jonás",
+            "Amós",
+            "Oseas"
+          ],
+          "ref": "Jonás 1:17",
+          "exp": "'Pero Jehová tenía preparado un gran pez que tragase a Jonás; y estuvo Jonás en el vientre del pez tres días y tres noches.' — Jon 1:17"
+        },
+        {
+          "p": "¿A qué ciudad fue enviado Jonás a predicar?",
+          "r": "Nínive",
+          "o": [
+            "Babilonia",
+            "Nínive",
+            "Tarsis",
+            "Jerusalén"
+          ],
+          "ref": "Jonás 1:2",
+          "exp": "'Levántate y ve a Nínive, aquella gran ciudad, y pregona contra ella.' — Jon 1:2"
+        },
+        {
+          "p": "¿Qué profeta menor dijo 'el justo por su fe vivirá'?",
+          "r": "Habacuc",
+          "o": [
+            "Amós",
+            "Miqueas",
+            "Habacuc",
+            "Sofonías"
+          ],
+          "ref": "Habacuc 2:4",
+          "exp": "'He aquí que aquel cuya alma no es recta, se enorgullece; mas el justo por su fe vivirá.' — Hab 2:4"
+        },
+        {
+          "p": "¿Qué profeta menor profetizó que el Mesías nacería en Belén?",
+          "r": "Miqueas",
+          "o": [
+            "Zacarías",
+            "Miqueas",
+            "Oseas",
+            "Joel"
+          ],
+          "ref": "Miqueas 5:2",
+          "exp": "'Pero tú, Belén Efrata, pequeña para estar entre las familias de Judá, de ti me saldrá el que será Señor en Israel.' — Mic 5:2"
+        },
+        {
+          "p": "¿En qué libro profético menor se habla del día de Pentecostés y del Espíritu derramado?",
+          "r": "Joel",
+          "o": [
+            "Oseas",
+            "Joel",
+            "Amós",
+            "Zacarías"
+          ],
+          "ref": "Joel 2:28",
+          "exp": "'Y después de esto derramaré mi Espíritu sobre toda carne, y profetizarán vuestros hijos y vuestras hijas.' — Joel 2:28"
+        },
+        {
+          "p": "¿Qué profeta menor era pastor y cultivador de sicómoros?",
+          "r": "Amós",
+          "o": [
+            "Oseas",
+            "Amós",
+            "Joel",
+            "Miqueas"
+          ],
+          "ref": "Amós 7:14",
+          "exp": "'Entonces respondió Amós, y dijo a Amasías: No soy profeta, ni soy hijo de profeta, sino que soy boyero, y cultivador de higos silvestres.' — Amós 7:14"
+        },
+        {
+          "p": "¿Cuántos días estuvo Jonás en el vientre del pez?",
+          "r": "3",
+          "o": [
+            "1",
+            "2",
+            "3",
+            "7"
+          ],
+          "ref": "Jonás 1:17",
+          "exp": "'Y estuvo Jonás en el vientre del pez tres días y tres noches.' — Jon 1:17"
+        },
+        {
+          "p": "¿Qué profeta menor escribió solo 21 versículos siendo el libro más corto del AT?",
+          "r": "Abdías",
+          "o": [
+            "Hageo",
+            "Abdías",
+            "Nahúm",
+            "Sofonías"
+          ],
+          "ref": "Abdías",
+          "exp": "Abdías tiene solo 21 versículos y trata sobre el juicio contra Edom."
+        },
+        {
+          "p": "¿Qué profeta menor habló de la destrucción de Nínive como castigo de Dios?",
+          "r": "Nahúm",
+          "o": [
+            "Jonás",
+            "Nahúm",
+            "Habacuc",
+            "Miqueas"
+          ],
+          "ref": "Nahúm 1:1",
+          "exp": "'Profecía sobre Nínive. Libro de la visión de Nahúm de Elcós.' — Nah 1:1"
+        },
+        {
+          "p": "¿Qué profeta menor exhortó al pueblo a reedificar el templo?",
+          "r": "Hageo",
+          "o": [
+            "Zacarías",
+            "Hageo",
+            "Malaquías",
+            "Abdías"
+          ],
+          "ref": "Hageo 1:8",
+          "exp": "'Subid al monte, y traed madera, y reedificad la casa; y pondré en ella mi voluntad, y seré glorificado.' — Hag 1:8"
+        },
+        {
+          "p": "¿Qué profeta menor dijo: 'No con ejército, ni con fuerza, sino con mi Espíritu'?",
+          "r": "Zacarías",
+          "o": [
+            "Hageo",
+            "Malaquías",
+            "Zacarías",
+            "Miqueas"
+          ],
+          "ref": "Zacarías 4:6",
+          "exp": "'No con ejército, ni con fuerza, sino con mi Espíritu, ha dicho Jehová de los ejércitos.' — Zac 4:6"
+        },
+        {
+          "p": "¿Qué profeta menor fue el último del AT?",
+          "r": "Malaquías",
+          "o": [
+            "Zacarías",
+            "Hageo",
+            "Malaquías",
+            "Sofonías"
+          ],
+          "ref": "Malaquías 4:6",
+          "exp": "Malaquías cierra el AT con la promesa del profeta Elías antes del gran día de Jehová — Mal 4:5."
+        },
+        {
+          "p": "¿Qué profeta menor escribió sobre la infidelidad matrimonial como símbolo de Israel?",
+          "r": "Oseas",
+          "o": [
+            "Amós",
+            "Oseas",
+            "Joel",
+            "Miqueas"
+          ],
+          "ref": "Oseas 1:2",
+          "exp": "'Ve, tómate una mujer fornicaria... porque la tierra fornica alejándose de Jehová.' — Os 1:2"
+        },
+        {
+          "p": "¿Qué dijo Jonás al orar desde el vientre del pez?",
+          "r": "'De la angustia del Seol clamé'",
+          "o": [
+            "'Perdóname Señor'",
+            "'Sácame de aquí'",
+            "'De la angustia del Seol clamé'",
+            "'Haré lo que mandaste'"
+          ],
+          "ref": "Jonás 2:2",
+          "exp": "'Invoqué en mi angustia a Jehová, y él me oyó; desde el seno del Seol clamé, y mi voz oíste.' — Jon 2:2"
+        },
+        {
+          "p": "¿Qué profeta menor dijo que Dios aborrece el divorcio?",
+          "r": "Malaquías",
+          "o": [
+            "Oseas",
+            "Amós",
+            "Malaquías",
+            "Miqueas"
+          ],
+          "ref": "Malaquías 2:16",
+          "exp": "'Porque Jehová Dios de Israel ha dicho que él aborrece el repudio.' — Mal 2:16"
+        },
+        {
+          "p": "¿Qué profeta menor anunció que vendrá Elías antes del día de Jehová?",
+          "r": "Malaquías",
+          "o": [
+            "Zacarías",
+            "Joel",
+            "Malaquías",
+            "Hageo"
+          ],
+          "ref": "Malaquías 4:5",
+          "exp": "'He aquí, yo os envío el profeta Elías, antes que venga el día de Jehová, grande y terrible.' — Mal 4:5"
+        },
+        {
+          "p": "¿Qué profeta menor dijo: 'Buscad a Jehová mientras puede ser hallado'?",
+          "r": "Ninguno de estos — es Isaías",
+          "o": [
+            "Amós",
+            "Miqueas",
+            "Oseas",
+            "Ninguno de estos — es Isaías"
+          ],
+          "ref": "Isaías 55:6",
+          "exp": "Esa frase es de Isaías 55:6: 'Buscad a Jehová mientras puede ser hallado, llamadle en tanto que está cercano.'"
+        },
+        {
+          "p": "¿Qué profeta menor dijo que Dios es lento para la ira y grande en misericordia?",
+          "r": "Jonás",
+          "o": [
+            "Miqueas",
+            "Jonás",
+            "Amós",
+            "Nahúm"
+          ],
+          "ref": "Jonás 4:2",
+          "exp": "'Tú eres Dios clemente y piadoso, tardo en enojarte, y de grande misericordia.' — Jon 4:2"
+        },
+        {
+          "p": "¿Qué profeta menor habló de la visión de carros de fuego?",
+          "r": "Zacarías",
+          "o": [
+            "Hageo",
+            "Zacarías",
+            "Joel",
+            "Amós"
+          ],
+          "ref": "Zacarías 6:1",
+          "exp": "'De nuevo alcé mis ojos y miré, y he aquí cuatro carros que salían de entre dos montes.' — Zac 6:1"
+        },
+        {
+          "p": "¿En qué profeta menor Dios dice 'Yo os he amado, dice Jehová'?",
+          "r": "Malaquías",
+          "o": [
+            "Oseas",
+            "Malaquías",
+            "Amós",
+            "Miqueas"
+          ],
+          "ref": "Malaquías 1:2",
+          "exp": "'Yo os he amado, dice Jehová; y dijisteis: ¿En qué nos amaste?' — Mal 1:2"
+        },
+        {
+          "p": "¿Qué profeta menor menciona la langosta como castigo de Dios?",
+          "r": "Joel",
+          "o": [
+            "Amós",
+            "Joel",
+            "Oseas",
+            "Nahúm"
+          ],
+          "ref": "Joel 1:4",
+          "exp": "'Lo que quedó de la oruga comió el saltón, y lo que quedó del saltón comió el revoltón.' — Joel 1:4"
+        },
+        {
+          "p": "¿Cuántos días predicó Jonás en Nínive según el texto?",
+          "r": "40",
+          "o": [
+            "3",
+            "7",
+            "40",
+            "70"
+          ],
+          "ref": "Jonás 3:4",
+          "exp": "'Y comenzó Jonás a entrar por la ciudad, camino de un día, y predicaba diciendo: De aquí a cuarenta días Nínive será destruida.' — Jon 3:4"
+        },
+        {
+          "p": "¿Qué profeta menor dijo que Dios quiere misericordia y no sacrificio?",
+          "r": "Oseas",
+          "o": [
+            "Joel",
+            "Oseas",
+            "Amós",
+            "Miqueas"
+          ],
+          "ref": "Oseas 6:6",
+          "exp": "'Porque misericordia quiero, y no sacrificio, y conocimiento de Dios más que holocaustos.' — Os 6:6"
+        }
+      ]
+    },
+    {
+      "id": "personajes",
+      "nombre": "Personajes Bíblicos",
+      "icono": "people",
+      "color": "#8E44AD",
+      "descripcion": "Personajes importantes del AT y NT",
+      "preguntas": [
+        {
+          "p": "¿Quién fue el primer hombre según la Biblia?",
+          "r": "Adán",
+          "o": [
+            "Abel",
+            "Adán",
+            "Noé",
+            "Abraham"
+          ],
+          "ref": "Génesis 2:7",
+          "exp": "'Entonces Jehová Dios formó al hombre del polvo de la tierra.' — Gén 2:7"
+        },
+        {
+          "p": "¿Quién construyó el arca?",
+          "r": "Noé",
+          "o": [
+            "Abraham",
+            "Moisés",
+            "Noé",
+            "Lot"
+          ],
+          "ref": "Génesis 6:14",
+          "exp": "'Hazte un arca de madera de gofer.' — Gén 6:14"
+        },
+        {
+          "p": "¿Quién fue el padre de la fe según la Biblia?",
+          "r": "Abraham",
+          "o": [
+            "Moisés",
+            "Abraham",
+            "David",
+            "Isaac"
+          ],
+          "ref": "Romanos 4:16",
+          "exp": "'Por tanto, es por fe, para que sea por gracia, para que la promesa sea firme para toda su descendencia... Abraham, el cual es padre de todos nosotros.' — Rom 4:16"
+        },
+        {
+          "p": "¿Quién vendió su primogenitura por un plato de comida?",
+          "r": "Esaú",
+          "o": [
+            "Jacob",
+            "Esaú",
+            "Rubén",
+            "Ismael"
+          ],
+          "ref": "Génesis 25:33",
+          "exp": "'Entonces Jacob le dio pan y del guisado de las lentejas; y él comió y bebió, y se levantó y se fue. Así menospreció Esaú la primogenitura.' — Gén 25:34"
+        },
+        {
+          "p": "¿Quién fue vendido como esclavo por sus hermanos?",
+          "r": "José",
+          "o": [
+            "Benjamín",
+            "José",
+            "Rubén",
+            "Simeón"
+          ],
+          "ref": "Génesis 37:28",
+          "exp": "'Y cuando pasaban los madianitas mercaderes, sacaron ellos a José de la cisterna, y le vendieron.' — Gén 37:28"
+        },
+        {
+          "p": "¿Quién dividió el mar Rojo?",
+          "r": "Moisés",
+          "o": [
+            "Josué",
+            "Moisés",
+            "Aarón",
+            "Caleb"
+          ],
+          "ref": "Éxodo 14:21",
+          "exp": "'Y Moisés extendió su mano sobre el mar, e hizo Jehová que el mar se retirase por recio viento oriental toda aquella noche.' — Éxo 14:21"
+        },
+        {
+          "p": "¿Quién fue el sumo sacerdote que ungió a Saúl y a David?",
+          "r": "Samuel",
+          "o": [
+            "Aarón",
+            "Elí",
+            "Samuel",
+            "Sadoc"
+          ],
+          "ref": "1 Samuel 10:1",
+          "exp": "'Tomando entonces Samuel una redoma de aceite, la derramó sobre su cabeza, y le besó.' — 1 Sam 10:1"
+        },
+        {
+          "p": "¿Quién mató al gigante Goliat?",
+          "r": "David",
+          "o": [
+            "Saúl",
+            "Jonatán",
+            "David",
+            "Abisal"
+          ],
+          "ref": "1 Samuel 17:50",
+          "exp": "'Así venció David al filisteo con honda y piedra; e hirió al filisteo y lo mató.' — 1 Sam 17:50"
+        },
+        {
+          "p": "¿Quién fue el rey más sabio de Israel?",
+          "r": "Salomón",
+          "o": [
+            "David",
+            "Salomón",
+            "Josías",
+            "Ezequías"
+          ],
+          "ref": "1 Reyes 4:29",
+          "exp": "'Y Dios dio a Salomón sabiduría y prudencia muy grandes.' — 1 Rey 4:29"
+        },
+        {
+          "p": "¿Quién fue llevado al cielo en un carro de fuego?",
+          "r": "Elías",
+          "o": [
+            "Enoc",
+            "Elías",
+            "Eliseo",
+            "Moisés"
+          ],
+          "ref": "2 Reyes 2:11",
+          "exp": "'Y aconteció que yendo ellos y hablando, he aquí un carro de fuego con caballos de fuego... y Elías subió al cielo en un torbellino.' — 2 Rey 2:11"
+        },
+        {
+          "p": "¿Quién fue el discípulo que negó a Jesús tres veces?",
+          "r": "Pedro",
+          "o": [
+            "Juan",
+            "Judas",
+            "Pedro",
+            "Tomás"
+          ],
+          "ref": "Marcos 14:72",
+          "exp": "'Y el gallo cantó la segunda vez. Entonces Pedro se acordó de las palabras que Jesús le había dicho... Y lloraba.' — Mar 14:72"
+        },
+        {
+          "p": "¿Quién fue el discípulo que traicionó a Jesús?",
+          "r": "Judas Iscariote",
+          "o": [
+            "Pedro",
+            "Tomás",
+            "Judas Iscariote",
+            "Simón el zelote"
+          ],
+          "ref": "Mateo 26:14-15",
+          "exp": "'Entonces uno de los doce, que se llamaba Judas Iscariote, fue a los principales sacerdotes, y les dijo: ¿Qué me queréis dar, y yo os lo entregaré?' — Mat 26:14-15"
+        },
+        {
+          "p": "¿Quién fue el primer mártir cristiano registrado en el NT?",
+          "r": "Esteban",
+          "o": [
+            "Santiago",
+            "Esteban",
+            "Felipe",
+            "Bernabé"
+          ],
+          "ref": "Hechos 7:59",
+          "exp": "'Y apedreaban a Esteban, mientras él invocaba y decía: Señor Jesús, recibe mi espíritu.' — Hec 7:59"
+        },
+        {
+          "p": "¿Quién bautizó a Jesús?",
+          "r": "Juan el Bautista",
+          "o": [
+            "Pedro",
+            "Juan el Bautista",
+            "Felipe",
+            "Ananías"
+          ],
+          "ref": "Mateo 3:13-15",
+          "exp": "'Entonces Jesús vino de Galilea a Juan al Jordán, para ser bautizado por él.' — Mat 3:13"
+        },
+        {
+          "p": "¿Quién fue el apóstol llamado perseguidor antes de su conversión?",
+          "r": "Pablo",
+          "o": [
+            "Pedro",
+            "Bernabé",
+            "Pablo",
+            "Silas"
+          ],
+          "ref": "Hechos 9:1",
+          "exp": "'Saulo, respirando aún amenazas y muerte contra los discípulos del Señor.' — Hec 9:1"
+        },
+        {
+          "p": "¿Quién fue Booz en relación con Rut?",
+          "r": "Su pariente redentor",
+          "o": [
+            "Su hermano",
+            "Su padre",
+            "Su pariente redentor",
+            "Su enemigo"
+          ],
+          "ref": "Rut 2:20",
+          "exp": "'Y le respondió Noemí: Bendito sea de Jehová, pues que no ha rehusado a los vivos la benevolencia que tuvo para con los que han muerto. Está pariente cercano nuestro.' — Rut 2:20"
+        },
+        {
+          "p": "¿Quién fue el primer rey de Israel?",
+          "r": "Saúl",
+          "o": [
+            "David",
+            "Salomón",
+            "Saúl",
+            "Samuel"
+          ],
+          "ref": "1 Samuel 10:24",
+          "exp": "'¿Veis al que ha elegido Jehová, que no hay semejante a él en todo el pueblo? Y el pueblo clamó: ¡Viva el rey!' — 1 Sam 10:24"
+        },
+        {
+          "p": "¿Quién fue el sumo sacerdote que rasgó sus vestiduras al juzgar a Jesús?",
+          "r": "Caifás",
+          "o": [
+            "Ananás",
+            "Caifás",
+            "Pilato",
+            "Herodes"
+          ],
+          "ref": "Mateo 26:65",
+          "exp": "'Entonces el sumo sacerdote rasgó sus vestiduras, diciendo: ¡Ha blasfemado! ¿Qué más necesidad tenemos de testigos?' — Mat 26:65"
+        },
+        {
+          "p": "¿Quién fue Bernabé en la iglesia primitiva?",
+          "r": "Compañero de misión de Pablo",
+          "o": [
+            "Uno de los Doce",
+            "Compañero de misión de Pablo",
+            "El diácono principal",
+            "El guardián del templo"
+          ],
+          "ref": "Hechos 13:2",
+          "exp": "'Apartadme a Bernabé y a Saulo para la obra a que los he llamado.' — Hec 13:2"
+        },
+        {
+          "p": "¿Quién fue María Magdalena según los Evangelios?",
+          "r": "Una mujer de quien Jesús echó siete demonios",
+          "o": [
+            "La esposa de Juan",
+            "Una mujer de quien Jesús echó siete demonios",
+            "La madre de Jesús",
+            "La hermana de Lázaro"
+          ],
+          "ref": "Lucas 8:2",
+          "exp": "'María, que se llamaba Magdalena, de la que habían salido siete demonios.' — Luc 8:2"
+        },
+        {
+          "p": "¿Quién fue Cornelio en Hechos 10?",
+          "r": "El primer gentil en recibir el Espíritu Santo",
+          "o": [
+            "Un fariseo convertido",
+            "Un sacerdote judío",
+            "El primer gentil en recibir el Espíritu Santo",
+            "Un discípulo de Pablo"
+          ],
+          "ref": "Hechos 10:44-45",
+          "exp": "'Mientras aún hablaba Pedro estas palabras, el Espíritu Santo cayó sobre todos los que oían el discurso.' — Hec 10:44"
+        },
+        {
+          "p": "¿Quién fue Priscila junto con Aquila?",
+          "r": "Una pareja que enseñó a Apolos",
+          "o": [
+            "Padres de Timoteo",
+            "Una pareja que enseñó a Apolos",
+            "Fundadores de Roma",
+            "Esclavos de Pablo"
+          ],
+          "ref": "Hechos 18:26",
+          "exp": "'Le tomaron aparte y le expusieron más exactamente el camino de Dios.' — Hec 18:26"
+        },
+        {
+          "p": "¿Quién nombró a los primeros siete diáconos de la iglesia?",
+          "r": "Los apóstoles",
+          "o": [
+            "Los apóstoles",
+            "Pablo solo",
+            "Pedro solo",
+            "El Espíritu Santo directamente"
+          ],
+          "ref": "Hechos 6:6",
+          "exp": "'A éstos presentaron ante los apóstoles, quienes, orando, les impusieron las manos.' — Hec 6:6"
+        },
+        {
+          "p": "¿Quién fue Timoteo según las epístolas paulinas?",
+          "r": "Hijo espiritual de Pablo",
+          "o": [
+            "Hermano de Pablo",
+            "Hijo espiritual de Pablo",
+            "Esclavo convertido",
+            "Diácono de Corinto"
+          ],
+          "ref": "1 Timoteo 1:2",
+          "exp": "'A Timoteo, verdadero hijo en la fe.' — 1 Tim 1:2"
+        },
+        {
+          "p": "¿Quién fue José de Arimatea?",
+          "r": "El que pidió el cuerpo de Jesús a Pilato",
+          "o": [
+            "Un fariseo enemigo de Jesús",
+            "El que pidió el cuerpo de Jesús a Pilato",
+            "El apóstol que negó a Jesús",
+            "Un primo de Juan el Bautista"
+          ],
+          "ref": "Mateo 27:58",
+          "exp": "'Este fue a Pilato y pidió el cuerpo de Jesús. Entonces Pilato mandó que se le diese el cuerpo.' — Mat 27:58"
+        }
+      ]
+    },
+    {
+      "id": "genesis_creacion",
+      "nombre": "Génesis y la Creación",
+      "icono": "public",
+      "color": "#27AE60",
+      "descripcion": "Los primeros relatos del origen del mundo",
+      "preguntas": [
+        {
+          "p": "¿Qué creó Dios en el primer día?",
+          "r": "La luz",
+          "o": [
+            "Las plantas",
+            "La luz",
+            "Los astros",
+            "El mar"
+          ],
+          "ref": "Génesis 1:3",
+          "exp": "'Y dijo Dios: Sea la luz; y fue la luz.' — Gén 1:3"
+        },
+        {
+          "p": "¿Qué creó Dios en el cuarto día?",
+          "r": "El sol, la luna y las estrellas",
+          "o": [
+            "Los peces",
+            "Las aves",
+            "El sol, la luna y las estrellas",
+            "Los animales terrestres"
+          ],
+          "ref": "Génesis 1:14-16",
+          "exp": "'Haya lumbreras en la expansión de los cielos para separar el día de la noche.' — Gén 1:14"
+        },
+        {
+          "p": "¿De qué formó Dios a la mujer?",
+          "r": "De una costilla del hombre",
+          "o": [
+            "Del polvo de la tierra",
+            "De una costilla del hombre",
+            "De la mano del hombre",
+            "Del agua"
+          ],
+          "ref": "Génesis 2:21-22",
+          "exp": "'Tomó, pues, Jehová Dios al hombre una de sus costillas... y de la costilla que Jehová Dios tomó del hombre, hizo una mujer.' — Gén 2:21-22"
+        },
+        {
+          "p": "¿Cuántos días duró la creación?",
+          "r": "6 días (el 7º descansó)",
+          "o": [
+            "5 días",
+            "6 días (el 7º descansó)",
+            "7 días",
+            "10 días"
+          ],
+          "ref": "Génesis 2:2",
+          "exp": "'Y acabó Dios en el día séptimo la obra que hizo; y reposó el día séptimo de toda la obra que hizo.' — Gén 2:2"
+        },
+        {
+          "p": "¿Qué árbol estaba en medio del jardín del Edén?",
+          "r": "El árbol de la vida y el árbol de la ciencia",
+          "o": [
+            "Solo el árbol de la vida",
+            "El árbol de la ciencia únicamente",
+            "El árbol de la vida y el árbol de la ciencia",
+            "El árbol del conocimiento del bien"
+          ],
+          "ref": "Génesis 2:9",
+          "exp": "'Y Jehová Dios hizo nacer de la tierra todo árbol delicioso a la vista... el árbol de vida en medio del huerto, y el árbol de la ciencia del bien y del mal.' — Gén 2:9"
+        },
+        {
+          "p": "¿Cómo habló la serpiente con Eva según el texto?",
+          "r": "Cuestionando lo que Dios dijo",
+          "o": [
+            "Con amenazas",
+            "Cuestionando lo que Dios dijo",
+            "Con promesas de riqueza",
+            "Con visiones"
+          ],
+          "ref": "Génesis 3:1",
+          "exp": "'¿Conque Dios os ha dicho: No comáis de todo árbol del huerto?' — Gén 3:1"
+        },
+        {
+          "p": "¿Qué consecuencia recibió la serpiente tras el pecado?",
+          "r": "Andar sobre su pecho y comer polvo",
+          "o": [
+            "Ser destruida",
+            "Volverse invisible",
+            "Andar sobre su pecho y comer polvo",
+            "Perder el habla"
+          ],
+          "ref": "Génesis 3:14",
+          "exp": "'Por cuanto esto hiciste, maldita serás entre todas las bestias... sobre tu pecho andarás, y polvo comerás.' — Gén 3:14"
+        },
+        {
+          "p": "¿Quiénes fueron los hijos de Adán y Eva mencionados en Génesis 4?",
+          "r": "Caín y Abel",
+          "o": [
+            "Sem y Cam",
+            "Set y Enós",
+            "Caín y Abel",
+            "Noé y Lot"
+          ],
+          "ref": "Génesis 4:1-2",
+          "exp": "'Y conoció Adán a su mujer Eva, la cual concibió y dio a luz a Caín... después dio a luz a su hermano Abel.' — Gén 4:1-2"
+        },
+        {
+          "p": "¿Por qué Dios rechazó la ofrenda de Caín?",
+          "r": "La Biblia no especifica, pero Caín se airó en vez de mejorar",
+          "o": [
+            "Porque era de frutos",
+            "Porque era de malas intenciones",
+            "La Biblia no especifica, pero Caín se airó en vez de mejorar",
+            "Porque no fue en el día correcto"
+          ],
+          "ref": "Génesis 4:5-6",
+          "exp": "'Pero no miró con agrado a Caín y a la ofrenda suya... Y Caín se enojó en gran manera.' — Gén 4:5"
+        },
+        {
+          "p": "¿Cuántos años vivió Matusalén según la Biblia?",
+          "r": "969",
+          "o": [
+            "777",
+            "900",
+            "969",
+            "800"
+          ],
+          "ref": "Génesis 5:27",
+          "exp": "'Y fueron todos los días de Matusalén novecientos sesenta y nueve años; y murió.' — Gén 5:27"
+        },
+        {
+          "p": "¿Cuántos días llovió en el diluvio de Noé?",
+          "r": "40 días y 40 noches",
+          "o": [
+            "20 días",
+            "30 días",
+            "40 días y 40 noches",
+            "150 días"
+          ],
+          "ref": "Génesis 7:12",
+          "exp": "'Y hubo lluvia sobre la tierra cuarenta días y cuarenta noches.' — Gén 7:12"
+        },
+        {
+          "p": "¿Cuántas personas se salvaron en el arca?",
+          "r": "8",
+          "o": [
+            "4",
+            "6",
+            "8",
+            "10"
+          ],
+          "ref": "1 Pedro 3:20",
+          "exp": "'En los días de Noé... en la cual pocas personas, es decir, ocho, fueron salvadas por agua.' — 1 Ped 3:20"
+        },
+        {
+          "p": "¿Qué señal puso Dios después del diluvio?",
+          "r": "El arcoíris",
+          "o": [
+            "Una paloma",
+            "El arcoíris",
+            "Una estrella",
+            "Un altar de fuego"
+          ],
+          "ref": "Génesis 9:13",
+          "exp": "'Mi arco he puesto en las nubes, el cual será por señal del pacto entre mí y la tierra.' — Gén 9:13"
+        },
+        {
+          "p": "¿Cuántos años tenía Abraham cuando le nació Isaac?",
+          "r": "100",
+          "o": [
+            "70",
+            "85",
+            "99",
+            "100"
+          ],
+          "ref": "Génesis 21:5",
+          "exp": "'Y era Abraham de cien años cuando le nació Isaac su hijo.' — Gén 21:5"
+        },
+        {
+          "p": "¿Qué dijo Dios a Abraham cuando le mandó sacrificar a Isaac?",
+          "r": "Llamó a Isaac 'tu hijo, tu único'",
+          "o": [
+            "'Ofréceme al mayor'",
+            "'Demuéstrame tu amor'",
+            "Llamó a Isaac 'tu hijo, tu único'",
+            "'Pon a prueba tu obediencia'"
+          ],
+          "ref": "Génesis 22:2",
+          "exp": "'Toma ahora tu hijo, tu único, Isaac, a quien amas, y vete a tierra de Moriah.' — Gén 22:2"
+        },
+        {
+          "p": "¿Qué imagen usó Dios al hacer al hombre según Génesis 1:26?",
+          "r": "A imagen y semejanza de Dios",
+          "o": [
+            "A imagen de los ángeles",
+            "A imagen y semejanza de Dios",
+            "A imagen de los animales",
+            "A imagen del cielo"
+          ],
+          "ref": "Génesis 1:26",
+          "exp": "'Entonces dijo Dios: Hagamos al hombre a nuestra imagen, conforme a nuestra semejanza.' — Gén 1:26"
+        },
+        {
+          "p": "¿Cuántos hijos tuvo Jacob?",
+          "r": "12",
+          "o": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "ref": "Génesis 35:22",
+          "exp": "'Los hijos de Jacob fueron doce.' — Gén 35:22"
+        },
+        {
+          "p": "¿Dónde estaba el jardín del Edén según la Biblia?",
+          "r": "Regado por cuatro ríos, uno de ellos el Éufrates",
+          "o": [
+            "En Egipto",
+            "En Canaán",
+            "Regado por cuatro ríos, uno de ellos el Éufrates",
+            "En Mesopotamia superior"
+          ],
+          "ref": "Génesis 2:10-14",
+          "exp": "'Y salía de Edén un río para regar el huerto... El nombre del cuarto río es el Éufrates.' — Gén 2:10,14"
+        },
+        {
+          "p": "¿Qué prometió Dios a Abraham en Génesis 12:2?",
+          "r": "Hacerle una gran nación y bendecirle",
+          "o": [
+            "Darle riquezas y tierras de Arabia",
+            "Hacerle una gran nación y bendecirle",
+            "Darle diez hijos",
+            "Protegerle de todos sus enemigos"
+          ],
+          "ref": "Génesis 12:2",
+          "exp": "'Y haré de ti una nación grande, y te bendeciré, y engrandeceré tu nombre.' — Gén 12:2"
+        },
+        {
+          "p": "¿Cuántos días tardó Dios en crear el mundo y descansar?",
+          "r": "7 (6 creó + 1 descansó)",
+          "o": [
+            "5",
+            "6",
+            "7 (6 creó + 1 descansó)",
+            "8"
+          ],
+          "ref": "Génesis 2:2",
+          "exp": "'Y acabó Dios en el día séptimo la obra que hizo; y reposó el día séptimo.' — Gén 2:2"
+        }
+      ]
+    },
+    {
+      "id": "vida_jesus",
+      "nombre": "Vida y Ministerio de Jesús",
+      "icono": "star",
+      "color": "#C0392B",
+      "descripcion": "La vida terrenal del Señor Jesucristo",
+      "preguntas": [
+        {
+          "p": "¿En qué ciudad nació Jesús?",
+          "r": "Belén",
+          "o": [
+            "Nazaret",
+            "Belén",
+            "Jerusalén",
+            "Capernaum"
+          ],
+          "ref": "Lucas 2:4-7",
+          "exp": "'Y José subió de Galilea, de la ciudad de Nazaret, a Judea, a la ciudad de David, que se llama Belén... Y dio a luz a su hijo primogénito.' — Luc 2:4-7"
+        },
+        {
+          "p": "¿Quién anunció a María que concebiría al Hijo de Dios?",
+          "r": "El ángel Gabriel",
+          "o": [
+            "Un ángel sin nombre",
+            "El ángel Gabriel",
+            "El Espíritu Santo directamente",
+            "Un sueño de Dios"
+          ],
+          "ref": "Lucas 1:26-27",
+          "exp": "'Al sexto mes el ángel Gabriel fue enviado por Dios a una ciudad de Galilea, llamada Nazaret.' — Luc 1:26"
+        },
+        {
+          "p": "¿Cuántos días ayunó Jesús en el desierto?",
+          "r": "40",
+          "o": [
+            "20",
+            "30",
+            "40",
+            "50"
+          ],
+          "ref": "Mateo 4:2",
+          "exp": "'Y después de haber ayunado cuarenta días y cuarenta noches, tuvo hambre.' — Mat 4:2"
+        },
+        {
+          "p": "¿Cuántos discípulos escogió Jesús?",
+          "r": "12",
+          "o": [
+            "7",
+            "10",
+            "12",
+            "70"
+          ],
+          "ref": "Marcos 3:14",
+          "exp": "'Y estableció a doce, para que estuviesen con él, y para enviarlos a predicar.' — Mar 3:14"
+        },
+        {
+          "p": "¿Cuál fue el primer milagro de Jesús según el evangelio de Juan?",
+          "r": "Convertir agua en vino en Caná",
+          "o": [
+            "Sanar a un ciego",
+            "Resucitar a un muerto",
+            "Convertir agua en vino en Caná",
+            "Multiplicar los panes"
+          ],
+          "ref": "Juan 2:11",
+          "exp": "'Este principio de señales hizo Jesús en Caná de Galilea, y manifestó su gloria.' — Jua 2:11"
+        },
+        {
+          "p": "¿Qué dijo Jesús a sus discípulos al caminar sobre el agua?",
+          "r": "'Yo soy; no tengáis miedo'",
+          "o": [
+            "'Venid a mí'",
+            "'Yo soy; no tengáis miedo'",
+            "'Tengan fe en Dios'",
+            "'El viento obedece mi voz'"
+          ],
+          "ref": "Mateo 14:27",
+          "exp": "'Pero en seguida Jesús les habló, diciendo: ¡Tened ánimo; yo soy, no temáis!' — Mat 14:27"
+        },
+        {
+          "p": "¿Qué preguntó Jesús a Pedro en Cesarea de Filipo?",
+          "r": "'¿Quién decís que soy yo?'",
+          "o": [
+            "'¿Me amas más que estos?'",
+            "'¿Quién decís que soy yo?'",
+            "'¿Creéis que puedo hacerlo?'",
+            "'¿Por qué dudaste?'"
+          ],
+          "ref": "Mateo 16:15",
+          "exp": "'Él les dijo: Y vosotros, ¿quién decís que soy yo?' — Mat 16:15"
+        },
+        {
+          "p": "¿Qué respondió Pedro cuando Jesús preguntó quién era?",
+          "r": "'Tú eres el Cristo, el Hijo del Dios viviente'",
+          "o": [
+            "'Tú eres el profeta'",
+            "'Tú eres el Mesías'",
+            "'Tú eres el Cristo, el Hijo del Dios viviente'",
+            "'Tú eres el Señor'"
+          ],
+          "ref": "Mateo 16:16",
+          "exp": "'Respondiendo Simón Pedro, dijo: Tú eres el Cristo, el Hijo del Dios viviente.' — Mat 16:16"
+        },
+        {
+          "p": "¿Qué pasó cuando Jesús fue transfigurado?",
+          "r": "Su rostro resplandeció como el sol y sus vestidos se hicieron blancos",
+          "o": [
+            "Habló con ángeles",
+            "Su rostro resplandeció como el sol y sus vestidos se hicieron blancos",
+            "Desapareció y volvió",
+            "Fue llevado al cielo y regresó"
+          ],
+          "ref": "Mateo 17:2",
+          "exp": "'Y se transfiguró delante de ellos, y resplandeció su rostro como el sol, y sus vestidos se hicieron blancos como la luz.' — Mat 17:2"
+        },
+        {
+          "p": "¿A cuántos multiplicó Jesús los panes y los peces en la primera multiplicación?",
+          "r": "5000 hombres",
+          "o": [
+            "3000",
+            "4000",
+            "5000 hombres",
+            "7000"
+          ],
+          "ref": "Mateo 14:21",
+          "exp": "'Y los que comieron fueron como cinco mil hombres, sin contar las mujeres y los niños.' — Mat 14:21"
+        },
+        {
+          "p": "¿Qué ciudad lloró Jesús según Lucas 19?",
+          "r": "Jerusalén",
+          "o": [
+            "Betania",
+            "Nazaret",
+            "Capernaum",
+            "Jerusalén"
+          ],
+          "ref": "Lucas 19:41",
+          "exp": "'Y cuando llegó cerca de la ciudad, al verla, lloró sobre ella.' — Luc 19:41"
+        },
+        {
+          "p": "¿Qué dijo Jesús en la cruz: 'Dios mío, Dios mío, ¿por qué me has abandonado'?",
+          "r": "Mateo 27:46",
+          "o": [
+            "Lucas 23:46",
+            "Juan 19:30",
+            "Mateo 27:46",
+            "Marcos 15:34"
+          ],
+          "ref": "Mateo 27:46",
+          "exp": "'Cerca de la hora novena, Jesús clamó a gran voz, diciendo: Elí, Elí, ¿lama sabactani? que es: Dios mío, Dios mío, ¿por qué me has desamparado?' — Mat 27:46"
+        },
+        {
+          "p": "¿Cuántos días estuvo Jesús en la tumba?",
+          "r": "3 días",
+          "o": [
+            "1 día",
+            "2 días",
+            "3 días",
+            "4 días"
+          ],
+          "ref": "Mateo 12:40",
+          "exp": "'Porque como estuvo Jonás en el vientre del gran pez tres días y tres noches, así estará el Hijo del Hombre en el corazón de la tierra tres días y tres noches.' — Mat 12:40"
+        },
+        {
+          "p": "¿Quién vino de noche a hablar con Jesús sobre el nuevo nacimiento?",
+          "r": "Nicodemo",
+          "o": [
+            "José de Arimatea",
+            "Nicodemo",
+            "Un fariseo anónimo",
+            "Juan el Bautista"
+          ],
+          "ref": "Juan 3:1-2",
+          "exp": "'Había un hombre de los fariseos que se llamaba Nicodemo... Este vino a Jesús de noche.' — Jua 3:1-2"
+        },
+        {
+          "p": "¿Qué le dijo Jesús a la mujer samaritana sobre el agua viva?",
+          "r": "'El que bebiere del agua que yo le daré, no tendrá sed jamás'",
+          "o": [
+            "'Ve y trae a tu marido'",
+            "'El que bebiere del agua que yo le daré, no tendrá sed jamás'",
+            "'Yo soy el camino'",
+            "'Este es el agua del cielo'"
+          ],
+          "ref": "Juan 4:14",
+          "exp": "'Mas el que bebiere del agua que yo le daré, no tendrá sed jamás; sino que el agua que yo le daré será en él una fuente de agua que salte para vida eterna.' — Jua 4:14"
+        },
+        {
+          "p": "¿Qué dijo Jesús al resucitar a Lázaro antes de llamarle a salir?",
+          "r": "'Lázaro, ven fuera'",
+          "o": [
+            "'Levántate'",
+            "'Sal de ahí'",
+            "'Lázaro, ven fuera'",
+            "'En el nombre de Dios, vive'"
+          ],
+          "ref": "Juan 11:43",
+          "exp": "'Y habiendo dicho esto, clamó a gran voz: ¡Lázaro, ven fuera!' — Jua 11:43"
+        },
+        {
+          "p": "¿Qué mandamiento nuevo dio Jesús en Juan 13:34?",
+          "r": "'Que os améis unos a otros; como yo os he amado'",
+          "o": [
+            "'Amad a vuestros enemigos'",
+            "'Guardad los mandamientos'",
+            "'Que os améis unos a otros; como yo os he amado'",
+            "'Predicad el evangelio'"
+          ],
+          "ref": "Juan 13:34",
+          "exp": "'Un mandamiento nuevo os doy: Que os améis unos a otros; como yo os he amado, que también os améis unos a otros.' — Jua 13:34"
+        },
+        {
+          "p": "¿Qué dijo Jesús al morir: 'Consumado es'?",
+          "r": "Juan 19:30",
+          "o": [
+            "Mateo 27:50",
+            "Lucas 23:46",
+            "Juan 19:30",
+            "Marcos 15:37"
+          ],
+          "ref": "Juan 19:30",
+          "exp": "'Cuando Jesús hubo tomado el vinagre, dijo: Consumado es. Y habiendo inclinado la cabeza, entregó el espíritu.' — Jua 19:30"
+        },
+        {
+          "p": "¿Quién fue el primer apóstol en ver a Jesús resucitado según el evangelio de Juan?",
+          "r": "María Magdalena",
+          "o": [
+            "Pedro",
+            "Juan",
+            "María Magdalena",
+            "Tomás"
+          ],
+          "ref": "Juan 20:14-16",
+          "exp": "'Dicho esto, se volvió, y vio a Jesús que estaba allí... Jesús le dijo: ¡María! Volviéndose ella, le dijo: ¡Raboni!' — Jua 20:14-16"
+        },
+        {
+          "p": "¿Qué dijo Jesús a Tomás cuando dudó de la resurrección?",
+          "r": "'Porque me has visto, Tomás, creíste; bienaventurados los que no vieron y creyeron'",
+          "o": [
+            "'Pon tu dedo aquí'",
+            "'No seas incrédulo'",
+            "'Porque me has visto, Tomás, creíste; bienaventurados los que no vieron y creyeron'",
+            "'¿Por qué dudaste?'"
+          ],
+          "ref": "Juan 20:29",
+          "exp": "'Jesús le dijo: Porque me has visto, Tomás, creíste; bienaventurados los que no vieron, y creyeron.' — Jua 20:29"
+        }
+      ]
+    },
+    {
+      "id": "versiculos_clave",
+      "nombre": "Versículos Clave — ¿Dónde está?",
+      "icono": "search",
+      "color": "#1ABC9C",
+      "descripcion": "Localiza el libro correcto de versículos famosos",
+      "preguntas": [
+        {
+          "p": "¿Dónde está: 'Porque de tal manera amó Dios al mundo'?",
+          "r": "Juan 3:16",
+          "o": [
+            "Romanos 5:8",
+            "Juan 3:16",
+            "1 Juan 4:10",
+            "Mateo 1:21"
+          ],
+          "ref": "Juan 3:16",
+          "exp": "'Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna.' — Jua 3:16"
+        },
+        {
+          "p": "¿Dónde está: 'Todo lo puedo en Cristo que me fortalece'?",
+          "r": "Filipenses 4:13",
+          "o": [
+            "Romanos 8:31",
+            "Colosenses 3:17",
+            "Filipenses 4:13",
+            "Efesios 6:10"
+          ],
+          "ref": "Filipenses 4:13",
+          "exp": "'Todo lo puedo en Cristo que me fortalece.' — Fil 4:13"
+        },
+        {
+          "p": "¿Dónde está: 'La paga del pecado es muerte'?",
+          "r": "Romanos 6:23",
+          "o": [
+            "Gálatas 6:7",
+            "Romanos 6:23",
+            "Santiago 1:15",
+            "1 Corintios 15:56"
+          ],
+          "ref": "Romanos 6:23",
+          "exp": "'Porque la paga del pecado es muerte, mas la dádiva de Dios es vida eterna en Cristo Jesús Señor nuestro.' — Rom 6:23"
+        },
+        {
+          "p": "¿Dónde está: 'Jehová es mi pastor; nada me faltará'?",
+          "r": "Salmo 23:1",
+          "o": [
+            "Salmo 91:1",
+            "Salmo 1:1",
+            "Salmo 23:1",
+            "Salmo 121:1"
+          ],
+          "ref": "Salmo 23:1",
+          "exp": "'Jehová es mi pastor; nada me faltará.' — Sal 23:1"
+        },
+        {
+          "p": "¿Dónde está: 'En el principio era el Verbo'?",
+          "r": "Juan 1:1",
+          "o": [
+            "Génesis 1:1",
+            "Juan 1:1",
+            "Colosenses 1:17",
+            "Hebreos 1:1"
+          ],
+          "ref": "Juan 1:1",
+          "exp": "'En el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios.' — Jua 1:1"
+        },
+        {
+          "p": "¿Dónde está: 'Fíate de Jehová de todo tu corazón'?",
+          "r": "Proverbios 3:5",
+          "o": [
+            "Salmo 37:3",
+            "Isaías 26:3",
+            "Proverbios 3:5",
+            "Jeremías 17:7"
+          ],
+          "ref": "Proverbios 3:5",
+          "exp": "'Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia prudencia.' — Pro 3:5"
+        },
+        {
+          "p": "¿Dónde está: 'El que no ama, no ha conocido a Dios; porque Dios es amor'?",
+          "r": "1 Juan 4:8",
+          "o": [
+            "Juan 3:16",
+            "Romanos 8:39",
+            "1 Juan 4:8",
+            "1 Corintios 13:4"
+          ],
+          "ref": "1 Juan 4:8",
+          "exp": "'El que no ama, no ha conocido a Dios; porque Dios es amor.' — 1 Jua 4:8"
+        },
+        {
+          "p": "¿Dónde está: 'Toda la Escritura es inspirada por Dios'?",
+          "r": "2 Timoteo 3:16",
+          "o": [
+            "1 Pedro 1:25",
+            "2 Timoteo 3:16",
+            "Hebreos 4:12",
+            "2 Pedro 1:20"
+          ],
+          "ref": "2 Timoteo 3:16",
+          "exp": "'Toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia.' — 2 Tim 3:16"
+        },
+        {
+          "p": "¿Dónde está: 'Es pues la fe la certeza de lo que se espera'?",
+          "r": "Hebreos 11:1",
+          "o": [
+            "Romanos 1:17",
+            "Santiago 2:17",
+            "Hebreos 11:1",
+            "Gálatas 3:11"
+          ],
+          "ref": "Hebreos 11:1",
+          "exp": "'Es pues la fe la certeza de lo que se espera, la convicción de lo que no se ve.' — Heb 11:1"
+        },
+        {
+          "p": "¿Dónde está: 'Echando toda vuestra ansiedad sobre él'?",
+          "r": "1 Pedro 5:7",
+          "o": [
+            "Filipenses 4:6",
+            "Salmo 55:22",
+            "1 Pedro 5:7",
+            "Mateo 11:28"
+          ],
+          "ref": "1 Pedro 5:7",
+          "exp": "'Echando toda vuestra ansiedad sobre él, porque él tiene cuidado de vosotros.' — 1 Ped 5:7"
+        },
+        {
+          "p": "¿Dónde está: 'Mas buscad primeramente el reino de Dios'?",
+          "r": "Mateo 6:33",
+          "o": [
+            "Lucas 12:31",
+            "Juan 4:23",
+            "Mateo 6:33",
+            "Marcos 12:30"
+          ],
+          "ref": "Mateo 6:33",
+          "exp": "'Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas.' — Mat 6:33"
+        },
+        {
+          "p": "¿Dónde está: 'No os conforméis a este siglo'?",
+          "r": "Romanos 12:2",
+          "o": [
+            "Efesios 4:23",
+            "Romanos 12:2",
+            "Gálatas 5:16",
+            "Colosenses 3:2"
+          ],
+          "ref": "Romanos 12:2",
+          "exp": "'No os conforméis a este siglo, sino transformaos por medio de la renovación de vuestro entendimiento.' — Rom 12:2"
+        },
+        {
+          "p": "¿Dónde está: 'Si confesamos nuestros pecados, él es fiel y justo para perdonarnos'?",
+          "r": "1 Juan 1:9",
+          "o": [
+            "Hebreos 4:16",
+            "Proverbios 28:13",
+            "1 Juan 1:9",
+            "Santiago 5:16"
+          ],
+          "ref": "1 Juan 1:9",
+          "exp": "'Si confesamos nuestros pecados, él es fiel y justo para perdonar nuestros pecados, y limpiarnos de toda maldad.' — 1 Jua 1:9"
+        },
+        {
+          "p": "¿Dónde está: 'El justo por su fe vivirá'?",
+          "r": "Habacuc 2:4",
+          "o": [
+            "Romanos 1:17",
+            "Habacuc 2:4",
+            "Gálatas 3:11",
+            "Hebreos 10:38"
+          ],
+          "ref": "Habacuc 2:4 / Romanos 1:17",
+          "exp": "'El justo por su fe vivirá.' — Hab 2:4. Esta frase es citada también en Romanos 1:17 y Gálatas 3:11."
+        },
+        {
+          "p": "¿Dónde está: 'Vanidad de vanidades, todo es vanidad'?",
+          "r": "Eclesiastés 1:2",
+          "o": [
+            "Proverbios 31:30",
+            "Job 1:21",
+            "Eclesiastés 1:2",
+            "Salmo 90:9"
+          ],
+          "ref": "Eclesiastés 1:2",
+          "exp": "'Vanidad de vanidades, dijo el Predicador; vanidad de vanidades, todo es vanidad.' — Ecl 1:2"
+        },
+        {
+          "p": "¿Dónde está: 'Yo soy el camino, la verdad y la vida'?",
+          "r": "Juan 14:6",
+          "o": [
+            "Juan 11:25",
+            "Juan 14:6",
+            "Juan 10:9",
+            "Juan 8:12"
+          ],
+          "ref": "Juan 14:6",
+          "exp": "'Jesús le dijo: Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí.' — Jua 14:6"
+        },
+        {
+          "p": "¿Dónde está: 'Más bienaventurado es dar que recibir'?",
+          "r": "Hechos 20:35",
+          "o": [
+            "Lucas 6:38",
+            "2 Corintios 9:7",
+            "Hechos 20:35",
+            "Proverbios 11:24"
+          ],
+          "ref": "Hechos 20:35",
+          "exp": "'Recordando las palabras del Señor Jesús, que dijo: Más bienaventurado es dar que recibir.' — Hec 20:35"
+        },
+        {
+          "p": "¿Dónde está: 'Si Dios es por nosotros, ¿quién contra nosotros?'?",
+          "r": "Romanos 8:31",
+          "o": [
+            "Salmo 118:6",
+            "Hebreos 13:6",
+            "Romanos 8:31",
+            "Filipenses 4:7"
+          ],
+          "ref": "Romanos 8:31",
+          "exp": "'¿Qué, pues, diremos a esto? Si Dios es por nosotros, ¿quién contra nosotros?' — Rom 8:31"
+        },
+        {
+          "p": "¿Dónde está: 'Amarás a tu prójimo como a ti mismo'?",
+          "r": "Levítico 19:18",
+          "o": [
+            "Mateo 22:39",
+            "Marcos 12:31",
+            "Levítico 19:18",
+            "Romanos 13:9"
+          ],
+          "ref": "Levítico 19:18",
+          "exp": "'Amarás a tu prójimo como a ti mismo.' — Lev 19:18. Jesús la cita en Mat 22:39."
+        },
+        {
+          "p": "¿Dónde está: 'En el principio creó Dios los cielos y la tierra'?",
+          "r": "Génesis 1:1",
+          "o": [
+            "Juan 1:1",
+            "Génesis 1:1",
+            "Isaías 40:28",
+            "Proverbios 8:23"
+          ],
+          "ref": "Génesis 1:1",
+          "exp": "'En el principio creó Dios los cielos y la tierra.' — Gén 1:1"
+        },
+        {
+          "p": "¿Dónde está: 'No os afanéis por nada'?",
+          "r": "Filipenses 4:6",
+          "o": [
+            "Mateo 6:25",
+            "Lucas 12:22",
+            "Filipenses 4:6",
+            "1 Pedro 5:7"
+          ],
+          "ref": "Filipenses 4:6",
+          "exp": "'Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración y ruego.' — Fil 4:6"
+        },
+        {
+          "p": "¿Dónde está: 'He aquí, yo estoy a la puerta y llamo'?",
+          "r": "Apocalipsis 3:20",
+          "o": [
+            "Juan 10:9",
+            "Mateo 7:7",
+            "Apocalipsis 3:20",
+            "Lucas 11:9"
+          ],
+          "ref": "Apocalipsis 3:20",
+          "exp": "'He aquí, yo estoy a la puerta y llamo; si alguno oye mi voz y abre la puerta, entraré a él.' — Apo 3:20"
+        },
+        {
+          "p": "¿Dónde está: 'Porque la paga del pecado es muerte, mas la dádiva de Dios es vida eterna'?",
+          "r": "Romanos 6:23",
+          "o": [
+            "1 Corintios 15:22",
+            "Romanos 6:23",
+            "Efesios 2:8",
+            "Gálatas 6:8"
+          ],
+          "ref": "Romanos 6:23",
+          "exp": "'Porque la paga del pecado es muerte, mas la dádiva de Dios es vida eterna en Cristo Jesús Señor nuestro.' — Rom 6:23"
+        },
+        {
+          "p": "¿Dónde está: 'Clama a mí, y yo te responderé'?",
+          "r": "Jeremías 33:3",
+          "o": [
+            "Salmo 91:15",
+            "Mateo 7:7",
+            "Jeremías 33:3",
+            "Isaías 58:9"
+          ],
+          "ref": "Jeremías 33:3",
+          "exp": "'Clama a mí, y yo te responderé, y te enseñaré cosas grandes y ocultas que tú no conoces.' — Jer 33:3"
+        }
+      ]
+    },
+    {
+      "id": "pablo_epistolas",
+      "nombre": "Pablo y Sus Epístolas",
+      "icono": "mail",
+      "color": "#2980B9",
+      "descripcion": "El apóstol Pablo y sus cartas",
+      "preguntas": [
+        {
+          "p": "¿Cuántas epístolas escribió Pablo?",
+          "r": "13",
+          "o": [
+            "11",
+            "12",
+            "13",
+            "14"
+          ],
+          "ref": "NT RVR60",
+          "exp": "Las 13 epístolas de Pablo son: Romanos, 1 y 2 Corintios, Gálatas, Efesios, Filipenses, Colosenses, 1 y 2 Tesalonicenses, 1 y 2 Timoteo, Tito y Filemón."
+        },
+        {
+          "p": "¿Cómo se llamaba Pablo antes de su conversión?",
+          "r": "Saulo",
+          "o": [
+            "Simón",
+            "Saulo",
+            "Silas",
+            "Sóstenes"
+          ],
+          "ref": "Hechos 9:1",
+          "exp": "'Saulo, respirando aún amenazas y muerte contra los discípulos del Señor.' — Hec 9:1"
+        },
+        {
+          "p": "¿Dónde se convirtió Pablo?",
+          "r": "En el camino a Damasco",
+          "o": [
+            "En Jerusalén",
+            "En el camino a Damasco",
+            "En Antioquía",
+            "En Tarso"
+          ],
+          "ref": "Hechos 9:3-4",
+          "exp": "'Mas yendo por el camino, aconteció que al llegar cerca de Damasco, repentinamente le rodeó un resplandor de luz del cielo.' — Hec 9:3"
+        },
+        {
+          "p": "¿Qué le dijo Jesús a Pablo en el camino a Damasco?",
+          "r": "'Saulo, Saulo, ¿por qué me persigues?'",
+          "o": [
+            "'¿Por qué me tratas así?'",
+            "'Saulo, Saulo, ¿por qué me persigues?'",
+            "'Arrepiéntete y cree'",
+            "'Deja de perseguir a mis siervos'"
+          ],
+          "ref": "Hechos 9:4",
+          "exp": "'Y cayendo en tierra, oyó una voz que le decía: Saulo, Saulo, ¿por qué me persigues?' — Hec 9:4"
+        },
+        {
+          "p": "¿Cuál es la epístola más larga de Pablo?",
+          "r": "Romanos",
+          "o": [
+            "1 Corintios",
+            "Romanos",
+            "Efesios",
+            "2 Corintios"
+          ],
+          "ref": "Romanos",
+          "exp": "Romanos es la epístola más extensa de Pablo, con 16 capítulos donde desarrolla la doctrina de la justificación por la fe."
+        },
+        {
+          "p": "¿Qué dice Pablo en Romanos 3:23?",
+          "r": "'Por cuanto todos pecaron, y están destituidos de la gloria de Dios'",
+          "o": [
+            "'La paga del pecado es muerte'",
+            "'Por cuanto todos pecaron, y están destituidos de la gloria de Dios'",
+            "'No hay justo ni aun uno'",
+            "'El que cree en Cristo es libre de la ley'"
+          ],
+          "ref": "Romanos 3:23",
+          "exp": "'Por cuanto todos pecaron, y están destituidos de la gloria de Dios.' — Rom 3:23"
+        },
+        {
+          "p": "¿Qué dice Pablo que es la armadura de Dios?",
+          "r": "Vestíos de toda la armadura para estar firmes contra el diablo",
+          "o": [
+            "Las obras de misericordia",
+            "La oración constante",
+            "Vestíos de toda la armadura para estar firmes contra el diablo",
+            "El conocimiento de la Biblia"
+          ],
+          "ref": "Efesios 6:11",
+          "exp": "'Vestíos de toda la armadura de Dios, para que podáis estar firmes contra las asechanzas del diablo.' — Ef 6:11"
+        },
+        {
+          "p": "¿Dónde estaba Pablo cuando escribió la epístola a los Filipenses?",
+          "r": "En la cárcel",
+          "o": [
+            "En Éfeso",
+            "En Roma libremente",
+            "En la cárcel",
+            "En Corinto"
+          ],
+          "ref": "Filipenses 1:7",
+          "exp": "'Por cuanto me tenéis en el corazón; y en mis prisiones y en la defensa y confirmación del evangelio.' — Fil 1:7"
+        },
+        {
+          "p": "¿Qué describe Pablo como el fruto del Espíritu en Gálatas 5:22?",
+          "r": "Amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza",
+          "o": [
+            "Fe, esperanza, amor",
+            "Amor, gozo y paz solamente",
+            "Amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza",
+            "Sabiduría, entendimiento y consejo"
+          ],
+          "ref": "Gálatas 5:22-23",
+          "exp": "'Mas el fruto del Espíritu es: amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza.' — Gál 5:22-23"
+        },
+        {
+          "p": "¿Qué dice Pablo en 1 Corintios 13:13 sobre la mayor virtud?",
+          "r": "'Y ahora permanecen la fe, la esperanza y el amor, estos tres; pero el mayor de ellos es el amor'",
+          "o": [
+            "'La mayor es la fe'",
+            "'La mayor es la esperanza'",
+            "'Y ahora permanecen la fe, la esperanza y el amor, estos tres; pero el mayor de ellos es el amor'",
+            "'La mayor es la oración'"
+          ],
+          "ref": "1 Corintios 13:13",
+          "exp": "'Y ahora permanecen la fe, la esperanza y el amor, estos tres; pero el mayor de ellos es el amor.' — 1 Cor 13:13"
+        },
+        {
+          "p": "¿Dónde dice Pablo que fue azotado tres veces con varas y apedreado?",
+          "r": "2 Corintios 11:25",
+          "o": [
+            "Hechos 14:19",
+            "2 Corintios 11:25",
+            "Hechos 16:22",
+            "Filipenses 3:8"
+          ],
+          "ref": "2 Corintios 11:25",
+          "exp": "'Tres veces he sido azotado con varas; una vez apedreado; tres veces he padecido naufragio.' — 2 Cor 11:25"
+        },
+        {
+          "p": "¿Qué dice Pablo en Romanos 8:28?",
+          "r": "'A los que aman a Dios, todas las cosas les ayudan a bien'",
+          "o": [
+            "'Todo lo puedo en Cristo'",
+            "'A los que aman a Dios, todas las cosas les ayudan a bien'",
+            "'Nada nos separará del amor de Dios'",
+            "'Dios prueba a los que ama'"
+          ],
+          "ref": "Romanos 8:28",
+          "exp": "'Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien, esto es, a los que conforme a su propósito son llamados.' — Rom 8:28"
+        },
+        {
+          "p": "¿En qué ciudad fue Pablo azotado y encarcelado con Silas?",
+          "r": "Filipos",
+          "o": [
+            "Corinto",
+            "Éfeso",
+            "Filipos",
+            "Tesalónica"
+          ],
+          "ref": "Hechos 16:22-23",
+          "exp": "'Y acometió el pueblo contra ellos; y los magistrados, rasgándoles las ropas, ordenaron azotarles con varas. Después de haberles azotado mucho, los echaron en la cárcel.' — Hec 16:22-23"
+        },
+        {
+          "p": "¿Qué dice Pablo en 2 Timoteo 3:16 sobre toda la Escritura?",
+          "r": "'Es inspirada por Dios y útil para enseñar'",
+          "o": [
+            "'Es la Palabra de los hombres'",
+            "'Es inspirada por Dios y útil para enseñar'",
+            "'Debe interpretarse con sabiduría humana'",
+            "'Es para los judíos solamente'"
+          ],
+          "ref": "2 Timoteo 3:16",
+          "exp": "'Toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia.' — 2 Tim 3:16"
+        },
+        {
+          "p": "¿A qué nación pertenecía Pablo?",
+          "r": "Era ciudadano romano y de la tribu de Benjamín",
+          "o": [
+            "Era griego de nación",
+            "Era judío solamente",
+            "Era ciudadano romano y de la tribu de Benjamín",
+            "Era de Siria"
+          ],
+          "ref": "Hechos 22:27 / Filipenses 3:5",
+          "exp": "'¿Eres tú ciudadano romano? Sí, dijo él.' — Hec 22:27. 'Del linaje de Israel, de la tribu de Benjamín.' — Fil 3:5"
+        }
+      ]
+    },
+    {
+      "id": "salmos",
+      "nombre": "El Libro de los Salmos",
+      "icono": "music_note",
+      "color": "#16A085",
+      "descripcion": "El libro de poesía y alabanza de Israel",
+      "preguntas": [
+        {
+          "p": "¿Cuántos salmos hay en el libro de Salmos?",
+          "r": "150",
+          "o": [
+            "100",
+            "120",
+            "150",
+            "175"
+          ],
+          "ref": "Salmos",
+          "exp": "El libro de Salmos tiene 150 salmos, distribuidos en 5 libros o secciones."
+        },
+        {
+          "p": "¿Quién escribió la mayoría de los salmos?",
+          "r": "David",
+          "o": [
+            "Salomón",
+            "Moisés",
+            "David",
+            "Asaf"
+          ],
+          "ref": "Títulos de Salmos",
+          "exp": "Alrededor de 73 salmos tienen el título 'De David', siendo él el autor principal del salterio."
+        },
+        {
+          "p": "¿Cuál es el salmo más conocido que comienza con 'Jehová es mi pastor'?",
+          "r": "Salmo 23",
+          "o": [
+            "Salmo 1",
+            "Salmo 91",
+            "Salmo 23",
+            "Salmo 22"
+          ],
+          "ref": "Salmo 23:1",
+          "exp": "'Jehová es mi pastor; nada me faltará.' — Sal 23:1"
+        },
+        {
+          "p": "¿Cuál es el salmo más largo de la Biblia?",
+          "r": "Salmo 119",
+          "o": [
+            "Salmo 78",
+            "Salmo 89",
+            "Salmo 119",
+            "Salmo 150"
+          ],
+          "ref": "Salmo 119",
+          "exp": "El Salmo 119 tiene 176 versículos y cada sección corresponde a una letra del alfabeto hebreo."
+        },
+        {
+          "p": "¿Cuál es el salmo más corto de la Biblia?",
+          "r": "Salmo 117",
+          "o": [
+            "Salmo 1",
+            "Salmo 117",
+            "Salmo 100",
+            "Salmo 150"
+          ],
+          "ref": "Salmo 117",
+          "exp": "El Salmo 117 tiene solo 2 versículos: 'Alabad a Jehová, naciones todas... Porque ha engrandecido sobre nosotros su misericordia.'"
+        },
+        {
+          "p": "¿Qué salmo dice: 'El necio dijo en su corazón: No hay Dios'?",
+          "r": "Salmo 14:1",
+          "o": [
+            "Salmo 10:4",
+            "Salmo 14:1",
+            "Salmo 53:1",
+            "Salmo 2:1"
+          ],
+          "ref": "Salmo 14:1",
+          "exp": "'Dice el necio en su corazón: No hay Dios. Se han corrompido, hacen obras abominables.' — Sal 14:1"
+        },
+        {
+          "p": "¿Qué salmo mesíánico comienza: 'Dios mío, Dios mío, ¿por qué me has abandonado'?",
+          "r": "Salmo 22",
+          "o": [
+            "Salmo 16",
+            "Salmo 22",
+            "Salmo 31",
+            "Salmo 69"
+          ],
+          "ref": "Salmo 22:1",
+          "exp": "'Dios mío, Dios mío, ¿por qué me has desamparado? ¿Por qué estás tan lejos de mi salvación?' — Sal 22:1. Jesús citó este salmo en la cruz."
+        },
+        {
+          "p": "¿Qué dice el Salmo 119:11 sobre la Palabra de Dios?",
+          "r": "'En mi corazón he guardado tus dichos, para no pecar contra ti'",
+          "o": [
+            "'Tu Palabra es lámpara a mis pies'",
+            "'En mi corazón he guardado tus dichos, para no pecar contra ti'",
+            "'La Palabra de Dios es perfecta'",
+            "'Tus testimonios son mi deleite'"
+          ],
+          "ref": "Salmo 119:11",
+          "exp": "'En mi corazón he guardado tus dichos, para no pecar contra ti.' — Sal 119:11"
+        },
+        {
+          "p": "¿Qué dice el Salmo 119:105?",
+          "r": "'Lámpara es a mis pies tu palabra, y lumbrera a mi camino'",
+          "o": [
+            "'Tu palabra es verdad'",
+            "'Lámpara es a mis pies tu palabra, y lumbrera a mi camino'",
+            "'Amo tu ley en todo tiempo'",
+            "'Tus juicios son firmes para siempre'"
+          ],
+          "ref": "Salmo 119:105",
+          "exp": "'Lámpara es a mis pies tu palabra, y lumbrera a mi camino.' — Sal 119:105"
+        },
+        {
+          "p": "¿Qué salmo dice: 'El que habita al abrigo del Altísimo'?",
+          "r": "Salmo 91",
+          "o": [
+            "Salmo 23",
+            "Salmo 46",
+            "Salmo 91",
+            "Salmo 121"
+          ],
+          "ref": "Salmo 91:1",
+          "exp": "'El que habita al abrigo del Altísimo morará bajo la sombra del Omnipotente.' — Sal 91:1"
+        },
+        {
+          "p": "¿Cuántas secciones o libros tiene el salterio?",
+          "r": "5",
+          "o": [
+            "3",
+            "4",
+            "5",
+            "7"
+          ],
+          "ref": "Salmos",
+          "exp": "El libro de Salmos se divide en 5 secciones: Salmos 1-41, 42-72, 73-89, 90-106 y 107-150."
+        },
+        {
+          "p": "¿Qué salmo fue escrito por Moisés?",
+          "r": "Salmo 90",
+          "o": [
+            "Salmo 1",
+            "Salmo 72",
+            "Salmo 90",
+            "Salmo 110"
+          ],
+          "ref": "Salmo 90:1",
+          "exp": "'Oración de Moisés, varón de Dios. Señor, tú nos has sido refugio de generación en generación.' — Sal 90:1"
+        },
+        {
+          "p": "¿Qué dice el Salmo 1:1 sobre el hombre bienaventurado?",
+          "r": "No anduvo en consejo de malos, ni estuvo en camino de pecadores",
+          "o": [
+            "Fue a la iglesia siempre",
+            "No anduvo en consejo de malos, ni estuvo en camino de pecadores",
+            "Ayunó y oró cada día",
+            "Dio diezmo siempre"
+          ],
+          "ref": "Salmo 1:1",
+          "exp": "'Bienaventurado el varón que no anduvo en consejo de malos, ni estuvo en camino de pecadores, ni en silla de escarnecedores se ha sentado.' — Sal 1:1"
+        },
+        {
+          "p": "¿Qué salmo dice: 'Alzaré mis ojos a los montes; ¿de dónde vendrá mi socorro?'?",
+          "r": "Salmo 121",
+          "o": [
+            "Salmo 46",
+            "Salmo 91",
+            "Salmo 121",
+            "Salmo 23"
+          ],
+          "ref": "Salmo 121:1",
+          "exp": "'Alzaré mis ojos a los montes; ¿De dónde vendrá mi socorro? Mi socorro viene de Jehová, que hizo los cielos y la tierra.' — Sal 121:1-2"
+        },
+        {
+          "p": "¿Qué salmo dice: 'Cuán bueno y cuán delicioso es habitar los hermanos juntos en armonía'?",
+          "r": "Salmo 133:1",
+          "o": [
+            "Salmo 122:1",
+            "Salmo 133:1",
+            "Salmo 84:1",
+            "Salmo 100:1"
+          ],
+          "ref": "Salmo 133:1",
+          "exp": "'¡Mirad cuán bueno y cuán delicioso es habitar los hermanos juntos en armonía!' — Sal 133:1"
+        }
+      ]
+    },
+    {
+      "id": "historia_israel",
+      "nombre": "Historia de Israel",
+      "icono": "account_balance",
+      "color": "#884EA0",
+      "descripcion": "El recorrido histórico del pueblo de Dios",
+      "preguntas": [
+        {
+          "p": "¿Cuántos años estuvieron los israelitas en Egipto?",
+          "r": "430",
+          "o": [
+            "200",
+            "350",
+            "400",
+            "430"
+          ],
+          "ref": "Éxodo 12:40",
+          "exp": "'El tiempo que los hijos de Israel habitaron en Egipto fue cuatrocientos treinta años.' — Éxo 12:40"
+        },
+        {
+          "p": "¿Cuántos años peregrinó Israel en el desierto?",
+          "r": "40",
+          "o": [
+            "20",
+            "30",
+            "40",
+            "50"
+          ],
+          "ref": "Números 14:33",
+          "exp": "'Y vuestros hijos andarán pastoreando en el desierto cuarenta años.' — Núm 14:33"
+        },
+        {
+          "p": "¿Qué mar cruzaron los israelitas al salir de Egipto?",
+          "r": "El mar Rojo",
+          "o": [
+            "El mar Mediterráneo",
+            "El mar Muerto",
+            "El mar Rojo",
+            "El mar de Galilea"
+          ],
+          "ref": "Éxodo 14:22",
+          "exp": "'Y los hijos de Israel entraron por en medio del mar, en seco, teniendo las aguas como muro a su derecha y a su izquierda.' — Éxo 14:22"
+        },
+        {
+          "p": "¿Quién fue el sucesor de Moisés para entrar a Canaán?",
+          "r": "Josué",
+          "o": [
+            "Caleb",
+            "Josué",
+            "Aarón",
+            "Finees"
+          ],
+          "ref": "Josué 1:1-2",
+          "exp": "'Aconteció después de la muerte de Moisés siervo de Jehová, que Jehová habló a Josué hijo de Nun, servidor de Moisés.' — Jos 1:1"
+        },
+        {
+          "p": "¿Cuántos reyes tuvo el reino unido de Israel?",
+          "r": "3 (Saúl, David y Salomón)",
+          "o": [
+            "2",
+            "3 (Saúl, David y Salomón)",
+            "4",
+            "6"
+          ],
+          "ref": "1 Samuel 10, 2 Samuel 5, 1 Reyes 1",
+          "exp": "Los tres reyes del reino unido fueron Saúl, David y Salomón, antes de la división del reino."
+        },
+        {
+          "p": "¿Cuándo se dividió el reino de Israel?",
+          "r": "Tras la muerte de Salomón",
+          "o": [
+            "Tras la muerte de David",
+            "Tras la muerte de Salomón",
+            "En tiempos de Josué",
+            "Tras la muerte de Saúl"
+          ],
+          "ref": "1 Reyes 12:16-17",
+          "exp": "'Así Israel se rebeló contra la casa de David... e Israel se apartó a sus tiendas.' — 1 Rey 12:16-17"
+        },
+        {
+          "p": "¿Cuánto tiempo reinó David sobre todo Israel?",
+          "r": "33 años en Jerusalén (40 en total)",
+          "o": [
+            "20 años",
+            "30 años",
+            "33 años en Jerusalén (40 en total)",
+            "50 años"
+          ],
+          "ref": "2 Samuel 5:4",
+          "exp": "'Era David de treinta años cuando comenzó a reinar, y reinó cuarenta años. En Hebrón reinó sobre Judá siete años y seis meses, y en Jerusalén reinó treinta y tres años.' — 2 Sam 5:4-5"
+        },
+        {
+          "p": "¿A qué reino llevaron cautivo al reino del Norte (Israel)?",
+          "r": "Asiria",
+          "o": [
+            "Babilonia",
+            "Asiria",
+            "Persia",
+            "Egipto"
+          ],
+          "ref": "2 Reyes 17:6",
+          "exp": "'En el año noveno de Oseas, el rey de Asiria tomó a Samaria, y transportó a Israel a Asiria.' — 2 Rey 17:6"
+        },
+        {
+          "p": "¿A qué reino llevaron cautivo al reino del Sur (Judá)?",
+          "r": "Babilonia",
+          "o": [
+            "Asiria",
+            "Babilonia",
+            "Persia",
+            "Egipto"
+          ],
+          "ref": "2 Reyes 25:1",
+          "exp": "'Y aconteció a los nueve años de su reinado, en el mes décimo... que Nabucodonosor rey de Babilonia vino con todo su ejército contra Jerusalén.' — 2 Rey 25:1"
+        },
+        {
+          "p": "¿Quién permitió a los judíos regresar del cautiverio de Babilonia?",
+          "r": "Ciro, rey de Persia",
+          "o": [
+            "Darío",
+            "Artajerjes",
+            "Ciro, rey de Persia",
+            "Asuero"
+          ],
+          "ref": "Esdras 1:1",
+          "exp": "'En el primer año de Ciro rey de Persia, para que se cumpliese la palabra de Jehová por boca de Jeremías, despertó Jehová el espíritu de Ciro rey de Persia.' — Esd 1:1"
+        },
+        {
+          "p": "¿Quién construyó el primer templo de Dios en Jerusalén?",
+          "r": "Salomón",
+          "o": [
+            "David",
+            "Salomón",
+            "Esdras",
+            "Nehemías"
+          ],
+          "ref": "1 Reyes 6:1",
+          "exp": "'Y en el año cuatrocientos ochenta después que los hijos de Israel salieron de Egipto... comenzó Salomón a edificar la casa de Jehová.' — 1 Rey 6:1"
+        },
+        {
+          "p": "¿Cuántas tribus tuvo Israel?",
+          "r": "12",
+          "o": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "ref": "Génesis 49",
+          "exp": "Israel (Jacob) tuvo 12 hijos, y de ellos surgieron las 12 tribus de Israel."
+        },
+        {
+          "p": "¿Qué profeta confrontó al rey Acab por el caso de Nabot?",
+          "r": "Elías",
+          "o": [
+            "Eliseo",
+            "Elías",
+            "Amós",
+            "Oseas"
+          ],
+          "ref": "1 Reyes 21:17-19",
+          "exp": "'Entonces vino palabra de Jehová a Elías tisbita, diciendo: Levántate, desciende a encontrarte con Acab.' — 1 Rey 21:17-18"
+        },
+        {
+          "p": "¿Qué rey de Israel mandó construir becerros de oro en Dan y Betel?",
+          "r": "Jeroboam",
+          "o": [
+            "Acab",
+            "Jeroboam",
+            "Zimri",
+            "Omri"
+          ],
+          "ref": "1 Reyes 12:28-29",
+          "exp": "'Y habiendo tenido consejo, el rey hizo dos becerros de oro... y dijo: Israel, hete aquí tus dioses, que te hicieron subir de la tierra de Egipto.' — 1 Rey 12:28"
+        }
+      ]
+    },
+    {
+      "id": "milagros",
+      "nombre": "Milagros Bíblicos",
+      "icono": "flash_on",
+      "color": "#F1C40F",
+      "descripcion": "Los grandes milagros registrados en la Biblia",
+      "preguntas": [
+        {
+          "p": "¿Cuántas plagas envió Dios a Egipto?",
+          "r": "10",
+          "o": [
+            "7",
+            "8",
+            "10",
+            "12"
+          ],
+          "ref": "Éxodo 7-12",
+          "exp": "Las 10 plagas de Egipto se registran en Éxodo 7-12: sangre, ranas, piojos, moscas, pestilencia, úlceras, granizo, langostas, tinieblas y muerte de primogénitos."
+        },
+        {
+          "p": "¿Cuál fue la última plaga de Egipto?",
+          "r": "Muerte de los primogénitos",
+          "o": [
+            "Tinieblas",
+            "Langostas",
+            "Granizo",
+            "Muerte de los primogénitos"
+          ],
+          "ref": "Éxodo 12:29",
+          "exp": "'Y aconteció que a la medianoche Jehová hirió a todo primogénito en la tierra de Egipto.' — Éxo 12:29"
+        },
+        {
+          "p": "¿Qué milagro realizó Josué cuando cruzó el río Jordán?",
+          "r": "Las aguas del Jordán se detuvieron",
+          "o": [
+            "El río se secó por completo",
+            "Las aguas del Jordán se detuvieron",
+            "Un puente apareció",
+            "Un ángel los cruzó"
+          ],
+          "ref": "Josué 3:15-16",
+          "exp": "'Y los pies de los sacerdotes que llevaban el arca se mojaron a la orilla del agua... las aguas que venían de arriba se detuvieron.' — Jos 3:15-16"
+        },
+        {
+          "p": "¿Qué milagro ocurrió en Jericó cuando los israelitas marcharon alrededor?",
+          "r": "Los muros cayeron",
+          "o": [
+            "El agua del río se volvió dulce",
+            "Los enemigos huyeron solos",
+            "Los muros cayeron",
+            "El ejército fue cegado"
+          ],
+          "ref": "Josué 6:20",
+          "exp": "'Entonces el pueblo gritó, y los sacerdotes tocaron las trompetas... y el muro se derrumbó.' — Jos 6:20"
+        },
+        {
+          "p": "¿Qué milagro hizo Elías en el Monte Carmelo contra los profetas de Baal?",
+          "r": "Fuego de Dios consumió el holocausto empapado de agua",
+          "o": [
+            "Fuego de Dios consumió el holocausto empapado de agua",
+            "Hizo llover después de 3 años",
+            "Abrió un pozo de agua",
+            "Multiplicó la harina de la viuda"
+          ],
+          "ref": "1 Reyes 18:38",
+          "exp": "'Entonces cayó fuego de Jehová, y consumió el holocausto, la leña, las piedras y el polvo, y aun lamió el agua que estaba en la zanja.' — 1 Rey 18:38"
+        },
+        {
+          "p": "¿Qué milagro hizo Eliseo con el hijo de la sunamita?",
+          "r": "Lo resucitó de entre los muertos",
+          "o": [
+            "Lo sanó de lepra",
+            "Lo salvó de ahogarse",
+            "Lo resucitó de entre los muertos",
+            "Le dio vista al ciego"
+          ],
+          "ref": "2 Reyes 4:35",
+          "exp": "'Entonces el niño estornudó siete veces, y abrió sus ojos.' — 2 Rey 4:35"
+        },
+        {
+          "p": "¿Qué milagro hizo Jesús en la boda de Caná?",
+          "r": "Convirtió agua en vino",
+          "o": [
+            "Multiplicó el pan",
+            "Sanó a un paralítico",
+            "Convirtió agua en vino",
+            "Calmó una tempestad"
+          ],
+          "ref": "Juan 2:9",
+          "exp": "'Cuando el maestresala probó el agua hecha vino... el maestresala llamó al esposo.' — Jua 2:9"
+        },
+        {
+          "p": "¿Con cuántos panes y cuántos peces alimentó Jesús a 5000 hombres?",
+          "r": "5 panes y 2 peces",
+          "o": [
+            "7 panes y 3 peces",
+            "5 panes y 2 peces",
+            "10 panes y 5 peces",
+            "3 panes y 2 peces"
+          ],
+          "ref": "Mateo 14:17-21",
+          "exp": "'Y Jesús tomó los cinco panes y los dos peces, y levantando los ojos al cielo, bendijo.' — Mat 14:19"
+        },
+        {
+          "p": "¿Qué pasó con los restos de los panes tras la multiplicación?",
+          "r": "Recogieron 12 cestas llenas",
+          "o": [
+            "Se comió todo sin sobrar nada",
+            "Recogieron 12 cestas llenas",
+            "Recogieron 7 canastas",
+            "Desaparecieron milagrosamente"
+          ],
+          "ref": "Mateo 14:20",
+          "exp": "'Y comieron todos, y se saciaron; y recogieron lo que sobró de los pedazos, doce cestas llenas.' — Mat 14:20"
+        },
+        {
+          "p": "¿Qué milagro realizó Jesús en el mar de Galilea cuando hubo tormenta?",
+          "r": "Reprendió el viento y el mar, y se hizo grande bonanza",
+          "o": [
+            "Oró y el viento paró solo",
+            "Reprendió el viento y el mar, y se hizo grande bonanza",
+            "Llevó la barca a tierra por milagro",
+            "Calmó a los discípulos solamente"
+          ],
+          "ref": "Mateo 8:26",
+          "exp": "'Entonces, levantándose, reprendió a los vientos y al mar; y se hizo grande bonanza.' — Mat 8:26"
+        },
+        {
+          "p": "¿A quién resucitó Jesús que ya llevaba 4 días muerto?",
+          "r": "Lázaro",
+          "o": [
+            "El hijo de la viuda de Naín",
+            "La hija de Jairo",
+            "Lázaro",
+            "El hijo de la sunamita"
+          ],
+          "ref": "Juan 11:39-44",
+          "exp": "'Jesús entonces, otra vez indignado en sí mismo, vino al sepulcro... Lázaro, ven fuera. Y el que había muerto salió.' — Jua 11:38,43-44"
+        },
+        {
+          "p": "¿Qué pasó cuando Pedro y Juan sanaron al cojo en el templo?",
+          "r": "Se le llenaron de vigor los pies y tobillos y saltó",
+          "o": [
+            "Caminó despacio al principio",
+            "Se le llenaron de vigor los pies y tobillos y saltó",
+            "Cayó al suelo y luego se levantó",
+            "Primero se curó una pierna y luego la otra"
+          ],
+          "ref": "Hechos 3:7-8",
+          "exp": "'Y tomándole por la mano derecha le levantó; y al momento se le afirmaron los pies y tobillos; y saltando, se puso en pie y anduvo.' — Hec 3:7-8"
+        },
+        {
+          "p": "¿Qué milagro ocurrió cuando Pablo y Silas oraban en la cárcel de Filipos?",
+          "r": "Un terremoto sacudió los cimientos y se abrieron las puertas",
+          "o": [
+            "Un ángel los sacó volando",
+            "Un terremoto sacudió los cimientos y se abrieron las puertas",
+            "El carcelero se durmió y escaparon",
+            "Dios los hizo invisibles"
+          ],
+          "ref": "Hechos 16:26",
+          "exp": "'Entonces sobrevino de repente un gran terremoto... las puertas se abrieron, y las cadenas de todos se soltaron.' — Hec 16:26"
+        },
+        {
+          "p": "¿Qué señal realizó Moisés ante el faraón al inicio de las plagas?",
+          "r": "Su vara se convirtió en serpiente",
+          "o": [
+            "Dividió el río Nilo",
+            "Hizo llover fuego",
+            "Su vara se convirtió en serpiente",
+            "Hizo aparecer nubes en el cielo"
+          ],
+          "ref": "Éxodo 7:10",
+          "exp": "'Y Aarón echó su vara delante de Faraón y delante de sus siervos, y se hizo culebra.' — Éxo 7:10"
+        }
+      ]
+    },
+    {
+      "id": "geografia",
+      "nombre": "Geografía Bíblica",
+      "icono": "map",
+      "color": "#E67E22",
+      "descripcion": "Lugares y ciudades del mundo bíblico",
+      "preguntas": [
+        {
+          "p": "¿En qué río fue bautizado Jesús?",
+          "r": "El Jordán",
+          "o": [
+            "El Éufrates",
+            "El Nilo",
+            "El Jordán",
+            "El Tigris"
+          ],
+          "ref": "Mateo 3:13",
+          "exp": "'Entonces Jesús vino de Galilea a Juan al Jordán, para ser bautizado por él.' — Mat 3:13"
+        },
+        {
+          "p": "¿Qué ciudad fue destruida junto con Sodoma?",
+          "r": "Gomorra",
+          "o": [
+            "Jericó",
+            "Gomorra",
+            "Adma",
+            "Babilonia"
+          ],
+          "ref": "Génesis 19:24",
+          "exp": "'Entonces Jehová hizo llover sobre Sodoma y sobre Gomorra azufre y fuego.' — Gén 19:24"
+        },
+        {
+          "p": "¿En qué monte dio Dios los Diez Mandamientos?",
+          "r": "Sinaí",
+          "o": [
+            "Carmelo",
+            "Hermón",
+            "Sinaí",
+            "Horeb"
+          ],
+          "ref": "Éxodo 19:11",
+          "exp": "'Porque al tercer día Jehová descenderá a ojos de todo el pueblo sobre el monte Sinaí.' — Éxo 19:11. Sinaí y Horeb son el mismo monte."
+        },
+        {
+          "p": "¿En qué ciudad fue crucificado Jesús?",
+          "r": "Jerusalén",
+          "o": [
+            "Nazaret",
+            "Belén",
+            "Capernaum",
+            "Jerusalén"
+          ],
+          "ref": "Lucas 23:33",
+          "exp": "'Y cuando llegaron al lugar que se llama La Calavera, le crucificaron allí.' — Luc 23:33. Gólgota estaba fuera de Jerusalén."
+        },
+        {
+          "p": "¿En qué ciudad se convirtió Saulo de Tarso?",
+          "r": "En el camino a Damasco",
+          "o": [
+            "En Jerusalén",
+            "En Antioquía",
+            "En el camino a Damasco",
+            "En Tarso"
+          ],
+          "ref": "Hechos 9:3",
+          "exp": "'Y yendo por el camino, aconteció que al llegar cerca de Damasco, repentinamente le rodeó un resplandor de luz del cielo.' — Hec 9:3"
+        },
+        {
+          "p": "¿Qué ciudad antigua fue conquistada con trompetas y gritos en el libro de Josué?",
+          "r": "Jericó",
+          "o": [
+            "Hai",
+            "Jericó",
+            "Siquem",
+            "Hebrón"
+          ],
+          "ref": "Josué 6:20",
+          "exp": "'Y el muro se derrumbó. El pueblo subió contra la ciudad, cada uno derecho hacia adelante, y la tomaron.' — Jos 6:20"
+        },
+        {
+          "p": "¿En qué monte se transfiguró Jesús?",
+          "r": "El texto dice 'un monte alto' (tradición: el Hermón o Tabor)",
+          "o": [
+            "Monte Carmelo",
+            "Monte Sinaí",
+            "Monte de los Olivos",
+            "El texto dice 'un monte alto' (tradición: el Hermón o Tabor)"
+          ],
+          "ref": "Mateo 17:1",
+          "exp": "'Y después de seis días, Jesús tomó a Pedro, a Jacobo y a Juan su hermano, y los llevó aparte a un monte alto.' — Mat 17:1"
+        },
+        {
+          "p": "¿Dónde subió Jesús al cielo después de la resurrección?",
+          "r": "Monte de los Olivos",
+          "o": [
+            "Templo de Jerusalén",
+            "Monte Sinaí",
+            "Monte de los Olivos",
+            "Belén"
+          ],
+          "ref": "Hechos 1:12",
+          "exp": "'Entonces volvieron a Jerusalén desde el monte que se llama del Olivar, el cual está cerca de Jerusalén.' — Hec 1:12"
+        },
+        {
+          "p": "¿En qué ciudad fue fundada la primera iglesia cristiana?",
+          "r": "Jerusalén",
+          "o": [
+            "Antioquía",
+            "Éfeso",
+            "Jerusalén",
+            "Corinto"
+          ],
+          "ref": "Hechos 2:1-4",
+          "exp": "'Cuando llegó el día de Pentecostés, estaban todos unánimes juntos.' — Hec 2:1. La primera iglesia nació en Jerusalén."
+        },
+        {
+          "p": "¿En qué ciudad fueron llamados por primera vez 'cristianos' los discípulos?",
+          "r": "Antioquía",
+          "o": [
+            "Corinto",
+            "Éfeso",
+            "Jerusalén",
+            "Antioquía"
+          ],
+          "ref": "Hechos 11:26",
+          "exp": "'Y a los discípulos se les llamó cristianos por primera vez en Antioquía.' — Hec 11:26"
+        },
+        {
+          "p": "¿Desde qué isla escribió Juan el Apocalipsis?",
+          "r": "Patmos",
+          "o": [
+            "Chipre",
+            "Malta",
+            "Patmos",
+            "Rodas"
+          ],
+          "ref": "Apocalipsis 1:9",
+          "exp": "'Yo Juan, vuestro hermano... estaba en la isla llamada Patmos, por causa de la palabra de Dios.' — Apo 1:9"
+        },
+        {
+          "p": "¿En qué río fue encontrado el niño Moisés?",
+          "r": "El Nilo",
+          "o": [
+            "El Jordán",
+            "El Éufrates",
+            "El Nilo",
+            "El Tigris"
+          ],
+          "ref": "Éxodo 2:3",
+          "exp": "'Y no pudiendo ocultarle más tiempo, tomó una arquilla de juncos... y la colocó entre los juncos a la orilla del río.' — Éxo 2:3"
+        },
+        {
+          "p": "¿En qué ciudad vivió Jesús la mayor parte de su vida?",
+          "r": "Nazaret",
+          "o": [
+            "Belén",
+            "Capernaum",
+            "Jerusalén",
+            "Nazaret"
+          ],
+          "ref": "Lucas 2:51",
+          "exp": "'Y descendió con ellos, y volvió a Nazaret, y estaba sujeto a ellos.' — Luc 2:51"
+        },
+        {
+          "p": "¿Qué ciudad se conoce como la ciudad de David?",
+          "r": "Belén (y también Jerusalén)",
+          "o": [
+            "Hebrón",
+            "Belén (y también Jerusalén)",
+            "Jericó",
+            "Nazaret"
+          ],
+          "ref": "1 Samuel 20:6 / Lucas 2:4",
+          "exp": "Belén es llamada 'ciudad de David' por ser su lugar de origen (Luc 2:4), y Jerusalén también por ser donde reinó (2 Sam 5:9)."
+        },
+        {
+          "p": "¿En qué mar se produjo la tempestad que calmó Jesús?",
+          "r": "El mar de Galilea (lago de Genesaret)",
+          "o": [
+            "El mar Mediterráneo",
+            "El mar Muerto",
+            "El mar de Galilea (lago de Genesaret)",
+            "El mar Rojo"
+          ],
+          "ref": "Marcos 4:39",
+          "exp": "'Y levantándose, reprendió al viento, y dijo al mar: Calla, enmudece. Y cesó el viento, y se hizo grande bonanza.' — Mar 4:39"
+        }
+      ]
+    },
+    {
+      "id": "evangelios_comparados",
+      "nombre": "Los Cuatro Evangelios Comparados",
+      "icono": "compare",
+      "color": "#2ECC71",
+      "descripcion": "Diferencias y semejanzas entre los cuatro evangelios",
+      "preguntas": [
+        {
+          "p": "¿Qué evangelio comienza con una genealogía de Jesús desde Abraham?",
+          "r": "Mateo",
+          "o": [
+            "Marcos",
+            "Mateo",
+            "Lucas",
+            "Juan"
+          ],
+          "ref": "Mateo 1:1",
+          "exp": "'Libro de la genealogía de Jesucristo, hijo de David, hijo de Abraham.' — Mat 1:1"
+        },
+        {
+          "p": "¿Cuál es el único evangelio que no menciona el nacimiento de Jesús?",
+          "r": "Marcos",
+          "o": [
+            "Mateo",
+            "Marcos",
+            "Lucas",
+            "Juan"
+          ],
+          "ref": "Marcos 1:1",
+          "exp": "Marcos comienza directamente con el ministerio de Juan el Bautista y el bautismo de Jesús, sin relatar el nacimiento."
+        },
+        {
+          "p": "¿Qué evangelio menciona el nacimiento de Jesús con ángeles y pastores?",
+          "r": "Lucas",
+          "o": [
+            "Mateo",
+            "Marcos",
+            "Lucas",
+            "Juan"
+          ],
+          "ref": "Lucas 2:8-15",
+          "exp": "'Había pastores en la misma región... Y el ángel les dijo: Os doy nuevas de gran gozo.' — Luc 2:8-10"
+        },
+        {
+          "p": "¿Qué evangelio menciona los magos del oriente y la estrella?",
+          "r": "Mateo",
+          "o": [
+            "Mateo",
+            "Marcos",
+            "Lucas",
+            "Juan"
+          ],
+          "ref": "Mateo 2:1-2",
+          "exp": "'Unos magos vinieron del oriente a Jerusalén, diciendo: ¿Dónde está el rey de los judíos, que ha nacido? Porque su estrella hemos visto en el oriente.' — Mat 2:1-2"
+        },
+        {
+          "p": "¿Cuál es el evangelio más corto?",
+          "r": "Marcos",
+          "o": [
+            "Mateo",
+            "Marcos",
+            "Lucas",
+            "Juan"
+          ],
+          "ref": "Marcos",
+          "exp": "Marcos tiene 16 capítulos, siendo el más breve de los cuatro evangelios, con un estilo directo y veloz."
+        },
+        {
+          "p": "¿Cuál es el evangelio más largo?",
+          "r": "Lucas",
+          "o": [
+            "Mateo",
+            "Marcos",
+            "Lucas",
+            "Juan"
+          ],
+          "ref": "Lucas",
+          "exp": "Lucas tiene 24 capítulos y es el evangelio con mayor número de versículos."
+        },
+        {
+          "p": "¿Qué evangelio comienza: 'En el principio era el Verbo'?",
+          "r": "Juan",
+          "o": [
+            "Mateo",
+            "Marcos",
+            "Lucas",
+            "Juan"
+          ],
+          "ref": "Juan 1:1",
+          "exp": "'En el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios.' — Jua 1:1"
+        },
+        {
+          "p": "¿En qué evangelio Jesús dice las 8 bienaventuranzas completas?",
+          "r": "Mateo",
+          "o": [
+            "Mateo",
+            "Marcos",
+            "Lucas",
+            "Juan"
+          ],
+          "ref": "Mateo 5:3-10",
+          "exp": "'Bienaventurados los pobres en espíritu... los que lloran... los mansos...' — Mat 5:3-10. Lucas solo menciona 4 bienaventuranzas (Luc 6:20-22)."
+        },
+        {
+          "p": "¿Qué evangelio registra la parábola del hijo pródigo?",
+          "r": "Lucas",
+          "o": [
+            "Mateo",
+            "Marcos",
+            "Lucas",
+            "Juan"
+          ],
+          "ref": "Lucas 15:11",
+          "exp": "'También dijo: Un hombre tenía dos hijos.' — Luc 15:11. Esta parábola solo aparece en Lucas."
+        },
+        {
+          "p": "¿En qué evangelio está la parábola del buen samaritano?",
+          "r": "Lucas",
+          "o": [
+            "Mateo",
+            "Marcos",
+            "Lucas",
+            "Juan"
+          ],
+          "ref": "Lucas 10:30",
+          "exp": "'Respondiendo Jesús, dijo: Un hombre descendía de Jerusalén a Jericó.' — Luc 10:30. Esta parábola es exclusiva de Lucas."
+        },
+        {
+          "p": "¿Qué evangelio registra la resurrección de Lázaro?",
+          "r": "Juan",
+          "o": [
+            "Mateo",
+            "Marcos",
+            "Lucas",
+            "Juan"
+          ],
+          "ref": "Juan 11:43",
+          "exp": "'Y habiendo dicho esto, clamó a gran voz: ¡Lázaro, ven fuera!' — Jua 11:43. Solo Juan relata este milagro."
+        },
+        {
+          "p": "¿Qué evangelio menciona que Jesús lloró?",
+          "r": "Juan",
+          "o": [
+            "Mateo",
+            "Marcos",
+            "Lucas",
+            "Juan"
+          ],
+          "ref": "Juan 11:35",
+          "exp": "'Jesús lloró.' — Jua 11:35. Este es el versículo más corto de la Biblia."
+        },
+        {
+          "p": "¿Qué evangelio registra las palabras 'Yo soy el camino, la verdad y la vida'?",
+          "r": "Juan",
+          "o": [
+            "Mateo",
+            "Marcos",
+            "Lucas",
+            "Juan"
+          ],
+          "ref": "Juan 14:6",
+          "exp": "'Jesús le dijo: Yo soy el camino, y la verdad, y la vida.' — Jua 14:6. Esta declaración es exclusiva del evangelio de Juan."
+        },
+        {
+          "p": "¿Qué evangelio es el único sinóptico que registra la transfiguración y no fue escrito por un apóstol?",
+          "r": "Marcos",
+          "o": [
+            "Mateo",
+            "Marcos",
+            "Lucas",
+            "Juan"
+          ],
+          "ref": "Marcos 9:2",
+          "exp": "Marcos no fue uno de los doce apóstoles pero sí registra la transfiguración en 9:2. Lucas tampoco fue apóstol, pero Marcos se distingue por su relación con Pedro."
+        },
+        {
+          "p": "¿Cuáles son los tres evangelios llamados 'sinópticos'?",
+          "r": "Mateo, Marcos y Lucas",
+          "o": [
+            "Mateo, Lucas y Juan",
+            "Mateo, Marcos y Lucas",
+            "Marcos, Lucas y Juan",
+            "Mateo, Marcos y Juan"
+          ],
+          "ref": "NT RVR60",
+          "exp": "Mateo, Marcos y Lucas son llamados 'sinópticos' porque comparten muchos relatos paralelos y pueden leerse 'con el mismo ojo' (synopsis en griego)."
+        }
+      ]
+    },
+    {
+      "id": "hechos_apostoles",
+      "nombre": "Hechos de los Apóstoles",
+      "icono": "groups",
+      "color": "#E74C3C",
+      "descripcion": "El nacimiento y expansión de la iglesia primitiva",
+      "preguntas": [
+        {
+          "p": "¿Quién escribió el libro de Hechos?",
+          "r": "Lucas",
+          "o": [
+            "Pablo",
+            "Juan",
+            "Lucas",
+            "Marcos"
+          ],
+          "ref": "Hechos 1:1",
+          "exp": "'En el primer tratado, oh Teófilo, hablé acerca de todas las cosas que Jesús comenzó a hacer.' — Hec 1:1. Lucas es el autor tanto del evangelio como de Hechos."
+        },
+        {
+          "p": "¿Cuántos días después de la resurrección ascendió Jesús al cielo?",
+          "r": "40",
+          "o": [
+            "7",
+            "14",
+            "40",
+            "50"
+          ],
+          "ref": "Hechos 1:3",
+          "exp": "'A quienes también, después de haber padecido, se presentó vivo con muchas pruebas indubitables, apareciéndoseles durante cuarenta días.' — Hec 1:3"
+        },
+        {
+          "p": "¿Cuántas personas se bautizaron el día de Pentecostés?",
+          "r": "Alrededor de 3000",
+          "o": [
+            "500",
+            "1000",
+            "Alrededor de 3000",
+            "5000"
+          ],
+          "ref": "Hechos 2:41",
+          "exp": "'Así que, los que recibieron su palabra fueron bautizados; y se añadieron aquel día como tres mil personas.' — Hec 2:41"
+        },
+        {
+          "p": "¿Quién fue el primer diácono mártir de la iglesia?",
+          "r": "Esteban",
+          "o": [
+            "Felipe",
+            "Esteban",
+            "Nicanor",
+            "Timón"
+          ],
+          "ref": "Hechos 7:59",
+          "exp": "'Y apedreaban a Esteban, mientras él invocaba y decía: Señor Jesús, recibe mi espíritu.' — Hec 7:59"
+        },
+        {
+          "p": "¿Qué ciudad fue el centro de la primera misión al mundo gentil?",
+          "r": "Antioquía de Siria",
+          "o": [
+            "Éfeso",
+            "Corinto",
+            "Antioquía de Siria",
+            "Damasco"
+          ],
+          "ref": "Hechos 13:1-3",
+          "exp": "'Había entonces en la iglesia que estaba en Antioquía, profetas y maestros... Apartadme a Bernabé y a Saulo para la obra.' — Hec 13:1-2"
+        },
+        {
+          "p": "¿Quién convirtió a la primera mujer en Europa según Hechos 16?",
+          "r": "Pablo convirtió a Lidia en Filipos",
+          "o": [
+            "Pedro convirtió a una griega",
+            "Pablo convirtió a Lidia en Filipos",
+            "Juan convirtió a Priscila",
+            "Bernabé convirtió a una romana"
+          ],
+          "ref": "Hechos 16:14",
+          "exp": "'Entonces una mujer llamada Lidia, vendedora de púrpura... escuchaba; y el Señor abrió el corazón de ella.' — Hec 16:14"
+        },
+        {
+          "p": "¿Qué pasó cuando Pablo predicó en el Areópago de Atenas?",
+          "r": "Algunos creyeron, pero la mayoría se burló de la resurrección",
+          "o": [
+            "Todos creyeron",
+            "Algunos creyeron, pero la mayoría se burló de la resurrección",
+            "Fue apresado inmediatamente",
+            "No hubo ninguna respuesta"
+          ],
+          "ref": "Hechos 17:32-34",
+          "exp": "'Pero cuando oyeron lo de la resurrección de los muertos, unos se burlaban... mas algunos creyeron.' — Hec 17:32-34"
+        },
+        {
+          "p": "¿Cuántos años predicó Pablo en Éfeso?",
+          "r": "2 años en la escuela de Tiranno",
+          "o": [
+            "1 año",
+            "2 años en la escuela de Tiranno",
+            "3 años",
+            "5 años"
+          ],
+          "ref": "Hechos 19:10",
+          "exp": "'Y esto continuó por espacio de dos años, de manera que todos los que habitaban en Asia, judíos y griegos, oyeron la palabra del Señor Jesús.' — Hec 19:10"
+        },
+        {
+          "p": "¿Qué le pasó a Pablo en Malta cuando le mordió una víbora?",
+          "r": "La sacudió y no le pasó nada",
+          "o": [
+            "Cayó enfermo y sanó",
+            "La sacudió y no le pasó nada",
+            "Murió y resucitó",
+            "Fue sanado por la oración de los malteses"
+          ],
+          "ref": "Hechos 28:5",
+          "exp": "'Pero él, sacudiendo la víbora en el fuego, ningún daño padeció.' — Hec 28:5"
+        },
+        {
+          "p": "¿Ante quiénes se defendió Pablo en su discurso del capítulo 26 de Hechos?",
+          "r": "Ante el rey Agripa",
+          "o": [
+            "Ante el César en Roma",
+            "Ante el sumo sacerdote",
+            "Ante el rey Agripa",
+            "Ante el Sanedrín"
+          ],
+          "ref": "Hechos 26:1",
+          "exp": "'Entonces Agripa dijo a Pablo: Se te permite hablar por ti mismo.' — Hec 26:1"
+        },
+        {
+          "p": "¿Quién bautizó al etíope eunuco en Hechos 8?",
+          "r": "Felipe el evangelista",
+          "o": [
+            "Pedro",
+            "Pablo",
+            "Felipe el evangelista",
+            "Ananías"
+          ],
+          "ref": "Hechos 8:38",
+          "exp": "'Y mandó parar el carro; y descendieron ambos al agua, Felipe y el eunuco, y le bautizó.' — Hec 8:38"
+        },
+        {
+          "p": "¿Cuántos años estuvo Pablo en Roma bajo arresto domiciliario al final de Hechos?",
+          "r": "2 años",
+          "o": [
+            "1 año",
+            "2 años",
+            "3 años",
+            "5 años"
+          ],
+          "ref": "Hechos 28:30",
+          "exp": "'Y Pablo permaneció dos años enteros en una casa alquilada, y recibía a todos los que a él venían.' — Hec 28:30"
+        },
+        {
+          "p": "¿Qué le dijo Jesús a Ananías sobre Pablo antes de enviarlo a encontrarse con él?",
+          "r": "'Instrumento escogido me es éste, para llevar mi nombre en presencia de los gentiles'",
+          "o": [
+            "'No le temas, es un hombre cambiado'",
+            "'Instrumento escogido me es éste, para llevar mi nombre en presencia de los gentiles'",
+            "'Dile que se arrepienta de sus pecados'",
+            "'Ve y ora por él para que recobre la vista'"
+          ],
+          "ref": "Hechos 9:15",
+          "exp": "'Instrumento escogido me es éste, para llevar mi nombre en presencia de los gentiles, y de reyes, y de los hijos de Israel.' — Hec 9:15"
+        },
+        {
+          "p": "¿Qué sucedió cuando Pedro predicó en casa de Cornelio en Hechos 10?",
+          "r": "El Espíritu Santo cayó sobre los gentiles antes de bautizarse",
+          "o": [
+            "Los gentiles primero se bautizaron y luego recibieron el Espíritu",
+            "El Espíritu Santo cayó sobre los gentiles antes de bautizarse",
+            "Cornelio fue sanado de enfermedad",
+            "Pedro habló en lenguas desconocidas"
+          ],
+          "ref": "Hechos 10:44-46",
+          "exp": "'Mientras aún hablaba Pedro estas palabras, el Espíritu Santo cayó sobre todos los que oían el discurso.' — Hec 10:44"
+        }
+      ]
+    },
+    {
+      "id": "epistolas_nt",
+      "nombre": "Epístolas del Nuevo Testamento",
+      "icono": "drafts",
+      "color": "#8E44AD",
+      "descripcion": "Las cartas del NT y sus enseñanzas",
+      "preguntas": [
+        {
+          "p": "¿Qué epístola dice que el amor es el mayor de los dones?",
+          "r": "1 Corintios 13",
+          "o": [
+            "Romanos 12",
+            "Efesios 3",
+            "1 Corintios 13",
+            "Colosenses 3"
+          ],
+          "ref": "1 Corintios 13:13",
+          "exp": "'Y ahora permanecen la fe, la esperanza y el amor, estos tres; pero el mayor de ellos es el amor.' — 1 Cor 13:13"
+        },
+        {
+          "p": "¿Qué epístola habla de la armadura espiritual?",
+          "r": "Efesios 6",
+          "o": [
+            "Romanos 13",
+            "2 Corintios 10",
+            "Efesios 6",
+            "Filipenses 4"
+          ],
+          "ref": "Efesios 6:11-17",
+          "exp": "'Vestíos de toda la armadura de Dios... el cinto de la verdad, la coraza de justicia, el calzado del evangelio...' — Ef 6:11-15"
+        },
+        {
+          "p": "¿Qué epístola describe a Jesús como sumo sacerdote según el orden de Melquisedec?",
+          "r": "Hebreos",
+          "o": [
+            "Romanos",
+            "Gálatas",
+            "Efesios",
+            "Hebreos"
+          ],
+          "ref": "Hebreos 7:17",
+          "exp": "'Tú eres sacerdote para siempre, según el orden de Melquisedec.' — Heb 7:17"
+        },
+        {
+          "p": "¿Qué epístola contiene el himno de la humillación de Cristo en Filipenses 2?",
+          "r": "Filipenses",
+          "o": [
+            "Colosenses",
+            "Filipenses",
+            "1 Timoteo",
+            "Romanos"
+          ],
+          "ref": "Filipenses 2:6-8",
+          "exp": "'El cual, siendo en forma de Dios, no estimó el ser igual a Dios como cosa a que aferrarse, sino que se despojó a sí mismo.' — Fil 2:6-7"
+        },
+        {
+          "p": "¿Qué epístola habla de la resurrección en detalle como fundamento del evangelio?",
+          "r": "1 Corintios 15",
+          "o": [
+            "Romanos 6",
+            "1 Corintios 15",
+            "1 Tesalonicenses 4",
+            "Filipenses 3"
+          ],
+          "ref": "1 Corintios 15:17",
+          "exp": "'Y si Cristo no resucitó, vuestra fe es vana; aún estáis en vuestros pecados.' — 1 Cor 15:17"
+        },
+        {
+          "p": "¿Qué dice Hebreos 9:22 sobre el perdón?",
+          "r": "'Sin derramamiento de sangre no se hace remisión'",
+          "o": [
+            "'La sangre cubre los pecados'",
+            "'Sin derramamiento de sangre no se hace remisión'",
+            "'El sacrificio limpia toda culpa'",
+            "'El perdón viene por la fe sola'"
+          ],
+          "ref": "Hebreos 9:22",
+          "exp": "'Y casi todo es purificado, según la ley, con sangre; y sin derramamiento de sangre no se hace remisión.' — Heb 9:22"
+        },
+        {
+          "p": "¿Qué epístola enseña que los creyentes son 'embajadores en nombre de Cristo'?",
+          "r": "2 Corintios",
+          "o": [
+            "Efesios",
+            "Gálatas",
+            "2 Corintios",
+            "1 Pedro"
+          ],
+          "ref": "2 Corintios 5:20",
+          "exp": "'Así que, somos embajadores en nombre de Cristo, como si Dios rogase por medio de nosotros.' — 2 Cor 5:20"
+        },
+        {
+          "p": "¿Qué epístola dice 'no os dejéis engañar, Dios no puede ser burlado'?",
+          "r": "Gálatas",
+          "o": [
+            "Santiago",
+            "Judas",
+            "Gálatas",
+            "Romanos"
+          ],
+          "ref": "Gálatas 6:7",
+          "exp": "'No os engañéis; Dios no puede ser burlado: pues todo lo que el hombre sembrare, eso también segará.' — Gál 6:7"
+        },
+        {
+          "p": "¿Qué dice Romanos 8:1?",
+          "r": "'Ninguna condenación hay para los que están en Cristo Jesús'",
+          "o": [
+            "'Justificados somos por la fe'",
+            "'Ninguna condenación hay para los que están en Cristo Jesús'",
+            "'El que cree tiene vida eterna'",
+            "'Los que son de Cristo crucificaron la carne'"
+          ],
+          "ref": "Romanos 8:1",
+          "exp": "'Ahora, pues, ninguna condenación hay para los que están en Cristo Jesús, los que no andan conforme a la carne, sino conforme al Espíritu.' — Rom 8:1"
+        },
+        {
+          "p": "¿Qué dice Santiago 1:2-3 sobre las tentaciones?",
+          "r": "'Tened por sumo gozo cuando os halléis en diversas pruebas, sabiendo que la prueba de vuestra fe produce paciencia'",
+          "o": [
+            "'Resistid las tentaciones y huiréis'",
+            "'Tened por sumo gozo cuando os halléis en diversas pruebas, sabiendo que la prueba de vuestra fe produce paciencia'",
+            "'La tentación viene de Dios para probaros'",
+            "'El que cae en tentación no tiene fe'"
+          ],
+          "ref": "Santiago 1:2-3",
+          "exp": "'Hermanos míos, tened por sumo gozo cuando os halléis en diversas pruebas, sabiendo que la prueba de vuestra fe produce paciencia.' — Stg 1:2-3"
+        },
+        {
+          "p": "¿Qué dice 1 Pedro 2:9 sobre los creyentes?",
+          "r": "'Linaje escogido, real sacerdocio, nación santa, pueblo adquirido por Dios'",
+          "o": [
+            "'Siervos de Dios y herederos del cielo'",
+            "'Linaje escogido, real sacerdocio, nación santa, pueblo adquirido por Dios'",
+            "'Los llamados y elegidos de Dios'",
+            "'El cuerpo de Cristo en la tierra'"
+          ],
+          "ref": "1 Pedro 2:9",
+          "exp": "'Mas vosotros sois linaje escogido, real sacerdocio, nación santa, pueblo adquirido por Dios.' — 1 Ped 2:9"
+        },
+        {
+          "p": "¿Qué dice Judas versículo 3 sobre la fe?",
+          "r": "'Que contendáis ardientemente por la fe que ha sido una vez dada a los santos'",
+          "o": [
+            "'Guardad vuestra fe en secreto'",
+            "'Que contendáis ardientemente por la fe que ha sido una vez dada a los santos'",
+            "'La fe se demuestra con obras'",
+            "'Manteneos firmes en la gracia'"
+          ],
+          "ref": "Judas 1:3",
+          "exp": "'Amados, por la gran solicitud que tenía de escribiros acerca de nuestra común salvación, me ha sido necesario escribiros exhortándoos que contendáis ardientemente por la fe que ha sido una vez dada a los santos.' — Jud 1:3"
+        },
+        {
+          "p": "¿Qué dice 1 Juan 4:1 sobre los espíritus?",
+          "r": "'No creáis a todo espíritu, sino probad los espíritus si son de Dios'",
+          "o": [
+            "'Todos los espíritus que confiesan a Jesús son de Dios'",
+            "'No creáis a todo espíritu, sino probad los espíritus si son de Dios'",
+            "'Alejad los espíritus malos en oración'",
+            "'Los espíritus de los profetas están sujetos a los profetas'"
+          ],
+          "ref": "1 Juan 4:1",
+          "exp": "'Amados, no creáis a todo espíritu, sino probad los espíritus si son de Dios; porque muchos falsos profetas han salido por el mundo.' — 1 Jua 4:1"
+        },
+        {
+          "p": "¿Qué promesa hace Apocalipsis 3:20?",
+          "r": "'Si alguno oye mi voz y abre la puerta, entraré a él'",
+          "o": [
+            "'El que venciere heredará todo'",
+            "'Si alguno oye mi voz y abre la puerta, entraré a él'",
+            "'El que permanezca hasta el fin será salvo'",
+            "'He aquí vengo pronto'"
+          ],
+          "ref": "Apocalipsis 3:20",
+          "exp": "'He aquí, yo estoy a la puerta y llamo; si alguno oye mi voz y abre la puerta, entraré a él, y cenaré con él, y él conmigo.' — Apo 3:20"
+        }
+      ]
+    },
+    {
+      "id": "datos_curiosos",
+      "nombre": "Datos Curiosos Bíblicos",
+      "icono": "lightbulb",
+      "color": "#F39C12",
+      "descripcion": "Hechos interesantes y verificables de la Biblia",
+      "preguntas": [
+        {
+          "p": "¿Cuál es el versículo más corto de la Biblia?",
+          "r": "'Jesús lloró' — Juan 11:35",
+          "o": [
+            "'Regocijaos siempre' — 1 Tes 5:16",
+            "'Jesús lloró' — Juan 11:35",
+            "'Dios es amor' — 1 Jua 4:8",
+            "'Amén' — Apocalipsis 22:21"
+          ],
+          "ref": "Juan 11:35",
+          "exp": "'Jesús lloró.' — Jua 11:35. En español tiene solo dos palabras; en griego también es el más breve: 'ἐδάκρυσεν ὁ Ἰησοῦς'."
+        },
+        {
+          "p": "¿Cuántos libros tiene la Biblia completa?",
+          "r": "66",
+          "o": [
+            "60",
+            "63",
+            "66",
+            "73"
+          ],
+          "ref": "Biblia RVR60",
+          "exp": "La Biblia protestante tiene 66 libros: 39 en el Antiguo Testamento y 27 en el Nuevo Testamento."
+        },
+        {
+          "p": "¿Cuál es el versículo central de la Biblia?",
+          "r": "Salmo 118:8",
+          "o": [
+            "Salmo 23:1",
+            "Juan 3:16",
+            "Salmo 118:8",
+            "Proverbios 3:5"
+          ],
+          "ref": "Salmo 118:8",
+          "exp": "El Salmo 118:8 es considerado el versículo central de la Biblia: 'Mejor es confiar en Jehová que confiar en el hombre.'"
+        },
+        {
+          "p": "¿Cuántas veces aparece la palabra 'amor' en el NT (RVR60)?",
+          "r": "Más de 200 veces",
+          "o": [
+            "Menos de 50",
+            "Entre 50 y 100",
+            "Entre 100 y 150",
+            "Más de 200 veces"
+          ],
+          "ref": "NT RVR60",
+          "exp": "El término 'amor' y sus variantes aparecen con mucha frecuencia en el NT, especialmente en los escritos joánicos y paulinos."
+        },
+        {
+          "p": "¿Cuál es el libro de la Biblia que no menciona directamente el nombre de Dios?",
+          "r": "Ester",
+          "o": [
+            "Rut",
+            "Ester",
+            "Cantares",
+            "Eclesiastés"
+          ],
+          "ref": "Ester",
+          "exp": "El libro de Ester es notable porque no menciona explícitamente el nombre de Dios ni Jehová en ninguno de sus versículos, aunque su providencia se aprecia en la trama."
+        },
+        {
+          "p": "¿Qué personaje vivió más años según la Biblia?",
+          "r": "Matusalén (969 años)",
+          "o": [
+            "Adán (930 años)",
+            "Noé (950 años)",
+            "Matusalén (969 años)",
+            "Set (912 años)"
+          ],
+          "ref": "Génesis 5:27",
+          "exp": "'Y fueron todos los días de Matusalén novecientos sesenta y nueve años; y murió.' — Gén 5:27"
+        },
+        {
+          "p": "¿Cuántas personas en la Biblia fueron trasladadas al cielo sin morir?",
+          "r": "2 (Enoc y Elías)",
+          "o": [
+            "1",
+            "2 (Enoc y Elías)",
+            "3",
+            "4"
+          ],
+          "ref": "Génesis 5:24 / 2 Reyes 2:11",
+          "exp": "Enoc: 'Caminó, pues, Enoc con Dios, y desapareció, porque le llevó Dios.' — Gén 5:24. Elías fue llevado en carro de fuego — 2 Rey 2:11."
+        },
+        {
+          "p": "¿Cuántos versículos tiene el libro de Salmos?",
+          "r": "2461",
+          "o": [
+            "1500",
+            "2000",
+            "2461",
+            "3000"
+          ],
+          "ref": "Salmos",
+          "exp": "El libro de Salmos tiene 150 capítulos y aproximadamente 2461 versículos, siendo el libro más largo de la Biblia."
+        },
+        {
+          "p": "¿En qué idiomas fue escrita originalmente la Biblia?",
+          "r": "Hebreo, arameo y griego",
+          "o": [
+            "Solo hebreo",
+            "Hebreo y griego",
+            "Hebreo, arameo y griego",
+            "Latín y griego"
+          ],
+          "ref": "Biblia",
+          "exp": "El AT fue escrito principalmente en hebreo (con algunas partes en arameo: Dan 2:4-7:28, Esd 4:8-6:18). El NT fue escrito en griego koiné."
+        },
+        {
+          "p": "¿Cuál es el libro más vendido de la historia de la humanidad?",
+          "r": "La Biblia",
+          "o": [
+            "El Corán",
+            "La Biblia",
+            "El Quijote",
+            "El Capital"
+          ],
+          "ref": "Historia",
+          "exp": "La Biblia es el libro más traducido y más vendido de toda la historia, con más de 5 mil millones de copias distribuidas."
+        },
+        {
+          "p": "¿A cuántos idiomas ha sido traducida la Biblia completa?",
+          "r": "Más de 700",
+          "o": [
+            "Más de 100",
+            "Más de 300",
+            "Más de 500",
+            "Más de 700"
+          ],
+          "ref": "Sociedades Bíblicas Unidas",
+          "exp": "Según las Sociedades Bíblicas Unidas, la Biblia completa ha sido traducida a más de 700 idiomas, y partes de ella a más de 3000 idiomas."
+        },
+        {
+          "p": "¿Cuántos autores humanos escribieron la Biblia aproximadamente?",
+          "r": "Más de 40 escritores humanos",
+          "o": [
+            "12",
+            "20",
+            "35",
+            "Más de 40"
+          ],
+          "ref": "Biblia",
+          "exp": "La Biblia fue escrita por más de 40 autores humanos a lo largo de unos 1600 años, siendo Dios el inspirador: \"Toda la Escritura es inspirada por Dios.\" — 2 Tim 3:16"
+        },
+        {
+          "p": "¿Cuánto tiempo aproximado tardó en escribirse la Biblia completa?",
+          "r": "Aproximadamente 1500 años",
+          "o": [
+            "500 años",
+            "1000 años",
+            "Aproximadamente 1500 años",
+            "2000 años"
+          ],
+          "ref": "Historia bíblica",
+          "exp": "Desde Moisés (aprox. 1400 a.C.) hasta Juan (aprox. 95 d.C.), la Biblia tardó alrededor de 1500 años en completarse."
+        },
+        {
+          "p": "¿Quién escribió más libros del NT?",
+          "r": "Pablo (13 epístolas)",
+          "o": [
+            "Juan (5 libros)",
+            "Pablo (13 epístolas)",
+            "Lucas (2 libros)",
+            "Pedro (2 epístolas)"
+          ],
+          "ref": "NT RVR60",
+          "exp": "Pablo escribió 13 epístolas. Juan escribió 5 libros (evangelio, 3 epístolas, Apocalipsis). Lucas escribió 2 (evangelio y Hechos)."
+        },
+        {
+          "p": "¿Cuál es la ciudad más mencionada en la Biblia?",
+          "r": "Jerusalén",
+          "o": [
+            "Babilonia",
+            "Egipto",
+            "Jerusalén",
+            "Roma"
+          ],
+          "ref": "Biblia RVR60",
+          "exp": "Jerusalén aparece mencionada más de 800 veces en la Biblia, siendo la ciudad más nombrada en todo el texto bíblico."
+        }
+      ]
+    }
+  ]
+}
