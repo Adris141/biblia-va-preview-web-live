@@ -1,19 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <base href="/">
+  <base href="/biblia-va-preview-web-live/">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Vara de Aarón</title>
+  <style>
+    body { margin:0; padding:20px; background:#000; color:#fff; font-family:Arial; }
+    h1 { font-size: 24px; }
+  </style>
 </head>
-<body style="margin:0;padding:20px;background:#000;color:#fff;font-family:Arial;">
+<body>
   <h1>VARA DE AARÓN</h1>
   <p>Cargando aplicación...</p>
   <p id="status">Iniciando...</p>
   
   <script>
-    document.getElementById('status').textContent = 'Cargando Flutter...';
-    console.log('Loading flutter_bootstrap.js');
+    document.getElementById('status').textContent = 'Esperando Flutter...';
   </script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
